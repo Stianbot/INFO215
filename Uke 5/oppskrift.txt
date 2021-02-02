@@ -1,0 +1,23 @@
+Det vi gjorde på seminar i dag:
+
+1. Lagde virtual environment (eller gjorde Pycharm gjøre det for oss)
+2. Lagde et Django prosjekt (mysite)
+3. Lagde en Django app (myapp)
+    a. La appen til mysite/settings.py
+    b. Lagde template mappe mysite/templates
+    c. Lagde sti til templates-mappen (mysite/settings.py)
+    d. Lagde index.html template (mysite/templates/index.html)
+    e. Lagde view for index.html (myapp/views.py)
+4. Lagde en ny Django app i samme prosjekt: films
+    a. La appen til mysite/settings.py
+    b. Lagde en model (films/models.py) med feltene: title, length, year
+        I. Lagde migrering py(thon(3)) manage.py makemigrations
+        II. Migrete py(thon(3)) manage.py migrate
+    c. Lagde superbruker py(thon(3)) createsuperuser
+        I. Lagde brukernavn
+        II. Lagde passord
+    d. La til mulighet til å opprette filmer til admin (via models) films/admin.py
+    e. Lagde tre filmer til databasen via localhost:8888/admin
+    f. Lagde view for å vise frem filmene på nettsiden films/views.py
+    g. Lagde template til ny side, som brukes av punkt f. template/filmer
+    h. Lagde sti slik at filmer-siden vises via locahost:888/film (mysite/urls.py)

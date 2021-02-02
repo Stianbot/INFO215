@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Liste over filmer</title>
+</head>
+<body>
+
+    <h1>Liste over filmer</h1>
+    <ul>
+        {% for list in film_list %}
+        <li>Tittel: <b>{{list}}</b> Spilletid: <b>{{list.length}}</b> minutter. År: <b>{{list.year}}</b>.</li>
+        {% endfor %}
+    </ul>
+
+    <p>Denne siden vises via "films"-django-appen, se films/views.py for mer info. Se også films/models for mer info.</p>
+
+</body>
+</html>

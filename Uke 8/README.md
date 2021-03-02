@@ -1,4 +1,4 @@
-#Viktig
+# Viktig
 Før du bruker noe av denne koden:
 lim inn følgende i ``items.py`` filen din: ``CLOSESPIDER_PAGECOUNT = 15``.
 Dette gjør at crawling spiders du lager ikke besøker mer enn 15 sider.

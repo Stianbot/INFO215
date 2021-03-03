@@ -1,6 +1,6 @@
 # Viktig
 Før du bruker noe av denne koden:
-lim inn følgende i ``items.py`` filen din: ``CLOSESPIDER_PAGECOUNT = 15``.
+lim inn følgende i ``settings.py`` filen din: ``CLOSESPIDER_PAGECOUNT = 15``.
 Dette gjør at crawling spiders du lager ikke besøker mer enn 15 sider.
 Legg merke til at ``simple_crawling_spider_0.py`` kjører helt til den blir stoppet
 om ikke denne kommandoen er tilstede i ``items.py``.

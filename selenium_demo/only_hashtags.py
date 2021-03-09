@@ -53,7 +53,8 @@ def find_hashtag(hashtag):
             # Removes the hashtag("#") leaving only the text.
             result.append((url, hashtag_text[1:]))
 
-    return result
+    # Return as set to remove duplicate links
+    return set(result)
 
 
 # Calls on the created function.

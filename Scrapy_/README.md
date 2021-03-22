@@ -20,7 +20,7 @@ Grunnen til dette er at den ikke er i miljøet som gjør at den fungerer.
 Bruk koden som inspirasjon. Se på kommentarene hva koden gjør.
 Se på elementer ved koden og implementer det i egne Scrapy-prosjekter.
 
-##Filer
+## Filer
 * ``simple_spider_0.py``er en enkel spider som henter første overskrift
 fra tre wikipedia-sider. Her brukes ``start_request()``
 * ``simple_spider_1.py``er en enkel spider. Her brukes

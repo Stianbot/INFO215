@@ -2,3 +2,4 @@ rest.py
 venv
 /selenium_demo/geckodriver.exe
 /selenium_demo/geckodriver.log
+/BeautifulSoup_/test.py

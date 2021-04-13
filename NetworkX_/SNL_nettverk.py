@@ -23,7 +23,6 @@ def get_page(url):
         dead_links.append(url)
 
 
-
 n = get_page(countries[0])
 
 def get_links(page):
@@ -48,7 +47,7 @@ def get_links(page):
 first_step = get_links(n)
 
 
-def deeper(data, limit=10):
+def deeper(data, limit=20):
 
     for link in data["urls"][:limit]:
         try:
@@ -71,7 +70,6 @@ print(visited)
 
 
 G = nx.Graph()
-
 G.add_nodes_from(all_nodes)
 G.add_edges_from(all_edges)
 

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="#langrenn" />
+    <node id="#ski" />
+    <node id="#ClinicalValidationStudy" />
+    <node id="#digitalhealth" />
+    <node id="#wearables" />
+    <node id="#PFF" />
+    <node id="#spring" />
+    <node id="#norwegiangameawards" />
+    <node id="#freemasons" />
+    <node id="#nga21" />
+    <node id="#frontend" />
+    <node id="#electron" />
+    <node id="#job" />
+    <node id="#picture" />
+    <node id="#educator" />
+    <node id="#ntnu" />
+    <node id="#BYNR" />
+    <node id="#April7th" />
+    <node id="#stillsnowing" />
+    <node id="#eptntnu" />
+    <node id="#NTNU" />
+    <node id="#Norway" />
+    <node id="#Mechanical" />
+    <node id="#Engineering" />
+    <node id="#Jobs" />
+    <node id="#Systems" />
+    <node id="#Oil" />
+    <node id="#and" />
+    <node id="#Gas" />
+    <node id="#Energy" />
+    <node id="#Manufacturing" />
+    <node id="#Industrial" />
+    <node id="#Trondheim" />
+    <node id="#Stavanger" />
+    <edge source="#langrenn" target="#Trondheim" />
+    <edge source="#ski" target="#Trondheim" />
+    <edge source="#ClinicalValidationStudy" target="#Trondheim" />
+    <edge source="#digitalhealth" target="#Trondheim" />
+    <edge source="#wearables" target="#Trondheim" />
+    <edge source="#PFF" target="#Trondheim" />
+    <edge source="#spring" target="#Trondheim" />
+    <edge source="#norwegiangameawards" target="#Trondheim" />
+    <edge source="#freemasons" target="#Trondheim" />
+    <edge source="#nga21" target="#Trondheim" />
+    <edge source="#frontend" target="#Trondheim" />
+    <edge source="#electron" target="#Trondheim" />
+    <edge source="#job" target="#Trondheim" />
+    <edge source="#picture" target="#Trondheim" />
+    <edge source="#educator" target="#Trondheim" />
+    <edge source="#ntnu" target="#Trondheim" />
+    <edge source="#BYNR" target="#Trondheim" />
+    <edge source="#April7th" target="#Trondheim" />
+    <edge source="#stillsnowing" target="#Trondheim" />
+    <edge source="#eptntnu" target="#Trondheim" />
+    <edge source="#NTNU" target="#Trondheim" />
+    <edge source="#Norway" target="#Trondheim" />
+    <edge source="#Mechanical" target="#Stavanger" />
+    <edge source="#Engineering" target="#Stavanger" />
+    <edge source="#Jobs" target="#Stavanger" />
+    <edge source="#Systems" target="#Stavanger" />
+    <edge source="#Oil" target="#Stavanger" />
+    <edge source="#and" target="#Stavanger" />
+    <edge source="#Gas" target="#Stavanger" />
+    <edge source="#Energy" target="#Stavanger" />
+    <edge source="#Manufacturing" target="#Stavanger" />
+    <edge source="#Industrial" target="#Stavanger" />
+  </graph>
+</graphml>

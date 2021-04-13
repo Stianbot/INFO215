@@ -1,12 +1,11 @@
 from urllib.request import urlopen
-from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 import networkx as nx
 import matplotlib.pyplot as plt
-import plotly.graph_objects as go
 
 
-countries = ["https://snl.no/Norge","https://snl.no/Tyskland","https://snl.no/Russland"]
+countries = ["https://snl.no/Norge","https://snl.no/Sverige","https://snl.no/Danmark"]
+parties = ["https://snl.no/Arbeiderpartiet", "https://snl.no/Senterpartiet","https://snl.no/H%C3%B8yre",]
 
 all_nodes = []
 all_edges = []
@@ -22,8 +21,6 @@ def get_page(url):
     except:
         dead_links.append(url)
 
-
-n = get_page(countries[0])
 
 def get_links(page):
     old_current = page.find(class_="page-title__heading-text").get_text()
@@ -44,10 +41,9 @@ def get_links(page):
 
     return data
 
-first_step = get_links(n)
 
 
-def deeper(data, limit=20):
+def deeper(data, limit=10):
 
     for link in data["urls"][:limit]:
         try:
@@ -60,7 +56,19 @@ def deeper(data, limit=20):
         except:
             continue
 
-deeper(first_step)
+
+#n = get_page(countries[0])
+#first_step = get_links(n)
+#deeper(first_step)
+
+def program(list_of_urls):
+    for i in list_of_urls:
+        p = get_page(i)
+        y = get_links(p)
+        deeper(y)
+
+
+program(parties)
 
 all_nodes = list(set(all_nodes))
 print(all_nodes, len(all_nodes))
@@ -70,9 +78,10 @@ print(visited)
 
 
 G = nx.Graph()
+
 G.add_nodes_from(all_nodes)
 G.add_edges_from(all_edges)
 
 nx.draw(G)
-nx.write_graphml(G,"nettverk.graphml")
+nx.write_graphml(G,"graphs/AP_H_SP.graphml")
 plt.show()

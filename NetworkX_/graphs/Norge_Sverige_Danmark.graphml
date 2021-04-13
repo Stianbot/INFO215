@@ -1,0 +1,2672 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Finlands historie"/>
+<node id="opplysningstiden"/>
+<node id="Poul Schlüter"/>
+<node id="Norges internasjonale forbindelser"/>
+<node id="spetter"/>
+<node id="Moderaterna"/>
+<node id="polarsirkelen"/>
+<node id="Mål og vekt i Norge"/>
+<node id="russisk"/>
+<node id="rep"/>
+<node id="svingninger"/>
+<node id="Østlandet"/>
+<node id="Skogbruk"/>
+<node id="Danmarks politiske system"/>
+<node id="nasjonalhelgen"/>
+<node id="Trondheim"/>
+<node id="England"/>
+<node id="Mellom-Europa"/>
+<node id="råvarer"/>
+<node id="Øst"/>
+<node id="rev"/>
+<node id="Per Ung"/>
+<node id="petroleum"/>
+<node id="kastanje"/>
+<node id="klostre"/>
+<node id="SS"/>
+<node id="Håkon 6"/>
+<node id="Yngre steinalder"/>
+<node id="Leif Ove Andsnes"/>
+<node id="patrioter"/>
+<node id="Mika Waltari"/>
+<node id="Arne Garborg"/>
+<node id="Nord-Makedonia"/>
+<node id="rype"/>
+<node id="De britiske øyer"/>
+<node id="kjernekraftanlegg"/>
+<node id="Planteliv i Danmark"/>
+<node id="Lindesnes"/>
+<node id="ferskvannsfisk"/>
+<node id="Storebælt"/>
+<node id="unionsoppløsningen i 1905"/>
+<node id="Holocaust"/>
+<node id="evangelisk"/>
+<node id="Tysklands historie"/>
+<node id="universitet"/>
+<node id="semittisk"/>
+<node id="jazz"/>
+<node id="Pommern"/>
+<node id="ballettmester"/>
+<node id="grevling"/>
+<node id="konjunkturer"/>
+<node id="Mjøsa"/>
+<node id="Babettes gæstebud"/>
+<node id="Svinhufvud"/>
+<node id="Dyreliv i Danmark"/>
+<node id="Kjeld Abell"/>
+<node id="Skole og utdanning i Finland"/>
+<node id="Religion i Danmark"/>
+<node id="Kongehuset"/>
+<node id="demokrati"/>
+<node id="kvarts"/>
+<node id="abbor"/>
+<node id="Vest-Tyskland"/>
+<node id="glasskunst"/>
+<node id="Vaskebjørn"/>
+<node id="kommuner"/>
+<node id="Edvard Grieg"/>
+<node id="bergartene"/>
+<node id="status quo"/>
+<node id="fjærfe"/>
+<node id="Sikkerhetsrådet"/>
+<node id="Øst-Tyskland"/>
+<node id="ugler"/>
+<node id="Märta Tikkanen"/>
+<node id="Ferskvannsfisk i Norge"/>
+<node id="ulv"/>
+<node id="Litauen"/>
+<node id="Dag Solstad"/>
+<node id="sølv"/>
+<node id="Nato"/>
+<node id="ringsel"/>
+<node id="Færøyene"/>
+<node id="Fremskridtspartiet"/>
+<node id="Svartehavet"/>
+<node id="Lofoten"/>
+<node id="TWh"/>
+<node id="Gabriel Axel"/>
+<node id="Johan Sebastian Welhaven"/>
+<node id="Donau"/>
+<node id="Trøndelag"/>
+<node id="nasjonalsang"/>
+<node id="haffene"/>
+<node id="Henrik Wergeland"/>
+<node id="Magnus den gode"/>
+<node id="velferdsstat"/>
+<node id="Øst-Grønland"/>
+<node id="Lund"/>
+<node id="Poul Henningsen"/>
+<node id="Hans Christian Andersen"/>
+<node id="jordbruk"/>
+<node id="Odense"/>
+<node id="Jylland"/>
+<node id="Neva"/>
+<node id="trettiårskrigen"/>
+<node id="Djursland"/>
+<node id="Peters"/>
+<node id="grønlandsk"/>
+<node id="statsministeren"/>
+<node id="Wilhelm I"/>
+<node id="Snøhetta"/>
+<node id="NSDAP"/>
+<node id="Vättern"/>
+<node id="Norge"/>
+<node id="kommunister"/>
+<node id="personalunion"/>
+<node id="svearnes"/>
+<node id="Moldova"/>
+<node id="Pater Noster-skjærene"/>
+<node id="ender"/>
+<node id="Norges politiske system"/>
+<node id="demokratiske"/>
+<node id="sagalitteraturen"/>
+<node id="Finlands litteratur"/>
+<node id="midnattssol"/>
+<node id="selarter"/>
+<node id="oktoberrevolusjonen"/>
+<node id="pengehusholdning"/>
+<node id="Skagerrak"/>
+<node id="Folkeforbundet"/>
+<node id="måkefugler"/>
+<node id="koalisjonsregjering"/>
+<node id="østblokken"/>
+<node id="Riksdagen"/>
+<node id="Olsen-banden"/>
+<node id="Gustav Wied"/>
+<node id="Alvar Aalto"/>
+<node id="hardrock"/>
+<node id="Europarådet"/>
+<node id="Kalevala"/>
+<node id="Heidelberg"/>
+<node id="Poteter"/>
+<node id="Berlingske Tidende"/>
+<node id="Wisła"/>
+<node id="Verdens handelsorganisasjon"/>
+<node id="hybridbiler"/>
+<node id="Nord-Ostsee-Kanal"/>
+<node id="commedia dell'arte"/>
+<node id="Agder"/>
+<node id="Rhein"/>
+<node id="Bonn"/>
+<node id="Peter Høeg"/>
+<node id="Skåne"/>
+<node id="Norges"/>
+<node id="optiske"/>
+<node id="The Shadows"/>
+<node id="parlamentariske"/>
+<node id="Warszawapakten"/>
+<node id="Harald Hardråde"/>
+<node id="rein"/>
+<node id="faunaen"/>
+<node id="taigabeltet"/>
+<node id="arkitektur i Sverige"/>
+<node id="Snorre Sturlason"/>
+<node id="avleiringer"/>
+<node id="Musikk i Finland"/>
+<node id="symfoniorkestre"/>
+<node id="Tysklands geografi"/>
+<node id="Potsdamavtalen"/>
+<node id="Nobelprisen i litteratur"/>
+<node id="Harald Lander"/>
+<node id="Pelle Erobreren"/>
+<node id="Finlands befolkning"/>
+<node id="mårhund"/>
+<node id="Mogens Glistrup"/>
+<node id="domstolene"/>
+<node id="snøspurv"/>
+<node id="Isaac Wacklin"/>
+<node id="Ringkøbing Fjord"/>
+<node id="Torne älv"/>
+<node id="primærnæringene"/>
+<node id="Sveriges landformer"/>
+<node id="subarktisk"/>
+<node id="Storbritannia"/>
+<node id="kråke"/>
+<node id="Danmarks geografi"/>
+<node id="Mynt i Norge"/>
+<node id="ekorn"/>
+<node id="skjære"/>
+<node id="Hviterussland"/>
+<node id="Albania"/>
+<node id="den kalde krigen"/>
+<node id="Daugava"/>
+<node id="Pattedyr i Norge"/>
+<node id="fotball"/>
+<node id="Jean Sibelius"/>
+<node id="Olav 4s"/>
+<node id="Danmarks litteratur"/>
+<node id="Frankrike"/>
+<node id="Hollænderdybet"/>
+<node id="det tysk-romerske rike"/>
+<node id="Musikk i Norge"/>
+<node id="Ålborg"/>
+<node id="eksilstyre fra London"/>
+<node id="vassdrag"/>
+<node id="forholdstallsvalg"/>
+<node id="Varde"/>
+<node id="temperert klima"/>
+<node id="Ludvig Mathias Lindeman"/>
+<node id="eneveldet"/>
+<node id="lavlandet"/>
+<node id="Skjern Å"/>
+<node id="nedbør"/>
+<node id="Kypros"/>
+<node id="Rügen"/>
+<node id="Dans i Norge"/>
+<node id="Søren Kragh-Jacobsen"/>
+<node id="fjellkjeder"/>
+<node id="Lappobevegelsen"/>
+<node id="verneplikt"/>
+<node id="Usedom"/>
+<node id="Elsass"/>
+<node id="Jon Fosse"/>
+<node id="barskoger"/>
+<node id="Søren Kierkegaard"/>
+<node id="Parlamentet"/>
+<node id="Fimreite"/>
+<node id="mellomistid"/>
+<node id="gaupe"/>
+<node id="skogbruk"/>
+<node id="eik"/>
+<node id="Svend Estridssøn"/>
+<node id="Dyreliv i Tyskland"/>
+<node id="Karl"/>
+<node id="Bob Dylan"/>
+<node id="Max-Planck"/>
+<node id="nynorsk"/>
+<node id="Den kaledonske fjellkjedefolding"/>
+<node id="Ekstra Bladet"/>
+<node id="kalkstein"/>
+<node id="Japan"/>
+<node id="Olav Haraldsson"/>
+<node id="vikingtiden"/>
+<node id="sysselsettingen"/>
+<node id="Norge/Noreg – etymologi"/>
+<node id="Stiklestad"/>
+<node id="Kongespeilet"/>
+<node id="Arendal"/>
+<node id="Mariager Fjord"/>
+<node id="karplanter"/>
+<node id="Sveriges klima"/>
+<node id="Kaukasus"/>
+<node id="Helle Thorning-Schmidt"/>
+<node id="padder"/>
+<node id="Ivo Caprino"/>
+<node id="statskirke"/>
+<node id="dansk"/>
+<node id="Eero Saarinen"/>
+<node id="Amerika"/>
+<node id="Finlands nasjonalsang"/>
+<node id="hogst"/>
+<node id="Rettsvesen i Norge"/>
+<node id="Det norske kongehuset"/>
+<node id="Sverre Sigurdsson"/>
+<node id="sink"/>
+<node id="Mellom-Amerika"/>
+<node id="Nordsjøen"/>
+<node id="Konsentrasjonsleirer"/>
+<node id="Skottland"/>
+<node id="valgmonarki"/>
+<node id="Rana Gruber AS"/>
+<node id="Vest-Europa"/>
+<node id="Erna Solberg"/>
+<node id="Frederikshavn"/>
+<node id="Tornerose"/>
+<node id="indoiranske"/>
+<node id="Polhavet"/>
+<node id="yngre steinalder"/>
+<node id="Bjørnstjerne Bjørnson"/>
+<node id="Jan Kjærstad"/>
+<node id="Jugoslavia"/>
+<node id="færøysk"/>
+<node id="Norsk språkhistorie"/>
+<node id="separatfred"/>
+<node id="parlamentarisme"/>
+<node id="estisk"/>
+<node id="Kiel"/>
+<node id="Finlands Geografi"/>
+<node id="Die Zeit"/>
+<node id="Bild"/>
+<node id="havbruk"/>
+<node id="Oslofjorden"/>
+<node id="Gesta Danorum"/>
+<node id="bisamrotte"/>
+<node id="Havets fauna i Norge"/>
+<node id="ublikker"/>
+<node id="nasjonalisme"/>
+<node id="Johan Herman Wessel"/>
+<node id="kobolt"/>
+<node id="Köln"/>
+<node id="Danmarks geologi"/>
+<node id="tangostil"/>
+<node id="Norges geografi"/>
+<node id="nordsamisk"/>
+<node id="Klima i Tyskland"/>
+<node id="vanadium"/>
+<node id="Ven"/>
+<node id="naturstein"/>
+<node id="Henrik Pontoppidan"/>
+<node id="Nøtteknekkeren"/>
+<node id="fjellene"/>
+<node id="siste istid"/>
+<node id="Partnerskap for fred"/>
+<node id="temperert"/>
+<node id="geologi"/>
+<node id="middelalderens"/>
+<node id="Estland"/>
+<node id="lagdømmer"/>
+<node id="finsk-ugriske"/>
+<node id="lav"/>
+<node id="Slovakia"/>
+<node id="Biscayabuktas"/>
+<node id="kjernevåpen"/>
+<node id="svovel"/>
+<node id="delstat"/>
+<node id="formannskapslovene"/>
+<node id="Antarktis"/>
+<node id="Glomma"/>
+<node id="Lilleasia"/>
+<node id="EØS"/>
+<node id="Nils Aas"/>
+<node id="Bille August"/>
+<node id="minoriteten"/>
+<node id="romantikken"/>
+<node id="konkurranseevne"/>
+<node id="lydrike under Danmark"/>
+<node id="region"/>
+<node id="universiteter"/>
+<node id="statsbankerott"/>
+<node id="Oslo"/>
+<node id="vaskebjørn"/>
+<node id="ettkammersystem"/>
+<node id="Europa"/>
+<node id="Samferdsel i Norge"/>
+<node id="Bosnia-Hercegovina"/>
+<node id="Jon Christensen"/>
+<node id="nobelpriser"/>
+<node id="tidlig middelalder"/>
+<node id="Seinäjoki"/>
+<node id="elektroteknisk"/>
+<node id="tundravegetasjon"/>
+<node id="Kongeå"/>
+<node id="München"/>
+<node id="målformer"/>
+<node id="sand"/>
+<node id="Norges høyeste fjelltopper"/>
+<node id="Socialdemokraterna"/>
+<node id="Gustav Vigeland"/>
+<node id="skjærgård"/>
+<node id="Saimaa"/>
+<node id="sedimentære bergarter"/>
+<node id="utenriksminister"/>
+<node id="orrfugl"/>
+<node id="kvensk"/>
+<node id="Johann Friedrich Struensee"/>
+<node id="Finland"/>
+<node id="Smygehuk"/>
+<node id="Amalie Skram"/>
+<node id="pinnsvin"/>
+<node id="villsvin"/>
+<node id="Habsburgerne"/>
+<node id="Håkon 5s"/>
+<node id="Halti"/>
+<node id="EFTA"/>
+<node id="Heimevernet"/>
+<node id="Otto I"/>
+<node id="OECD"/>
+<node id="Sovjetunionen"/>
+<node id="Kronborg slott"/>
+<node id="Teater i Danmark"/>
+<node id="monarkier"/>
+<node id="design"/>
+<node id="Tysklands forsvar"/>
+<node id="Sosiale forhold i Norge"/>
+<node id="Dortmund"/>
+<node id="Malmø"/>
+<node id="Kronologisk oversikt over Norges historie"/>
+<node id="prekambriske"/>
+<node id="Kaspiske senkning"/>
+<node id="Pysen"/>
+<node id="17. mai"/>
+<node id="statsråder"/>
+<node id="gylne bulle"/>
+<node id="Sjøforsvaret"/>
+<node id="Norge under andre verdenskrig"/>
+<node id="sultan"/>
+<node id="Dogme95"/>
+<node id="Skandinavisme"/>
+<node id="hjortedyr"/>
+<node id="Magnus Erlingsson"/>
+<node id="Språk i Norge"/>
+<node id="Vest-Preussen"/>
+<node id="Veiviseren"/>
+<node id="Språk i Tyskland"/>
+<node id="Benjamin Christensen"/>
+<node id="Frans Eemil Sillanpää"/>
+<node id="USA"/>
+<node id="liste over Norges statsministre"/>
+<node id="Ingvar Ambjørnsen"/>
+<node id="Sveriges kyst"/>
+<node id="Flensborg Fjord"/>
+<node id="Sveriges politiske system"/>
+<node id="muslimer"/>
+<node id="Amfibier og krypdyr i Norge"/>
+<node id="litteratur"/>
+<node id="mineraler"/>
+<node id="beverrotte"/>
+<node id="Belgia"/>
+<node id="skogfinner"/>
+<node id="keiser"/>
+<node id="Den norske kyststrømmen"/>
+<node id="jernmalm"/>
+<node id="sel"/>
+<node id="København"/>
+<node id="diktatur"/>
+<node id="Irlands"/>
+<node id="rødrev"/>
+<node id="nøytralitet"/>
+<node id="amfibier"/>
+<node id="folkevandringstiden"/>
+<node id="Varberg"/>
+<node id="korstog"/>
+<node id="Als"/>
+<node id="Bornholm"/>
+<node id="Regjeringen Solberg"/>
+<node id="Hanstholm"/>
+<node id="Kattegat"/>
+<node id="enevelde"/>
+<node id="Skisport"/>
+<node id="oppholdstillatelse"/>
+<node id="Sult"/>
+<node id="landskilpadder"/>
+<node id="Flåklypa"/>
+<node id="planteliv i Sverige"/>
+<node id="hyperinflasjon"/>
+<node id="Bent Sørensen"/>
+<node id="islam"/>
+<node id="Inger Sitter"/>
+<node id="Karelen"/>
+<node id="Nordisk råd"/>
+<node id="kristne"/>
+<node id="Christian 7"/>
+<node id="Sør"/>
+<node id="Rømø"/>
+<node id="Peloponnes"/>
+<node id="barskog"/>
+<node id="Outokumpu"/>
+<node id="brakkvann"/>
+<node id="Planteliv i Finland"/>
+<node id="norsk tegnspråk"/>
+<node id="familieplanlegging"/>
+<node id="romanés"/>
+<node id="eventyr"/>
+<node id="Norges befolkning"/>
+<node id="Idrett i Danmark"/>
+<node id="Flores"/>
+<node id="Norges utenrikshandel"/>
+<node id="J. C. Dahl"/>
+<node id="engelsk"/>
+<node id="industri"/>
+<node id="fertilitet"/>
+<node id="Götaland"/>
+<node id="øgler"/>
+<node id="Helsingør"/>
+<node id="Hårek"/>
+<node id="Finlands forsvar"/>
+<node id="Weimarrepublikken"/>
+<node id="høymiddelalder"/>
+<node id="insekter"/>
+<node id="Öland"/>
+<node id="bever"/>
+<node id="Tyskland"/>
+<node id="Roma"/>
+<node id="Equinor"/>
+<node id="Stefan Löfven"/>
+<node id="hjort"/>
+<node id="Nord-Norge"/>
+<node id="styreform"/>
+<node id="Hans-Peter Lindstrøm"/>
+<node id="Kina"/>
+<node id="Arnold Haukeland"/>
+<node id="Montenegro"/>
+<node id="Religion i Norge"/>
+<node id="Jan Garbarek"/>
+<node id="Skogbruk i Norge"/>
+<node id="reinsdyr"/>
+<node id="evangelisk-luthersk"/>
+<node id="Berlinmuren"/>
+<node id="Lorraine"/>
+<node id="union"/>
+<node id="Monaco"/>
+<node id="tretåspett"/>
+<node id="keltiske"/>
+<node id="Finsk"/>
+<node id="krigsskip"/>
+<node id="allianser"/>
+<node id="Somalia"/>
+<node id="billedkunst"/>
+<node id="BT"/>
+<node id="Film i Norge"/>
+<node id="Schleswig"/>
+<node id="Bayern"/>
+<node id="katolikker"/>
+<node id="Sentral-Europa"/>
+<node id="Danmarks befolkning"/>
+<node id="Sørlandet"/>
+<node id="Sverre Fehn"/>
+<node id="gull"/>
+<node id="Jørgen Plaetner"/>
+<node id="rhythm &amp; blues"/>
+<node id="Bohuslän"/>
+<node id="Skagen"/>
+<node id="Adriaterhavet"/>
+<node id="Johan Svendsen"/>
+<node id="Turisme i Norge"/>
+<node id="Harald 5"/>
+<node id="rikskansler"/>
+<node id="romani"/>
+<node id="polarrev"/>
+<node id="Vildmose"/>
+<node id="Svalbard"/>
+<node id="valgkongedømme"/>
+<node id="Finskebukta"/>
+<node id="maskin"/>
+<node id="hebraisk"/>
+<node id="bokmål"/>
+<node id="dyner"/>
+<node id="Ringkøbing-Skjern"/>
+<node id="Eyjafjallajökull"/>
+<node id="Kristelig Folkeparti"/>
+<node id="Poul Martin Møller"/>
+<node id="Sveriges samtidshistorie"/>
+<node id="Ejer Bavnehøj"/>
+<node id="første verdenskrig"/>
+<node id="tekstilkunst"/>
+<node id="jern"/>
+<node id="trippelalliansen"/>
+<node id="Romatraktaten"/>
+<node id="hierarkisk"/>
+<node id="havre"/>
+<node id="Arktisk råd"/>
+<node id="elg"/>
+<node id="gnagere"/>
+<node id="Publius Cornelius Tacitus"/>
+<node id="Den franske revolusjon"/>
+<node id="Svanesjøen"/>
+<node id="landhevning"/>
+<node id="brunbjørn"/>
+<node id="Fredrik Pacius"/>
+<node id="Barentshavet"/>
+<node id="brakkvannet"/>
+<node id="Carl Theodor Dreyer"/>
+<node id="Deutschland"/>
+<node id="bøk"/>
+<node id="rådyr"/>
+<node id="finsk"/>
+<node id="Norges forsvar"/>
+<node id="monarki"/>
+<node id="likestillings- og familiespørsmål i Sverige"/>
+<node id="Hamburg"/>
+<node id="Kristendommen"/>
+<node id="Ruhr-området"/>
+<node id="Sveriges Radio"/>
+<node id="Gudenå"/>
+<node id="abdisere"/>
+<node id="SA"/>
+<node id="vannkraft"/>
+<node id="Leibniz"/>
+<node id="Massemedier i Norge"/>
+<node id="Dans i Danmark."/>
+<node id="slaget i Hafrsfjorden"/>
+<node id="Den europeiske sentralbanks"/>
+<node id="Fiskeoppdrett"/>
+<node id="arbeiderbevegelse"/>
+<node id="Lokalforvaltning i Norge"/>
+<node id="pukk"/>
+<node id="regjeringen"/>
+<node id="religionen"/>
+<node id="Virvelløse dyr i Norge"/>
+<node id="TV Norge"/>
+<node id="gråspurv"/>
+<node id="Nordkinnhalvøya"/>
+<node id="Danmarks Radio"/>
+<node id="teatre"/>
+<node id="Dronning Maud Land"/>
+<node id="Alexander Kielland"/>
+<node id="liste over verdens kultur- og naturarvsteder"/>
+<node id="Oscar"/>
+<node id="fugler"/>
+<node id="Sidsel Endresen"/>
+<node id="Kreta"/>
+<node id="Saaremaa"/>
+<node id="bygg"/>
+<node id="Mols"/>
+<node id="Vest-Tyskland (Bundesrepublik Deutschland)"/>
+<node id="Nordkapp"/>
+<node id="Portugal"/>
+<node id="arter"/>
+<node id="bispedømmer"/>
+<node id="Nikolaj I. Bobrikov"/>
+<node id="Egypt"/>
+<node id="Eduskunta"/>
+<node id="kull"/>
+<node id="Lars von Trier"/>
+<node id="Island"/>
+<node id="Norden"/>
+<node id="Peter I Øy"/>
+<node id="kjøtt"/>
+<node id="Galdhøpiggen"/>
+<node id="Ja, vi elsker dette landet"/>
+<node id="sosialdemokrater"/>
+<node id="Bernhard Henrik Crusell"/>
+<node id="landbruk"/>
+<node id="jødiske"/>
+<node id="folkrock"/>
+<node id="Socialistisk Folkeparti"/>
+<node id="DDR"/>
+<node id="kontinental"/>
+<node id="fylke"/>
+<node id="Byer i Norge"/>
+<node id="dobbeltvedtak"/>
+<node id="Skole og utdanning i Danmark"/>
+<node id="totalitært"/>
+<node id="Spania"/>
+<node id="Skole og utdanning i Norge"/>
+<node id="vulkaner"/>
+<node id="parlamentarisk"/>
+<node id="Massemedier i Finland"/>
+<node id="tsar Alexander 1"/>
+<node id="slanger"/>
+<node id="Kiev-riket"/>
+<node id="vågehval"/>
+<node id="Ukraina"/>
+<node id="Mynt, mål og vekt i Finland"/>
+<node id="Sigrid Undset"/>
+<node id="Mikhail Gorbatsjov"/>
+<node id="EU"/>
+<node id="hval"/>
+<node id="Valdemar"/>
+<node id="Apenninene"/>
+<node id="Turisme i Danmark"/>
+<node id="slaviske"/>
+<node id="Gjedde"/>
+<node id="maritime"/>
+<node id="Økonomi og næringsliv i Danmark"/>
+<node id="Gavdos"/>
+<node id="Befolkning i Tyskland"/>
+<node id="mår"/>
+<node id="Bundestag"/>
+<node id="Centrum-Demokraterne"/>
+<node id="hamskifte"/>
+<node id="thai"/>
+<node id="kunst i Sverige"/>
+<node id="Eifel"/>
+<node id="Malmö"/>
+<node id="kristendommen"/>
+<node id="fvt"/>
+<node id="Nordrhein-Westfalen"/>
+<node id="Skog"/>
+<node id="Saltfjellet"/>
+<node id="Mors"/>
+<node id="jøder"/>
+<node id="evangelisk-lutherske kirke"/>
+<node id="Marstrand"/>
+<node id="Elias Lönnrot"/>
+<node id="Oder"/>
+<node id="Østerrike"/>
+<node id="føydalismen"/>
+<node id="musikk"/>
+<node id="Marimekko"/>
+<node id="Sveriges befolkning"/>
+<node id="morsmål"/>
+<node id="Dalälven"/>
+<node id="Idrett i Norge"/>
+<node id="Drammen"/>
+<node id="Johannes Vilhelm Jensen"/>
+<node id="Planteliv i Norge"/>
+<node id="protestantisk"/>
+<node id="Russland"/>
+<node id="Erik"/>
+<node id="Romania"/>
+<node id="samer"/>
+<node id="røyskatt"/>
+<node id="Kosovo"/>
+<node id="Are Frodes"/>
+<node id="høyskoler"/>
+<node id="Maastricht-traktaten"/>
+<node id="Ejer Bjerge"/>
+<node id="Christian 5"/>
+<node id="Versailles-traktaten"/>
+<node id="Toivo Pekkanen"/>
+<node id="Slesvig-Holsten"/>
+<node id="arkitektur"/>
+<node id="karelsk"/>
+<node id="middelalderen"/>
+<node id="black metal"/>
+<node id="stål"/>
+<node id="Schengen-samarbeidet"/>
+<node id="skogshøns"/>
+<node id="statskassen"/>
+<node id="Helsingin Sanomat"/>
+<node id="Aqua"/>
+<node id="Atlanterhavet"/>
+<node id="Hamm"/>
+<node id="Gasolin"/>
+<node id="Dyreliv i Norge"/>
+<node id="Jan Mayen"/>
+<node id="Napoleonstiden"/>
+<node id="Jonas Lie"/>
+<node id="kanin"/>
+<node id="Adolf Hitler"/>
+<node id="elektronisk musikk"/>
+<node id="Flensburg"/>
+<node id="økonomi og næringsliv i Sverige"/>
+<node id="Alsace"/>
+<node id="Bulgaria"/>
+<node id="Norsk Rikskringkasting"/>
+<node id="olivin"/>
+<node id="Herman Bang"/>
+<node id="grønnsaker"/>
+<node id="kunstmusikk"/>
+<node id="Korsør"/>
+<node id="utenrikspolitikk"/>
+<node id="Den hercynske fjellkjedefolding"/>
+<node id="elbiler"/>
+<node id="fossilt brensel"/>
+<node id="isbjørn"/>
+<node id="Norskehavet"/>
+<node id="H. E. Schirmer"/>
+<node id="Land i Europa"/>
+<node id="kunsthåndverk"/>
+<node id="Vuokko"/>
+<node id="Sparta"/>
+<node id="Afrika"/>
+<node id="Minna Canth"/>
+<node id="Sør-Norge"/>
+<node id="Kasakhstans"/>
+<node id="Frederik 6"/>
+<node id="TV 2"/>
+<node id="kulturhistorie"/>
+<node id="Fredrikstad"/>
+<node id="Tove Jansson"/>
+<node id="svartedauden"/>
+<node id="arkitekt"/>
+<node id="Det tysk-romerske riket"/>
+<node id="Den europeiske sentralbanken"/>
+<node id="Latvia"/>
+<node id="Barentsrådet"/>
+<node id="svin"/>
+<node id="pattedyr"/>
+<node id="Østisen"/>
+<node id="Sofi Oksanen"/>
+<node id="hiphop"/>
+<node id="Økonomi i Norge"/>
+<node id="rom"/>
+<node id="Skandinavia"/>
+<node id="Gotland"/>
+<node id="iranere"/>
+<node id="erkebiskop Absalon"/>
+<node id="bruttonasjonalprodukt"/>
+<node id="Hæren"/>
+<node id="Svealand"/>
+<node id="Kim Larsen"/>
+<node id="Röyksopp"/>
+<node id="Petter Dass"/>
+<node id="Gibraltar"/>
+<node id="nasjonalstater"/>
+<node id="kurfyrster"/>
+<node id="Århus"/>
+<node id="Biosphere"/>
+<node id="Jannik Hastrup"/>
+<node id="petrokjemisk"/>
+<node id="Europa – befolkning"/>
+<node id="kolonier"/>
+<node id="folkerepublikker"/>
+<node id="handelsflåten"/>
+<node id="Falster"/>
+<node id="jerv"/>
+<node id="lemen"/>
+<node id="Bundesrepublik Deutschland"/>
+<node id="Danmark-Norge"/>
+<node id="Kirsten Flagstad"/>
+<node id="matematiske"/>
+<node id="vadere"/>
+<node id="Bottenviken"/>
+<node id="Pakistan"/>
+<node id="Alliansen"/>
+<node id="gran"/>
+<node id="germanerne"/>
+<node id="Brussel"/>
+<node id="Klaus Rifbjerg"/>
+<node id="Danmark"/>
+<node id="Frankerriket"/>
+<node id="atomvåpen"/>
+<node id="andre verdenskrig"/>
+<node id="Süddeutsche Zeitung"/>
+<node id="Christian H. Grosch"/>
+<node id="Bouvetøya"/>
+<node id="kommuner i Norge"/>
+<node id="kontinentalsokkel"/>
+<node id="naturhusholdning"/>
+<node id="Luftforsvaret"/>
+<node id="Villsvin"/>
+<node id="dvergbjørk"/>
+<node id="Mälaren"/>
+<node id="antisemittisk"/>
+<node id="Fyn"/>
+<node id="hvete"/>
+<node id="Martin Andersen Nexø"/>
+<node id="prima ballerina"/>
+<node id="fylkeskommunene"/>
+<node id="Bugge Wesseltoft"/>
+<node id="Fredrik Reinfeldt"/>
+<node id="kobber"/>
+<node id="borgerkrig"/>
+<node id="Akseli Gallen-Kallela"/>
+<node id="keiser Willhelm II"/>
+<node id="kystklima"/>
+<node id="Valdemar 2"/>
+<node id="Hohenzollerne"/>
+<node id="Øresundsbroen"/>
+<node id="elektrisk strøm"/>
+<node id="Canada"/>
+<node id="antikken"/>
+<node id="Norges historie"/>
+<node id="Nobelprisen"/>
+<node id="Titania AS"/>
+<node id="Henrik Bull"/>
+<node id="birkebeinerne"/>
+<node id="Sveriges forhistorie"/>
+<node id="geologiske tidsaldre"/>
+<node id="ishockey"/>
+<node id="Bergverksdrift i Norge"/>
+<node id="Norrbotten"/>
+<node id="Svend Tveskæg"/>
+<node id="Den midtatlantiske rygg"/>
+<node id="Enare"/>
+<node id="sik"/>
+<node id="Johannes Ewald"/>
+<node id="råjern"/>
+<node id="Den norske kirke"/>
+<node id="republikk"/>
+<node id="estisktalende"/>
+<node id="Lothringen"/>
+<node id="Balkanfjellene"/>
+<node id="Grønland"/>
+<node id="Henning Carlsen"/>
+<node id="Det kaspiske havs"/>
+<node id="Stortinget"/>
+<node id="Aleksis Kivi"/>
+<node id="oversikt over Tysklands historie"/>
+<node id="horn"/>
+<node id="Øresund"/>
+<node id="Østerrike-Ungarns"/>
+<node id="offentlig sektor"/>
+<node id="planting"/>
+<node id="trossamfunn"/>
+<node id="Nord-Irland"/>
+<node id="Miljöpartiet de gröna"/>
+<node id="Adolph Tidemand"/>
+<node id="Malta"/>
+<node id="markedsøkonomiske"/>
+<node id="konsulater"/>
+<node id="Læsø"/>
+<node id="Jens Otto Krag"/>
+<node id="Helsingfors"/>
+<node id="Vestlandet"/>
+<node id="1814"/>
+<node id="pave"/>
+<node id="naturvitenskaplige"/>
+<node id="Massemedier i Danmark"/>
+<node id="Egmont"/>
+<node id="storhertug"/>
+<node id="musikk i Sverige"/>
+<node id="Vannflora i Norge"/>
+<node id="Sveriges historie"/>
+<node id="FN"/>
+<node id="Kroatia"/>
+<node id="fredsbevarende operasjoner"/>
+<node id="Høyre"/>
+<node id="Asia"/>
+<node id="Øst-Tyskland (Deutsche Demokratische Republik, DDR)"/>
+<node id="Jordens"/>
+<node id="Nyborg"/>
+<node id="norsk"/>
+<node id="Mynt, mål og vekt i Danmark"/>
+<node id="Norsk"/>
+<node id="Møn"/>
+<node id="Helene Schjerfbeck"/>
+<node id="Martin Luther"/>
+<node id="Forbundsdagen"/>
+<node id="Hans Gude"/>
+<node id="Klima i Norge"/>
+<node id="Vinterkrigen"/>
+<node id="vindyrking"/>
+<node id="germanske"/>
+<node id="emir"/>
+<node id="semittiske"/>
+<node id="enfant terrible"/>
+<node id="kanonisert"/>
+<node id="russisktalende"/>
+<node id="kabinettsspørsmål"/>
+<node id="finlandssvensk"/>
+<node id="korn"/>
+<node id="Ole Bull"/>
+<node id="skisport"/>
+<node id="Regioner i Danmark"/>
+<node id="svensk"/>
+<node id="Skandinaviske halvøy"/>
+<node id="Gorm"/>
+<node id="Telemark"/>
+<node id="de allierte"/>
+<node id="Ditte Menneskebarn"/>
+<node id="melk"/>
+<node id="Arne Korsmo"/>
+<node id="Sandnes"/>
+<node id="Luxembourg"/>
+<node id="romanske"/>
+<node id="diktaturer"/>
+<node id="marsk"/>
+<node id="arvefølge"/>
+<node id="snødekke"/>
+<node id="kontinentalt"/>
+<node id="reformasjonen"/>
+<node id="ungarsk"/>
+<node id="Yding Skovhøj"/>
+<node id="Jørgen Moe"/>
+<node id="Haag"/>
+<node id="Danmarks forsvar"/>
+<node id="det nazistiske Tysklands"/>
+<node id="proklamert"/>
+<node id="tiende"/>
+<node id="Christoffer av Bayern"/>
+<node id="NATO"/>
+<node id="Tysklands politiske system"/>
+<node id="Furu"/>
+<node id="Bang &amp; Olufsen"/>
+<node id="Hellas"/>
+<node id="Lolland"/>
+<node id="Edith Södergran"/>
+<node id="Religion i Tyskland"/>
+<node id="protestanter"/>
+<node id="Väinö Linna"/>
+<node id="Kosteröarna"/>
+<node id="Norges beliggenhet"/>
+<node id="Næringsliv i Norge"/>
+<node id="Golfstrømmen"/>
+<node id="ensemble"/>
+<node id="kantele"/>
+<node id="nikkel"/>
+<node id="furu"/>
+<node id="hovedstad"/>
+<node id="Holberg"/>
+<node id="svovelkis"/>
+<node id="Fugler i Norge"/>
+<node id="Danmarks historie"/>
+<node id="Henrik Ibsen"/>
+<node id="Härjedalen"/>
+<node id="Jens Christian Hostrup"/>
+<node id="dronning"/>
+<node id="Nürnberglovene"/>
+<node id="anortositt"/>
+<node id="Kierlighed uden Strømper"/>
+<node id="Ungarn"/>
+<node id="lind"/>
+<node id="Otto von Bismarck"/>
+<node id="larvikitt"/>
+<node id="Landstinget"/>
+<node id="Økonomi og næringsliv i Tyskland"/>
+<node id="mosevegetasjon"/>
+<node id="Helmholtz"/>
+<node id="Kemi älv"/>
+<node id="Hunsrück"/>
+<node id="randhav"/>
+<node id="Sveits"/>
+<node id="forfatning"/>
+<node id="Dnepr"/>
+<node id="russisk-ortodokse kirke"/>
+<node id="Edvard Munch"/>
+<node id="trekkfugler"/>
+<node id="Normandie"/>
+<node id="Vestisen"/>
+<node id="Geologi og landformer i Norge"/>
+<node id="paven"/>
+<node id="landskapsarkitektur i Sverige"/>
+<node id="22. juli 2011"/>
+<node id="kvener"/>
+<node id="folkekirke"/>
+<node id="Jyllands-Posten"/>
+<node id="territoriet"/>
+<node id="grafitt"/>
+<node id="Serbia"/>
+<node id="Frederik 4"/>
+<node id="kommunistpartier"/>
+<node id="Haakon 7"/>
+<node id="krypdyr"/>
+<node id="Øst-Europa"/>
+<node id="Sarpsborg"/>
+<node id="Napoleonskrigene"/>
+<node id="arabisk"/>
+<node id="dyreliv i Sverige"/>
+<node id="euro"/>
+<node id="fløyter"/>
+<node id="Petroleumsutvinning i Norge"/>
+<node id="samisk"/>
+<node id="Foreningen Norden"/>
+<node id="Kinnarodden"/>
+<node id="Kai Fjell"/>
+<node id="Anne Grimdalen"/>
+<node id="ballett"/>
+<node id="Vejle"/>
+<node id="grunnlov"/>
+<node id="Åland"/>
+<node id="Benelux-landene"/>
+<node id="Fennoskandia"/>
+<node id="Sveriges Television"/>
+<node id="skandinavisme"/>
+<node id="Grunnlovens"/>
+<node id="Wainö Aaltonen"/>
+<node id="Samveldet av nasjoner"/>
+<node id="Teutoburgerskogen"/>
+<node id="Sveriges litteratur"/>
+<node id="Kalmarunionen"/>
+<node id="Dyreliv i Finland"/>
+<node id="Karl IV"/>
+<node id="Danmarks samtidshistorie"/>
+<node id="Planteliv i Tyskland"/>
+<node id="Energi i Norge"/>
+<node id="Polen"/>
+<node id="Film i Danmark"/>
+<node id="EEC"/>
+<node id="Bottenhavet"/>
+<node id="unionen oppløst i 1905"/>
+<node id="verdensdel"/>
+<node id="Flemming Flindt"/>
+<node id="Fiske og fangst i Norge"/>
+<node id="industrialisering"/>
+<node id="tronfølge"/>
+<node id="Stavanger"/>
+<node id="Bayerischer Wald"/>
+<node id="Schengen-avtalen"/>
+<node id="Baltiske strøm"/>
+<node id="fyrste"/>
+<node id="Politiken"/>
+<node id="Alpene"/>
+<node id="Frankfurter Allgemeine Zeitung"/>
+<node id="Sanne Salomonsen"/>
+<node id="Berlin"/>
+<node id="Karen Blixen"/>
+<node id="naturgass"/>
+<node id="Norsk Hydro"/>
+<node id="bar"/>
+<node id="storfugl"/>
+<node id="Preussen"/>
+<node id="Tyrkia"/>
+<node id="Arnstein Arneberg"/>
+<node id="Finlands politiske system"/>
+<node id="Sverige"/>
+<node id="Truls Mørk"/>
+<node id="Bergen"/>
+<node id="markedsøkonomi"/>
+<node id="Afghanistan"/>
+<node id="ilmenitt"/>
+<node id="mittelgebirge"/>
+<node id="Europas"/>
+<node id="Viborg"/>
+<node id="romanifolk"/>
+<node id="Balkanhalvøya"/>
+<node id="OSSE"/>
+<node id="Tsjekkoslovakia"/>
+<node id="Den lille havfrue"/>
+<node id="planøkonomi"/>
+<node id="lulesamisk"/>
+<node id="Venstre"/>
+<node id="grus"/>
+<node id="Arto Paasilinna"/>
+<node id="styringsrenten"/>
+<node id="Nederland"/>
+<node id="Paris"/>
+<node id="løvskog"/>
+<node id="angelsaksiske"/>
+<node id="mellomkrigstiden"/>
+<node id="Carl Nielsen"/>
+<node id="Den alpine fjellkjedefolding"/>
+<node id="Finnmark"/>
+<node id="Lillebælt"/>
+<node id="Peter Christen Asbjørnsen"/>
+<node id="Knud den store"/>
+<node id="malm"/>
+<node id="snøugle"/>
+<node id="Mannerheim"/>
+<node id="dobbeltmonarki"/>
+<node id="Ludvig Holberg"/>
+<node id="Else Marie Pade"/>
+<node id="krønike"/>
+<node id="fjellrype"/>
+<node id="neverlur"/>
+<node id="Andre verdenskrig"/>
+<node id="sørsamisk"/>
+<node id="Benny Andersen"/>
+<node id="Tsjekkia"/>
+<node id="Jens Bjørneboe"/>
+<node id="bystater"/>
+<node id="enerett"/>
+<node id="Knivskjelodden"/>
+<node id="folkeeventyr"/>
+<node id="Anholt"/>
+<node id="kommunereformer"/>
+<node id="Wollin"/>
+<node id="motorkjøretøy"/>
+<node id="ambassade"/>
+<node id="Mandal"/>
+<node id="Knut Hamsun"/>
+<node id="steppe"/>
+<node id="Jellingsteinene"/>
+<node id="Norges litteratur"/>
+<node id="EØS-avtalen"/>
+<node id="okkupert av Tyskland"/>
+<node id="biland"/>
+<node id="snømus"/>
+<node id="stormakt"/>
+<node id="Økonomi og næringsliv i Finland"/>
+<node id="Henrik Tikkanen"/>
+<node id="Eliel Saarinen"/>
+<node id="fagpresse"/>
+<node id="Fanø"/>
+<node id="fjellbjørk"/>
+<node id="Monika Fagerholm"/>
+<node id="feltspat"/>
+<node id="vin"/>
+<node id="fvt."/>
+<node id="stortingsvalg"/>
+<node id="Thorvald Stauning"/>
+<node id="det tysk-romerske keiserdømme"/>
+<node id="levealder"/>
+<node id="statskupp"/>
+<node id="frukt"/>
+<node id="Genève"/>
+<node id="Tysk"/>
+<node id="Østersjøen"/>
+<node id="Musikk i Danmark"/>
+<node id="Lars Backer"/>
+<node id="samiske"/>
+<node id="Rigabukta"/>
+<node id="Jordbruk i Norge"/>
+<node id="steinkobbe"/>
+<node id="Stora Drammen"/>
+<node id="Dialekter i Norge"/>
+<node id="Romerriket"/>
+<node id="greske"/>
+<node id="Den store nordiske krig"/>
+<node id="Steen Steensen Blicher"/>
+<node id="Eupen-Malmédy"/>
+<node id="Helsingborg"/>
+<node id="H. D. F. Linstow,"/>
+<node id="Kunst i Norge"/>
+<node id="Odd Nerdrum"/>
+<node id="Jens Baggesen"/>
+<node id="skånske krig"/>
+<node id="Jacob Weidemann"/>
+<node id="Sveriges geologi"/>
+<node id="konge"/>
+<node id="duearter"/>
+<node id="kinesisk"/>
+<node id="granitt"/>
+<node id="marmor"/>
+<node id="Indus"/>
+<node id="Himmelbjerget"/>
+<node id="fiskeri"/>
+<node id="Lars Saabye Christensen"/>
+<node id="forskning og vitenskap i Danmark"/>
+<node id="blandingsøkonomi"/>
+<node id="føydalvesen"/>
+<node id="Johan Ludvig Runeberg"/>
+<node id="delstater"/>
+<node id="Limfjorden"/>
+<node id="havert"/>
+<node id="sysselsetting"/>
+<node id="Oseania"/>
+<node id="Italia"/>
+<node id="a-ha"/>
+<node id="Norskerenna"/>
+<node id="statsoverhode"/>
+<node id="Sjælland"/>
+<node id="Håkon 6s"/>
+<node id="Arkitektur i Norge"/>
+<node id="Samsø"/>
+<node id="Eider"/>
+<node id="Der Spiegel"/>
+<node id="standfugler"/>
+<node id="arabisktalende"/>
+<node id="Drogden"/>
+<node id="etterkrigstiden"/>
+<node id="tabloidavisen"/>
+<node id="kansler"/>
+<node id="kjemisk"/>
+<node id="Jämtland"/>
+<node id="skriftspråk"/>
+<node id="vegetasjon"/>
+<node id="Bjarne Henning-Jensen"/>
+<node id="Samisk"/>
+<node id="Møllehøj"/>
+<node id="skifer"/>
+<node id="innsjø"/>
+<node id="Kunst i Finland"/>
+<node id="skulptør"/>
+<node id="Nordisk ministerråd"/>
+<node id="urfolk"/>
+<node id="hvalarter"/>
+<node id="nefelin"/>
+<node id="Harald Blåtand"/>
+<node id="Hans Scherfig"/>
+<node id="August Bournonville"/>
+<node id="industriland"/>
+<node id="lavland"/>
+<node id="olje"/>
+<node id="tysk"/>
+<node id="Nystad"/>
+<node id="Hiiumaa"/>
+<node id="daner"/>
+<node id="baltiske"/>
+<node id="Athen"/>
+<edge source="Finlands historie" target="Finland"/>
+<edge source="opplysningstiden" target="Europa"/>
+<edge source="Poul Schlüter" target="Danmark"/>
+<edge source="Norges internasjonale forbindelser" target="Norge"/>
+<edge source="spetter" target="Europa"/>
+<edge source="spetter" target="Finland"/>
+<edge source="Moderaterna" target="Sverige"/>
+<edge source="polarsirkelen" target="Finland"/>
+<edge source="Mål og vekt i Norge" target="Norge"/>
+<edge source="russisk" target="Europa"/>
+<edge source="rep" target="Europa"/>
+<edge source="svingninger" target="Tyskland"/>
+<edge source="Østlandet" target="Norge"/>
+<edge source="Skogbruk" target="Europa"/>
+<edge source="Danmarks politiske system" target="Danmark"/>
+<edge source="nasjonalhelgen" target="Norge"/>
+<edge source="Trondheim" target="Norge"/>
+<edge source="England" target="Europa"/>
+<edge source="England" target="Danmark"/>
+<edge source="Mellom-Europa" target="Tyskland"/>
+<edge source="råvarer" target="Danmark"/>
+<edge source="Øst" target="Tyskland"/>
+<edge source="rev" target="Finland"/>
+<edge source="Per Ung" target="Norge"/>
+<edge source="petroleum" target="Tyskland"/>
+<edge source="kastanje" target="Europa"/>
+<edge source="klostre" target="Europa"/>
+<edge source="SS" target="Tyskland"/>
+<edge source="Håkon 6" target="Danmark"/>
+<edge source="Yngre steinalder" target="Europa"/>
+<edge source="Leif Ove Andsnes" target="Norge"/>
+<edge source="patrioter" target="Tyskland"/>
+<edge source="Mika Waltari" target="Finland"/>
+<edge source="Arne Garborg" target="Norge"/>
+<edge source="Nord-Makedonia" target="Europa"/>
+<edge source="rype" target="Norge"/>
+<edge source="rype" target="Europa"/>
+<edge source="De britiske øyer" target="Europa"/>
+<edge source="kjernekraftanlegg" target="Finland"/>
+<edge source="Planteliv i Danmark" target="Danmark"/>
+<edge source="Lindesnes" target="Norge"/>
+<edge source="Lindesnes" target="Skagerrak"/>
+<edge source="ferskvannsfisk" target="Danmark"/>
+<edge source="Storebælt" target="Kattegat"/>
+<edge source="Storebælt" target="Østersjøen"/>
+<edge source="unionsoppløsningen i 1905" target="Tyskland"/>
+<edge source="Holocaust" target="Tyskland"/>
+<edge source="evangelisk" target="Danmark"/>
+<edge source="Tysklands historie" target="Tyskland"/>
+<edge source="universitet" target="Tyskland"/>
+<edge source="semittisk" target="Europa"/>
+<edge source="jazz" target="Norge"/>
+<edge source="Pommern" target="Danmark"/>
+<edge source="ballettmester" target="Danmark"/>
+<edge source="grevling" target="Europa"/>
+<edge source="konjunkturer" target="Norge"/>
+<edge source="Mjøsa" target="Norge"/>
+<edge source="Babettes gæstebud" target="Danmark"/>
+<edge source="Svinhufvud" target="Finland"/>
+<edge source="Dyreliv i Danmark" target="Danmark"/>
+<edge source="Kjeld Abell" target="Danmark"/>
+<edge source="Skole og utdanning i Finland" target="Finland"/>
+<edge source="Religion i Danmark" target="Danmark"/>
+<edge source="Kongehuset" target="Norge"/>
+<edge source="demokrati" target="Norge"/>
+<edge source="kvarts" target="Norge"/>
+<edge source="abbor" target="Finland"/>
+<edge source="Vest-Tyskland" target="Europa"/>
+<edge source="Vest-Tyskland" target="Tyskland"/>
+<edge source="glasskunst" target="Finland"/>
+<edge source="Vaskebjørn" target="Europa"/>
+<edge source="kommuner" target="Norge"/>
+<edge source="Edvard Grieg" target="Norge"/>
+<edge source="bergartene" target="Europa"/>
+<edge source="status quo" target="Europa"/>
+<edge source="fjærfe" target="Finland"/>
+<edge source="Sikkerhetsrådet" target="Tyskland"/>
+<edge source="Øst-Tyskland" target="Europa"/>
+<edge source="ugler" target="Europa"/>
+<edge source="ugler" target="Finland"/>
+<edge source="Märta Tikkanen" target="Finland"/>
+<edge source="Ferskvannsfisk i Norge" target="Norge"/>
+<edge source="ulv" target="Norge"/>
+<edge source="ulv" target="Europa"/>
+<edge source="ulv" target="Finland"/>
+<edge source="Litauen" target="Norge"/>
+<edge source="Litauen" target="Europa"/>
+<edge source="Litauen" target="Østersjøen"/>
+<edge source="Dag Solstad" target="Norge"/>
+<edge source="sølv" target="Finland"/>
+<edge source="Nato" target="Tyskland"/>
+<edge source="ringsel" target="Finland"/>
+<edge source="Færøyene" target="Norden"/>
+<edge source="Færøyene" target="Danmark"/>
+<edge source="Fremskridtspartiet" target="Danmark"/>
+<edge source="Svartehavet" target="Europa"/>
+<edge source="Lofoten" target="Europa"/>
+<edge source="TWh" target="Norge"/>
+<edge source="Gabriel Axel" target="Danmark"/>
+<edge source="Johan Sebastian Welhaven" target="Norge"/>
+<edge source="Donau" target="Europa"/>
+<edge source="Trøndelag" target="Norge"/>
+<edge source="nasjonalsang" target="Danmark"/>
+<edge source="haffene" target="Østersjøen"/>
+<edge source="Henrik Wergeland" target="Norge"/>
+<edge source="Magnus den gode" target="Danmark"/>
+<edge source="velferdsstat" target="Norge"/>
+<edge source="Øst-Grønland" target="Danmark"/>
+<edge source="Lund" target="Danmark"/>
+<edge source="Poul Henningsen" target="Danmark"/>
+<edge source="Hans Christian Andersen" target="Danmark"/>
+<edge source="jordbruk" target="Europa"/>
+<edge source="jordbruk" target="Tyskland"/>
+<edge source="Odense" target="Danmark"/>
+<edge source="Jylland" target="Skagerrak"/>
+<edge source="Jylland" target="Danmark"/>
+<edge source="Jylland" target="Nordsjøen"/>
+<edge source="Jylland" target="Kattegat"/>
+<edge source="Jylland" target="Lillebælt"/>
+<edge source="Jylland" target="Limfjorden"/>
+<edge source="Jylland" target="Eider"/>
+<edge source="Jylland" target="Nord-Ostsee-Kanal"/>
+<edge source="Jylland" target="Møllehøj"/>
+<edge source="Jylland" target="Ejer Bjerge"/>
+<edge source="Jylland" target="Skagen"/>
+<edge source="Jylland" target="Tyskland"/>
+<edge source="Jylland" target="Ringkøbing Fjord"/>
+<edge source="Jylland" target="Fanø"/>
+<edge source="Jylland" target="Rømø"/>
+<edge source="Jylland" target="Mors"/>
+<edge source="Jylland" target="Djursland"/>
+<edge source="Jylland" target="Mols"/>
+<edge source="Jylland" target="Mariager Fjord"/>
+<edge source="Jylland" target="Flensborg Fjord"/>
+<edge source="Jylland" target="Samsø"/>
+<edge source="Jylland" target="Fyn"/>
+<edge source="Jylland" target="Als"/>
+<edge source="Jylland" target="Yding Skovhøj"/>
+<edge source="Jylland" target="Ejer Bavnehøj"/>
+<edge source="Jylland" target="Himmelbjerget"/>
+<edge source="Jylland" target="Vildmose"/>
+<edge source="Jylland" target="marsk"/>
+<edge source="Jylland" target="dyner"/>
+<edge source="Jylland" target="Gudenå"/>
+<edge source="Jylland" target="Skjern Å"/>
+<edge source="Jylland" target="Kongeå"/>
+<edge source="Neva" target="Østersjøen"/>
+<edge source="trettiårskrigen" target="Europa"/>
+<edge source="Peters" target="Europa"/>
+<edge source="grønlandsk" target="Danmark"/>
+<edge source="statsministeren" target="Norge"/>
+<edge source="Wilhelm I" target="Tyskland"/>
+<edge source="Snøhetta" target="Norge"/>
+<edge source="NSDAP" target="Tyskland"/>
+<edge source="Vättern" target="Østersjøen"/>
+<edge source="Norge" target="monarki"/>
+<edge source="Norge" target="Europa"/>
+<edge source="Norge" target="Skandinaviske halvøy"/>
+<edge source="Norge" target="Sverige"/>
+<edge source="Norge" target="Finland"/>
+<edge source="Norge" target="Russland"/>
+<edge source="Norge" target="Barentshavet"/>
+<edge source="Norge" target="Norskehavet"/>
+<edge source="Norge" target="Nordsjøen"/>
+<edge source="Norge" target="Skagerrak"/>
+<edge source="Norge" target="Svalbard"/>
+<edge source="Norge" target="Jan Mayen"/>
+<edge source="Norge" target="Atlanterhavet"/>
+<edge source="Norge" target="biland"/>
+<edge source="Norge" target="Bouvetøya"/>
+<edge source="Norge" target="Peter I Øy"/>
+<edge source="Norge" target="Dronning Maud Land"/>
+<edge source="Norge" target="Antarktis"/>
+<edge source="Norge" target="Norge/Noreg – etymologi"/>
+<edge source="Norge" target="Ja, vi elsker dette landet"/>
+<edge source="Norge" target="17. mai"/>
+<edge source="Norge" target="vannkraft"/>
+<edge source="Norge" target="olje"/>
+<edge source="Norge" target="naturgass"/>
+<edge source="Norge" target="fiskeri"/>
+<edge source="Norge" target="havbruk"/>
+<edge source="Norge" target="Canada"/>
+<edge source="Norge" target="Knivskjelodden"/>
+<edge source="Norge" target="Nordkapp"/>
+<edge source="Norge" target="Pysen"/>
+<edge source="Norge" target="Mandal"/>
+<edge source="Norge" target="Galdhøpiggen"/>
+<edge source="Norge" target="Glomma"/>
+<edge source="Norge" target="Sørlandet"/>
+<edge source="Norge" target="Vestlandet"/>
+<edge source="Norge" target="Nord-Norge"/>
+<edge source="Norge" target="Golfstrømmen"/>
+<edge source="Norge" target="Norges beliggenhet"/>
+<edge source="Norge" target="Geologi og landformer i Norge"/>
+<edge source="Norge" target="Norges høyeste fjelltopper"/>
+<edge source="Norge" target="Klima i Norge"/>
+<edge source="Norge" target="brunbjørn"/>
+<edge source="Norge" target="Sør-Norge"/>
+<edge source="Norge" target="barskoger"/>
+<edge source="Norge" target="rein"/>
+<edge source="Norge" target="jerv"/>
+<edge source="Norge" target="snøugle"/>
+<edge source="Norge" target="snøspurv"/>
+<edge source="Norge" target="elg"/>
+<edge source="Norge" target="hjort"/>
+<edge source="Norge" target="rådyr"/>
+<edge source="Norge" target="bever"/>
+<edge source="Norge" target="gaupe"/>
+<edge source="Norge" target="lemen"/>
+<edge source="Norge" target="mår"/>
+<edge source="Norge" target="røyskatt"/>
+<edge source="Norge" target="sel"/>
+<edge source="Norge" target="hval"/>
+<edge source="Norge" target="Dyreliv i Norge"/>
+<edge source="Norge" target="Planteliv i Norge"/>
+<edge source="Norge" target="Fugler i Norge"/>
+<edge source="Norge" target="Virvelløse dyr i Norge"/>
+<edge source="Norge" target="Amfibier og krypdyr i Norge"/>
+<edge source="Norge" target="Pattedyr i Norge"/>
+<edge source="Norge" target="Havets fauna i Norge"/>
+<edge source="Norge" target="Vannflora i Norge"/>
+<edge source="Norge" target="Oslo"/>
+<edge source="Norge" target="Bergen"/>
+<edge source="Norge" target="Stavanger"/>
+<edge source="Norge" target="Sandnes"/>
+<edge source="Norge" target="Fredrikstad"/>
+<edge source="Norge" target="Sarpsborg"/>
+<edge source="Norge" target="Drammen"/>
+<edge source="Norge" target="kvener"/>
+<edge source="Norge" target="skogfinner"/>
+<edge source="Norge" target="jøder"/>
+<edge source="Norge" target="rom"/>
+<edge source="Norge" target="romanifolk"/>
+<edge source="Norge" target="samiske"/>
+<edge source="Norge" target="urfolk"/>
+<edge source="Norge" target="Saltfjellet"/>
+<edge source="Norge" target="Polen"/>
+<edge source="Norge" target="Somalia"/>
+<edge source="Norge" target="Pakistan"/>
+<edge source="Norge" target="Norsk"/>
+<edge source="Norge" target="målformer"/>
+<edge source="Norge" target="bokmål"/>
+<edge source="Norge" target="nynorsk"/>
+<edge source="Norge" target="nordsamisk"/>
+<edge source="Norge" target="lulesamisk"/>
+<edge source="Norge" target="sørsamisk"/>
+<edge source="Norge" target="kvensk"/>
+<edge source="Norge" target="romani"/>
+<edge source="Norge" target="romanés"/>
+<edge source="Norge" target="norsk tegnspråk"/>
+<edge source="Norge" target="Den norske kirke"/>
+<edge source="Norge" target="evangelisk-luthersk"/>
+<edge source="Norge" target="bispedømmer"/>
+<edge source="Norge" target="statskirke"/>
+<edge source="Norge" target="folkekirke"/>
+<edge source="Norge" target="Norges befolkning"/>
+<edge source="Norge" target="Sosiale forhold i Norge"/>
+<edge source="Norge" target="Språk i Norge"/>
+<edge source="Norge" target="Dialekter i Norge"/>
+<edge source="Norge" target="Norsk språkhistorie"/>
+<edge source="Norge" target="Religion i Norge"/>
+<edge source="Norge" target="Byer i Norge"/>
+<edge source="Norge" target="Harald 5"/>
+<edge source="Norge" target="Stortinget"/>
+<edge source="Norge" target="regjeringen"/>
+<edge source="Norge" target="domstolene"/>
+<edge source="Norge" target="parlamentarisme"/>
+<edge source="Norge" target="stortingsvalg"/>
+<edge source="Norge" target="statsråder"/>
+<edge source="Norge" target="koalisjonsregjering"/>
+<edge source="Norge" target="Høyre"/>
+<edge source="Norge" target="Venstre"/>
+<edge source="Norge" target="Kristelig Folkeparti"/>
+<edge source="Norge" target="Erna Solberg"/>
+<edge source="Norge" target="Regjeringen Solberg"/>
+<edge source="Norge" target="fylkeskommunene"/>
+<edge source="Norge" target="region"/>
+<edge source="Norge" target="kommunereformer"/>
+<edge source="Norge" target="lagdømmer"/>
+<edge source="Norge" target="Hæren"/>
+<edge source="Norge" target="Sjøforsvaret"/>
+<edge source="Norge" target="Luftforsvaret"/>
+<edge source="Norge" target="Heimevernet"/>
+<edge source="Norge" target="verneplikt"/>
+<edge source="Norge" target="FN"/>
+<edge source="Norge" target="NATO"/>
+<edge source="Norge" target="Europarådet"/>
+<edge source="Norge" target="EFTA"/>
+<edge source="Norge" target="OECD"/>
+<edge source="Norge" target="EØS-avtalen"/>
+<edge source="Norge" target="Schengen-avtalen"/>
+<edge source="Norge" target="Norges politiske system"/>
+<edge source="Norge" target="Lokalforvaltning i Norge"/>
+<edge source="Norge" target="Rettsvesen i Norge"/>
+<edge source="Norge" target="Norges forsvar"/>
+<edge source="Norge" target="liste over Norges statsministre"/>
+<edge source="Norge" target="Det norske kongehuset"/>
+<edge source="Norge" target="yngre steinalder"/>
+<edge source="Norge" target="vikingtiden"/>
+<edge source="Norge" target="tidlig middelalder"/>
+<edge source="Norge" target="slaget i Hafrsfjorden"/>
+<edge source="Norge" target="Are Frodes"/>
+<edge source="Norge" target="høymiddelalder"/>
+<edge source="Norge" target="Kristendommen"/>
+<edge source="Norge" target="Olav Haraldsson"/>
+<edge source="Norge" target="Stiklestad"/>
+<edge source="Norge" target="kanonisert"/>
+<edge source="Norge" target="valgkongedømme"/>
+<edge source="Norge" target="Magnus Erlingsson"/>
+<edge source="Norge" target="Sverre Sigurdsson"/>
+<edge source="Norge" target="birkebeinerne"/>
+<edge source="Norge" target="Fimreite"/>
+<edge source="Norge" target="svartedauden"/>
+<edge source="Norge" target="Håkon 5s"/>
+<edge source="Norge" target="Håkon 6s"/>
+<edge source="Norge" target="Olav 4s"/>
+<edge source="Norge" target="Kalmarunionen"/>
+<edge source="Norge" target="reformasjonen"/>
+<edge source="Norge" target="protestantisk"/>
+<edge source="Norge" target="lydrike under Danmark"/>
+<edge source="Norge" target="eneveldet"/>
+<edge source="Norge" target="1814"/>
+<edge source="Norge" target="grunnlov"/>
+<edge source="Norge" target="personalunion"/>
+<edge source="Norge" target="formannskapslovene"/>
+<edge source="Norge" target="unionen oppløst i 1905"/>
+<edge source="Norge" target="Haakon 7"/>
+<edge source="Norge" target="hamskifte"/>
+<edge source="Norge" target="Amerika"/>
+<edge source="Norge" target="naturhusholdning"/>
+<edge source="Norge" target="pengehusholdning"/>
+<edge source="Norge" target="arbeiderbevegelse"/>
+<edge source="Norge" target="første verdenskrig"/>
+<edge source="Norge" target="mellomkrigstiden"/>
+<edge source="Norge" target="okkupert av Tyskland"/>
+<edge source="Norge" target="andre verdenskrig"/>
+<edge source="Norge" target="eksilstyre fra London"/>
+<edge source="Norge" target="etterkrigstiden"/>
+<edge source="Norge" target="EU"/>
+<edge source="Norge" target="EØS"/>
+<edge source="Norge" target="22. juli 2011"/>
+<edge source="Norge" target="Norges historie"/>
+<edge source="Norge" target="Kronologisk oversikt over Norges historie"/>
+<edge source="Norge" target="bruttonasjonalprodukt"/>
+<edge source="Norge" target="blandingsøkonomi"/>
+<edge source="Norge" target="markedsøkonomi"/>
+<edge source="Norge" target="Equinor"/>
+<edge source="Norge" target="Norsk Hydro"/>
+<edge source="Norge" target="primærnæringene"/>
+<edge source="Norge" target="skogbruk"/>
+<edge source="Norge" target="vågehval"/>
+<edge source="Norge" target="Vestisen"/>
+<edge source="Norge" target="Østisen"/>
+<edge source="Norge" target="naturstein"/>
+<edge source="Norge" target="skifer"/>
+<edge source="Norge" target="granitt"/>
+<edge source="Norge" target="larvikitt"/>
+<edge source="Norge" target="marmor"/>
+<edge source="Norge" target="pukk"/>
+<edge source="Norge" target="grus"/>
+<edge source="Norge" target="sand"/>
+<edge source="Norge" target="malm"/>
+<edge source="Norge" target="jernmalm"/>
+<edge source="Norge" target="Rana Gruber AS"/>
+<edge source="Norge" target="svovelkis"/>
+<edge source="Norge" target="kobber"/>
+<edge source="Norge" target="sink"/>
+<edge source="Norge" target="ilmenitt"/>
+<edge source="Norge" target="Titania AS"/>
+<edge source="Norge" target="kalkstein"/>
+<edge source="Norge" target="feltspat"/>
+<edge source="Norge" target="olivin"/>
+<edge source="Norge" target="grafitt"/>
+<edge source="Norge" target="nefelin"/>
+<edge source="Norge" target="anortositt"/>
+<edge source="Norge" target="Tyskland"/>
+<edge source="Norge" target="handelsflåten"/>
+<edge source="Norge" target="Næringsliv i Norge"/>
+<edge source="Norge" target="Økonomi i Norge"/>
+<edge source="Norge" target="Jordbruk i Norge"/>
+<edge source="Norge" target="Skogbruk i Norge"/>
+<edge source="Norge" target="Fiske og fangst i Norge"/>
+<edge source="Norge" target="Bergverksdrift i Norge"/>
+<edge source="Norge" target="Petroleumsutvinning i Norge"/>
+<edge source="Norge" target="Energi i Norge"/>
+<edge source="Norge" target="Samferdsel i Norge"/>
+<edge source="Norge" target="Turisme i Norge"/>
+<edge source="Norge" target="Norges utenrikshandel"/>
+<edge source="Norge" target="Mynt i Norge"/>
+<edge source="Norge" target="Skole og utdanning i Norge"/>
+<edge source="Norge" target="Norsk Rikskringkasting"/>
+<edge source="Norge" target="TV 2"/>
+<edge source="Norge" target="TV Norge"/>
+<edge source="Norge" target="Massemedier i Norge"/>
+<edge source="Norge" target="sagalitteraturen"/>
+<edge source="Norge" target="Island"/>
+<edge source="Norge" target="Kongespeilet"/>
+<edge source="Norge" target="Petter Dass"/>
+<edge source="Norge" target="Ludvig Holberg"/>
+<edge source="Norge" target="Henrik Ibsen"/>
+<edge source="Norge" target="Bjørnstjerne Bjørnson"/>
+<edge source="Norge" target="Alexander Kielland"/>
+<edge source="Norge" target="Jonas Lie"/>
+<edge source="Norge" target="Amalie Skram"/>
+<edge source="Norge" target="Peter Christen Asbjørnsen"/>
+<edge source="Norge" target="Jørgen Moe"/>
+<edge source="Norge" target="folkeeventyr"/>
+<edge source="Norge" target="Sigrid Undset"/>
+<edge source="Norge" target="Knut Hamsun"/>
+<edge source="Norge" target="Jens Bjørneboe"/>
+<edge source="Norge" target="Jan Kjærstad"/>
+<edge source="Norge" target="Lars Saabye Christensen"/>
+<edge source="Norge" target="Ingvar Ambjørnsen"/>
+<edge source="Norge" target="Jon Fosse"/>
+<edge source="Norge" target="Norges litteratur"/>
+<edge source="Norge" target="Ole Bull"/>
+<edge source="Norge" target="Ludvig Mathias Lindeman"/>
+<edge source="Norge" target="Johan Svendsen"/>
+<edge source="Norge" target="Kirsten Flagstad"/>
+<edge source="Norge" target="Truls Mørk"/>
+<edge source="Norge" target="a-ha"/>
+<edge source="Norge" target="elektronisk musikk"/>
+<edge source="Norge" target="Jan Garbarek"/>
+<edge source="Norge" target="Jon Christensen"/>
+<edge source="Norge" target="Sidsel Endresen"/>
+<edge source="Norge" target="Bugge Wesseltoft"/>
+<edge source="Norge" target="Biosphere"/>
+<edge source="Norge" target="Röyksopp"/>
+<edge source="Norge" target="Hans-Peter Lindstrøm"/>
+<edge source="Norge" target="hardrock"/>
+<edge source="Norge" target="black metal"/>
+<edge source="Norge" target="Musikk i Norge"/>
+<edge source="Norge" target="J. C. Dahl"/>
+<edge source="Norge" target="Adolph Tidemand"/>
+<edge source="Norge" target="Hans Gude"/>
+<edge source="Norge" target="Edvard Munch"/>
+<edge source="Norge" target="Gustav Vigeland"/>
+<edge source="Norge" target="Kai Fjell"/>
+<edge source="Norge" target="Jacob Weidemann"/>
+<edge source="Norge" target="Inger Sitter"/>
+<edge source="Norge" target="Odd Nerdrum"/>
+<edge source="Norge" target="Anne Grimdalen"/>
+<edge source="Norge" target="Arnold Haukeland"/>
+<edge source="Norge" target="Nils Aas"/>
+<edge source="Norge" target="H. D. F. Linstow,"/>
+<edge source="Norge" target="Christian H. Grosch"/>
+<edge source="Norge" target="H. E. Schirmer"/>
+<edge source="Norge" target="Henrik Bull"/>
+<edge source="Norge" target="Lars Backer"/>
+<edge source="Norge" target="Arnstein Arneberg"/>
+<edge source="Norge" target="Arne Korsmo"/>
+<edge source="Norge" target="Sverre Fehn"/>
+<edge source="Norge" target="Kunst i Norge"/>
+<edge source="Norge" target="Arkitektur i Norge"/>
+<edge source="Norge" target="Dans i Norge"/>
+<edge source="Norge" target="Ivo Caprino"/>
+<edge source="Norge" target="Flåklypa"/>
+<edge source="Norge" target="Veiviseren"/>
+<edge source="Norge" target="Film i Norge"/>
+<edge source="Norge" target="skisport"/>
+<edge source="Norge" target="fotball"/>
+<edge source="Norge" target="Idrett i Norge"/>
+<edge source="Norge" target="kommuner i Norge"/>
+<edge source="Norge" target="fylke"/>
+<edge source="Norge" target="Skandinavia"/>
+<edge source="Norge" target="Norden"/>
+<edge source="kommunister" target="Tyskland"/>
+<edge source="svearnes" target="Sverige"/>
+<edge source="Moldova" target="Europa"/>
+<edge source="Pater Noster-skjærene" target="Skagerrak"/>
+<edge source="ender" target="Europa"/>
+<edge source="demokratiske" target="Europa"/>
+<edge source="Finlands litteratur" target="Finland"/>
+<edge source="midnattssol" target="Finland"/>
+<edge source="selarter" target="Europa"/>
+<edge source="oktoberrevolusjonen" target="Finland"/>
+<edge source="Skagerrak" target="Sverige"/>
+<edge source="Skagerrak" target="Nordsjøen"/>
+<edge source="Skagerrak" target="Danmark"/>
+<edge source="Skagerrak" target="Oslofjorden"/>
+<edge source="Skagerrak" target="Agder"/>
+<edge source="Skagerrak" target="Hanstholm"/>
+<edge source="Skagerrak" target="Skagen"/>
+<edge source="Skagerrak" target="Marstrand"/>
+<edge source="Skagerrak" target="Norskerenna"/>
+<edge source="Skagerrak" target="Arendal"/>
+<edge source="Skagerrak" target="Kattegat"/>
+<edge source="Skagerrak" target="Østersjøen"/>
+<edge source="Skagerrak" target="brakkvann"/>
+<edge source="Skagerrak" target="Baltiske strøm"/>
+<edge source="Skagerrak" target="Norges geografi"/>
+<edge source="Folkeforbundet" target="Danmark"/>
+<edge source="måkefugler" target="Europa"/>
+<edge source="østblokken" target="Europa"/>
+<edge source="Riksdagen" target="Sverige"/>
+<edge source="Olsen-banden" target="Danmark"/>
+<edge source="Gustav Wied" target="Danmark"/>
+<edge source="Alvar Aalto" target="Finland"/>
+<edge source="Europarådet" target="Finland"/>
+<edge source="Europarådet" target="Danmark"/>
+<edge source="Kalevala" target="Finland"/>
+<edge source="Heidelberg" target="Tyskland"/>
+<edge source="Poteter" target="Finland"/>
+<edge source="Berlingske Tidende" target="Danmark"/>
+<edge source="Wisła" target="Østersjøen"/>
+<edge source="Verdens handelsorganisasjon" target="Finland"/>
+<edge source="hybridbiler" target="Danmark"/>
+<edge source="commedia dell'arte" target="Danmark"/>
+<edge source="Rhein" target="Tyskland"/>
+<edge source="Bonn" target="Tyskland"/>
+<edge source="Peter Høeg" target="Danmark"/>
+<edge source="Skåne" target="Sverige"/>
+<edge source="Skåne" target="Øresund"/>
+<edge source="Norges" target="Europa"/>
+<edge source="optiske" target="Tyskland"/>
+<edge source="The Shadows" target="Danmark"/>
+<edge source="parlamentariske" target="Europa"/>
+<edge source="Warszawapakten" target="Europa"/>
+<edge source="Harald Hardråde" target="Danmark"/>
+<edge source="rein" target="Europa"/>
+<edge source="faunaen" target="Europa"/>
+<edge source="taigabeltet" target="Finland"/>
+<edge source="arkitektur i Sverige" target="Sverige"/>
+<edge source="Snorre Sturlason" target="Danmark"/>
+<edge source="avleiringer" target="Europa"/>
+<edge source="Musikk i Finland" target="Finland"/>
+<edge source="symfoniorkestre" target="Tyskland"/>
+<edge source="Tysklands geografi" target="Tyskland"/>
+<edge source="Potsdamavtalen" target="Tyskland"/>
+<edge source="Nobelprisen i litteratur" target="Danmark"/>
+<edge source="Harald Lander" target="Danmark"/>
+<edge source="Pelle Erobreren" target="Danmark"/>
+<edge source="Finlands befolkning" target="Finland"/>
+<edge source="mårhund" target="Europa"/>
+<edge source="mårhund" target="Finland"/>
+<edge source="Mogens Glistrup" target="Danmark"/>
+<edge source="snøspurv" target="Europa"/>
+<edge source="Isaac Wacklin" target="Finland"/>
+<edge source="Torne älv" target="Sverige"/>
+<edge source="Sveriges landformer" target="Sverige"/>
+<edge source="subarktisk" target="Europa"/>
+<edge source="Storbritannia" target="Europa"/>
+<edge source="Storbritannia" target="Tyskland"/>
+<edge source="kråke" target="Europa"/>
+<edge source="Danmarks geografi" target="Kattegat"/>
+<edge source="Danmarks geografi" target="Danmark"/>
+<edge source="ekorn" target="Europa"/>
+<edge source="skjære" target="Europa"/>
+<edge source="Hviterussland" target="Europa"/>
+<edge source="Albania" target="Europa"/>
+<edge source="den kalde krigen" target="Europa"/>
+<edge source="Daugava" target="Østersjøen"/>
+<edge source="Jean Sibelius" target="Finland"/>
+<edge source="Danmarks litteratur" target="Danmark"/>
+<edge source="Frankrike" target="Europa"/>
+<edge source="Frankrike" target="Danmark"/>
+<edge source="Frankrike" target="Tyskland"/>
+<edge source="Hollænderdybet" target="Øresund"/>
+<edge source="det tysk-romerske rike" target="Tyskland"/>
+<edge source="Ålborg" target="Danmark"/>
+<edge source="vassdrag" target="Finland"/>
+<edge source="forholdstallsvalg" target="Finland"/>
+<edge source="Varde" target="Danmark"/>
+<edge source="temperert klima" target="Tyskland"/>
+<edge source="lavlandet" target="Tyskland"/>
+<edge source="nedbør" target="Finland"/>
+<edge source="Kypros" target="Europa"/>
+<edge source="Rügen" target="Østersjøen"/>
+<edge source="Søren Kragh-Jacobsen" target="Danmark"/>
+<edge source="fjellkjeder" target="Europa"/>
+<edge source="Lappobevegelsen" target="Finland"/>
+<edge source="verneplikt" target="Finland"/>
+<edge source="Usedom" target="Østersjøen"/>
+<edge source="Elsass" target="Tyskland"/>
+<edge source="Søren Kierkegaard" target="Danmark"/>
+<edge source="Parlamentet" target="Tyskland"/>
+<edge source="mellomistid" target="Danmark"/>
+<edge source="gaupe" target="Finland"/>
+<edge source="eik" target="Europa"/>
+<edge source="eik" target="Finland"/>
+<edge source="Svend Estridssøn" target="Danmark"/>
+<edge source="Dyreliv i Tyskland" target="Tyskland"/>
+<edge source="Karl" target="Europa"/>
+<edge source="Bob Dylan" target="Danmark"/>
+<edge source="Max-Planck" target="Tyskland"/>
+<edge source="Den kaledonske fjellkjedefolding" target="Europa"/>
+<edge source="Ekstra Bladet" target="Danmark"/>
+<edge source="Japan" target="Tyskland"/>
+<edge source="Olav Haraldsson" target="Danmark"/>
+<edge source="sysselsettingen" target="Europa"/>
+<edge source="karplanter" target="Europa"/>
+<edge source="Sveriges klima" target="Sverige"/>
+<edge source="Kaukasus" target="Europa"/>
+<edge source="Helle Thorning-Schmidt" target="Danmark"/>
+<edge source="padder" target="Danmark"/>
+<edge source="dansk" target="Skandinavia"/>
+<edge source="Eero Saarinen" target="Finland"/>
+<edge source="Amerika" target="Europa"/>
+<edge source="Finlands nasjonalsang" target="Finland"/>
+<edge source="hogst" target="Europa"/>
+<edge source="sink" target="Finland"/>
+<edge source="Mellom-Amerika" target="Europa"/>
+<edge source="Nordsjøen" target="Øresund"/>
+<edge source="Nordsjøen" target="Østersjøen"/>
+<edge source="Nordsjøen" target="Danmark"/>
+<edge source="Nordsjøen" target="Tyskland"/>
+<edge source="Konsentrasjonsleirer" target="Tyskland"/>
+<edge source="Skottland" target="Europa"/>
+<edge source="valgmonarki" target="monarki"/>
+<edge source="Vest-Europa" target="Europa"/>
+<edge source="Frederikshavn" target="Danmark"/>
+<edge source="Tornerose" target="Danmark"/>
+<edge source="indoiranske" target="Europa"/>
+<edge source="Polhavet" target="Europa"/>
+<edge source="Jugoslavia" target="Europa"/>
+<edge source="færøysk" target="Danmark"/>
+<edge source="separatfred" target="Danmark"/>
+<edge source="estisk" target="Europa"/>
+<edge source="estisk" target="Finland"/>
+<edge source="Kiel" target="Danmark"/>
+<edge source="Finlands Geografi" target="Finland"/>
+<edge source="Die Zeit" target="Tyskland"/>
+<edge source="Bild" target="Tyskland"/>
+<edge source="Gesta Danorum" target="Danmark"/>
+<edge source="bisamrotte" target="Europa"/>
+<edge source="ublikker" target="Europa"/>
+<edge source="nasjonalisme" target="Finland"/>
+<edge source="Johan Herman Wessel" target="Danmark"/>
+<edge source="kobolt" target="Finland"/>
+<edge source="Köln" target="Tyskland"/>
+<edge source="Danmarks geologi" target="Danmark"/>
+<edge source="tangostil" target="Finland"/>
+<edge source="Klima i Tyskland" target="Tyskland"/>
+<edge source="vanadium" target="Finland"/>
+<edge source="Ven" target="Øresund"/>
+<edge source="Henrik Pontoppidan" target="Danmark"/>
+<edge source="Nøtteknekkeren" target="Danmark"/>
+<edge source="fjellene" target="Europa"/>
+<edge source="siste istid" target="Østersjøen"/>
+<edge source="Partnerskap for fred" target="Finland"/>
+<edge source="temperert" target="Europa"/>
+<edge source="geologi" target="Tyskland"/>
+<edge source="middelalderens" target="monarki"/>
+<edge source="Estland" target="Europa"/>
+<edge source="Estland" target="Finland"/>
+<edge source="Estland" target="Østersjøen"/>
+<edge source="finsk-ugriske" target="Finland"/>
+<edge source="lav" target="Europa"/>
+<edge source="Slovakia" target="Europa"/>
+<edge source="Biscayabuktas" target="Europa"/>
+<edge source="kjernevåpen" target="Danmark"/>
+<edge source="svovel" target="Finland"/>
+<edge source="delstat" target="Tyskland"/>
+<edge source="Lilleasia" target="Europa"/>
+<edge source="Bille August" target="Danmark"/>
+<edge source="minoriteten" target="Tyskland"/>
+<edge source="romantikken" target="Danmark"/>
+<edge source="konkurranseevne" target="Danmark"/>
+<edge source="universiteter" target="Europa"/>
+<edge source="statsbankerott" target="Danmark"/>
+<edge source="Oslo" target="Finland"/>
+<edge source="Oslo" target="Tyskland"/>
+<edge source="vaskebjørn" target="Finland"/>
+<edge source="ettkammersystem" target="Danmark"/>
+<edge source="Europa" target="monarki"/>
+<edge source="Europa" target="Jordens"/>
+<edge source="Europa" target="verdensdel"/>
+<edge source="Europa" target="innsjø"/>
+<edge source="Europa" target="fvt."/>
+<edge source="Europa" target="hebraisk"/>
+<edge source="Europa" target="Asia"/>
+<edge source="Europa" target="Kasakhstans"/>
+<edge source="Europa" target="Det kaspiske havs"/>
+<edge source="Europa" target="Afrika"/>
+<edge source="Europa" target="Russland"/>
+<edge source="Europa" target="Kinnarodden"/>
+<edge source="Europa" target="Nordkinnhalvøya"/>
+<edge source="Europa" target="Finnmark"/>
+<edge source="Europa" target="Gavdos"/>
+<edge source="Europa" target="Kreta"/>
+<edge source="Europa" target="Spania"/>
+<edge source="Europa" target="Flores"/>
+<edge source="Europa" target="Balkanhalvøya"/>
+<edge source="Europa" target="Bottenhavet"/>
+<edge source="Europa" target="Island"/>
+<edge source="Europa" target="Sentral-Europa"/>
+<edge source="Europa" target="Øst-Europa"/>
+<edge source="Europa" target="Gibraltar"/>
+<edge source="Europa" target="Tyrkia"/>
+<edge source="Europa" target="Land i Europa"/>
+<edge source="Europa" target="monarkier"/>
+<edge source="Europa" target="geologiske tidsaldre"/>
+<edge source="Europa" target="prekambriske"/>
+<edge source="Europa" target="Sverige"/>
+<edge source="Europa" target="Finland"/>
+<edge source="Europa" target="Nord-Irland"/>
+<edge source="Europa" target="Den hercynske fjellkjedefolding"/>
+<edge source="Europa" target="Den alpine fjellkjedefolding"/>
+<edge source="Europa" target="sedimentære bergarter"/>
+<edge source="Europa" target="Danmark"/>
+<edge source="Europa" target="Nederland"/>
+<edge source="Europa" target="Tyskland"/>
+<edge source="Europa" target="kontinentalsokkel"/>
+<edge source="Europa" target="Den midtatlantiske rygg"/>
+<edge source="Europa" target="Alpene"/>
+<edge source="Europa" target="Skandinaviske halvøy"/>
+<edge source="Europa" target="Apenninene"/>
+<edge source="Europa" target="Balkanfjellene"/>
+<edge source="Europa" target="vulkaner"/>
+<edge source="Europa" target="Eyjafjallajökull"/>
+<edge source="Europa" target="Italia"/>
+<edge source="Europa" target="Dnepr"/>
+<edge source="Europa" target="Irlands"/>
+<edge source="Europa" target="Belgia"/>
+<edge source="Europa" target="lavland"/>
+<edge source="Europa" target="Kaspiske senkning"/>
+<edge source="Europa" target="Ukraina"/>
+<edge source="Europa" target="kontinental"/>
+<edge source="Europa" target="vegetasjon"/>
+<edge source="Europa" target="arter"/>
+<edge source="Europa" target="mosevegetasjon"/>
+<edge source="Europa" target="gran"/>
+<edge source="Europa" target="furu"/>
+<edge source="Europa" target="løvskog"/>
+<edge source="Europa" target="bøk"/>
+<edge source="Europa" target="steppe"/>
+<edge source="Europa" target="Ungarn"/>
+<edge source="Europa" target="Romania"/>
+<edge source="Europa" target="industrialisering"/>
+<edge source="Europa" target="pattedyr"/>
+<edge source="Europa" target="brunbjørn"/>
+<edge source="Europa" target="jerv"/>
+<edge source="Europa" target="isbjørn"/>
+<edge source="Europa" target="polarrev"/>
+<edge source="Europa" target="lemen"/>
+<edge source="Europa" target="bar"/>
+<edge source="Europa" target="rødrev"/>
+<edge source="Europa" target="mår"/>
+<edge source="Europa" target="elg"/>
+<edge source="Europa" target="bever"/>
+<edge source="Europa" target="hjort"/>
+<edge source="Europa" target="rådyr"/>
+<edge source="Europa" target="villsvin"/>
+<edge source="Europa" target="gnagere"/>
+<edge source="Europa" target="beverrotte"/>
+<edge source="Europa" target="hjortedyr"/>
+<edge source="Europa" target="fugler"/>
+<edge source="Europa" target="skogshøns"/>
+<edge source="Europa" target="kanin"/>
+<edge source="Europa" target="amfibier"/>
+<edge source="Europa" target="slanger"/>
+<edge source="Europa" target="øgler"/>
+<edge source="Europa" target="landskilpadder"/>
+<edge source="Europa" target="hvalarter"/>
+<edge source="Europa" target="havert"/>
+<edge source="Europa" target="steinkobbe"/>
+<edge source="Europa" target="pinnsvin"/>
+<edge source="Europa" target="gråspurv"/>
+<edge source="Europa" target="duearter"/>
+<edge source="Europa" target="Skandinavia"/>
+<edge source="Europa" target="fjellrype"/>
+<edge source="Europa" target="tretåspett"/>
+<edge source="Europa" target="vadere"/>
+<edge source="Europa" target="standfugler"/>
+<edge source="Europa" target="trekkfugler"/>
+<edge source="Europa" target="Benelux-landene"/>
+<edge source="Europa" target="Tsjekkia"/>
+<edge source="Europa" target="Kristendommen"/>
+<edge source="Europa" target="religionen"/>
+<edge source="Europa" target="islam"/>
+<edge source="Europa" target="greske"/>
+<edge source="Europa" target="keltiske"/>
+<edge source="Europa" target="germanske"/>
+<edge source="Europa" target="romanske"/>
+<edge source="Europa" target="slaviske"/>
+<edge source="Europa" target="baltiske"/>
+<edge source="Europa" target="finsk"/>
+<edge source="Europa" target="karelsk"/>
+<edge source="Europa" target="samisk"/>
+<edge source="Europa" target="ungarsk"/>
+<edge source="Europa" target="Malta"/>
+<edge source="Europa" target="semittiske"/>
+<edge source="Europa" target="tysk"/>
+<edge source="Europa" target="Europa – befolkning"/>
+<edge source="Europa" target="landbruk"/>
+<edge source="Europa" target="grønnsaker"/>
+<edge source="Europa" target="kjøtt"/>
+<edge source="Europa" target="melk"/>
+<edge source="Europa" target="korn"/>
+<edge source="Europa" target="frukt"/>
+<edge source="Europa" target="vin"/>
+<edge source="Europa" target="fiskeri"/>
+<edge source="Europa" target="Fiskeoppdrett"/>
+<edge source="Europa" target="kull"/>
+<edge source="Europa" target="elektrisk strøm"/>
+<edge source="Europa" target="Polen"/>
+<edge source="Europa" target="jernmalm"/>
+<edge source="Europa" target="vannkraft"/>
+<edge source="Europa" target="råjern"/>
+<edge source="Europa" target="stål"/>
+<edge source="Europa" target="industri"/>
+<edge source="Europa" target="Monaco"/>
+<edge source="Europa" target="Sovjetunionen"/>
+<edge source="Europa" target="Hellas"/>
+<edge source="Europa" target="Portugal"/>
+<edge source="Europa" target="Bulgaria"/>
+<edge source="Europa" target="Den europeiske sentralbanken"/>
+<edge source="Europa" target="styringsrenten"/>
+<edge source="Europa" target="fvt"/>
+<edge source="Europa" target="kolonier"/>
+<edge source="Europa" target="bystater"/>
+<edge source="Europa" target="Athen"/>
+<edge source="Europa" target="Sparta"/>
+<edge source="Europa" target="Roma"/>
+<edge source="Europa" target="allianser"/>
+<edge source="Europa" target="Adriaterhavet"/>
+<edge source="Europa" target="Egypt"/>
+<edge source="Europa" target="Indus"/>
+<edge source="Europa" target="Peloponnes"/>
+<edge source="Europa" target="Sveits"/>
+<edge source="Europa" target="Østerrike"/>
+<edge source="Europa" target="germanerne"/>
+<edge source="Europa" target="Teutoburgerskogen"/>
+<edge source="Europa" target="Romerriket"/>
+<edge source="Europa" target="pave"/>
+<edge source="Europa" target="Frankerriket"/>
+<edge source="Europa" target="det tysk-romerske keiserdømme"/>
+<edge source="Europa" target="Kiev-riket"/>
+<edge source="Europa" target="angelsaksiske"/>
+<edge source="Europa" target="hierarkisk"/>
+<edge source="Europa" target="føydalismen"/>
+<edge source="Europa" target="nasjonalstater"/>
+<edge source="Europa" target="Sør"/>
+<edge source="Europa" target="Den store nordiske krig"/>
+<edge source="Europa" target="stormakt"/>
+<edge source="Europa" target="Den franske revolusjon"/>
+<edge source="Europa" target="dobbeltmonarki"/>
+<edge source="Europa" target="trippelalliansen"/>
+<edge source="Europa" target="første verdenskrig"/>
+<edge source="Europa" target="Tsjekkoslovakia"/>
+<edge source="Europa" target="Luxembourg"/>
+<edge source="Europa" target="USA"/>
+<edge source="Europa" target="Normandie"/>
+<edge source="Europa" target="Berlin"/>
+<edge source="Europa" target="NATO"/>
+<edge source="Europa" target="diktaturer"/>
+<edge source="Europa" target="folkerepublikker"/>
+<edge source="Europa" target="kommunistpartier"/>
+<edge source="Europa" target="Afghanistan"/>
+<edge source="Europa" target="markedsøkonomiske"/>
+<edge source="Europa" target="Berlinmuren"/>
+<edge source="Europa" target="Latvia"/>
+<edge source="Europa" target="borgerkrig"/>
+<edge source="Europa" target="Bosnia-Hercegovina"/>
+<edge source="Europa" target="Kroatia"/>
+<edge source="Europa" target="Serbia"/>
+<edge source="Europa" target="Montenegro"/>
+<edge source="Europa" target="Kosovo"/>
+<edge source="Europa" target="OSSE"/>
+<edge source="Europa" target="EFTA"/>
+<edge source="Europa" target="Den europeiske sentralbanks"/>
+<edge source="nobelpriser" target="Tyskland"/>
+<edge source="Seinäjoki" target="Finland"/>
+<edge source="elektroteknisk" target="Tyskland"/>
+<edge source="tundravegetasjon" target="Finland"/>
+<edge source="München" target="Tyskland"/>
+<edge source="Socialdemokraterna" target="Sverige"/>
+<edge source="skjærgård" target="Finland"/>
+<edge source="Saimaa" target="Finland"/>
+<edge source="utenriksminister" target="Danmark"/>
+<edge source="orrfugl" target="Finland"/>
+<edge source="kvensk" target="Skandinavia"/>
+<edge source="Johann Friedrich Struensee" target="Danmark"/>
+<edge source="Finland" target="Skandinavia"/>
+<edge source="Finland" target="Sverige"/>
+<edge source="Finland" target="republikk"/>
+<edge source="Finland" target="Norden"/>
+<edge source="Finland" target="Russland"/>
+<edge source="Finland" target="Finskebukta"/>
+<edge source="Finland" target="Åland"/>
+<edge source="Finland" target="Bottenhavet"/>
+<edge source="Finland" target="Østersjøen"/>
+<edge source="Finland" target="Finsk"/>
+<edge source="Finland" target="samisk"/>
+<edge source="Finland" target="Sovjetunionen"/>
+<edge source="Finland" target="Helsingfors"/>
+<edge source="Finland" target="Publius Cornelius Tacitus"/>
+<edge source="Finland" target="lavland"/>
+<edge source="Finland" target="Bottenviken"/>
+<edge source="Finland" target="Kemi älv"/>
+<edge source="Finland" target="Enare"/>
+<edge source="Finland" target="Halti"/>
+<edge source="Finland" target="kystklima"/>
+<edge source="Finland" target="snødekke"/>
+<edge source="Finland" target="barskog"/>
+<edge source="Finland" target="fjellbjørk"/>
+<edge source="Finland" target="dvergbjørk"/>
+<edge source="Finland" target="lind"/>
+<edge source="Finland" target="Nord-Norge"/>
+<edge source="Finland" target="elg"/>
+<edge source="Finland" target="røyskatt"/>
+<edge source="Finland" target="snømus"/>
+<edge source="Finland" target="brunbjørn"/>
+<edge source="Finland" target="Villsvin"/>
+<edge source="Finland" target="havert"/>
+<edge source="Finland" target="storfugl"/>
+<edge source="Finland" target="Gjedde"/>
+<edge source="Finland" target="sik"/>
+<edge source="Finland" target="Planteliv i Finland"/>
+<edge source="Finland" target="Dyreliv i Finland"/>
+<edge source="Finland" target="samer"/>
+<edge source="Finland" target="evangelisk-lutherske kirke"/>
+<edge source="Finland" target="russisk-ortodokse kirke"/>
+<edge source="Finland" target="finsk"/>
+<edge source="Finland" target="svensk"/>
+<edge source="Finland" target="finlandssvensk"/>
+<edge source="Finland" target="Samisk"/>
+<edge source="Finland" target="russisktalende"/>
+<edge source="Finland" target="estisktalende"/>
+<edge source="Finland" target="thai"/>
+<edge source="Finland" target="kinesisk"/>
+<edge source="Finland" target="arabisk"/>
+<edge source="Finland" target="engelsk"/>
+<edge source="Finland" target="Eduskunta"/>
+<edge source="Finland" target="fredsbevarende operasjoner"/>
+<edge source="Finland" target="FN"/>
+<edge source="Finland" target="Nordisk råd"/>
+<edge source="Finland" target="OSSE"/>
+<edge source="Finland" target="OECD"/>
+<edge source="Finland" target="Arktisk råd"/>
+<edge source="Finland" target="Barentsrådet"/>
+<edge source="Finland" target="NATO"/>
+<edge source="Finland" target="Finlands politiske system"/>
+<edge source="Finland" target="Finlands forsvar"/>
+<edge source="Finland" target="folkevandringstiden"/>
+<edge source="Finland" target="kristendommen"/>
+<edge source="Finland" target="korstog"/>
+<edge source="Finland" target="Den store nordiske krig"/>
+<edge source="Finland" target="Nystad"/>
+<edge source="Finland" target="Karelen"/>
+<edge source="Finland" target="Viborg"/>
+<edge source="Finland" target="tsar Alexander 1"/>
+<edge source="Finland" target="Nikolaj I. Bobrikov"/>
+<edge source="Finland" target="borgerkrig"/>
+<edge source="Finland" target="Mannerheim"/>
+<edge source="Finland" target="Vinterkrigen"/>
+<edge source="Finland" target="Paris"/>
+<edge source="Finland" target="Schengen-samarbeidet"/>
+<edge source="Finland" target="euro"/>
+<edge source="Finland" target="bygg"/>
+<edge source="Finland" target="havre"/>
+<edge source="Finland" target="hvete"/>
+<edge source="Finland" target="svin"/>
+<edge source="Finland" target="reinsdyr"/>
+<edge source="Finland" target="Outokumpu"/>
+<edge source="Finland" target="kobber"/>
+<edge source="Finland" target="nikkel"/>
+<edge source="Finland" target="jern"/>
+<edge source="Finland" target="gull"/>
+<edge source="Finland" target="vannkraft"/>
+<edge source="Finland" target="fossilt brensel"/>
+<edge source="Finland" target="Tyskland"/>
+<edge source="Finland" target="Økonomi og næringsliv i Finland"/>
+<edge source="Finland" target="Mynt, mål og vekt i Finland"/>
+<edge source="Finland" target="Helsingin Sanomat"/>
+<edge source="Finland" target="Massemedier i Finland"/>
+<edge source="Finland" target="Elias Lönnrot"/>
+<edge source="Finland" target="Aleksis Kivi"/>
+<edge source="Finland" target="Johan Ludvig Runeberg"/>
+<edge source="Finland" target="Minna Canth"/>
+<edge source="Finland" target="Edith Södergran"/>
+<edge source="Finland" target="Frans Eemil Sillanpää"/>
+<edge source="Finland" target="Nobelprisen"/>
+<edge source="Finland" target="Toivo Pekkanen"/>
+<edge source="Finland" target="Väinö Linna"/>
+<edge source="Finland" target="Tove Jansson"/>
+<edge source="Finland" target="Henrik Tikkanen"/>
+<edge source="Finland" target="Arto Paasilinna"/>
+<edge source="Finland" target="Monika Fagerholm"/>
+<edge source="Finland" target="Sofi Oksanen"/>
+<edge source="Finland" target="kantele"/>
+<edge source="Finland" target="fløyter"/>
+<edge source="Finland" target="horn"/>
+<edge source="Finland" target="neverlur"/>
+<edge source="Finland" target="middelalderen"/>
+<edge source="Finland" target="Bernhard Henrik Crusell"/>
+<edge source="Finland" target="Fredrik Pacius"/>
+<edge source="Finland" target="kunstmusikk"/>
+<edge source="Finland" target="Akseli Gallen-Kallela"/>
+<edge source="Finland" target="Helene Schjerfbeck"/>
+<edge source="Finland" target="skulptør"/>
+<edge source="Finland" target="Wainö Aaltonen"/>
+<edge source="Finland" target="Eliel Saarinen"/>
+<edge source="Finland" target="tekstilkunst"/>
+<edge source="Finland" target="Marimekko"/>
+<edge source="Finland" target="Vuokko"/>
+<edge source="Finland" target="Kunst i Finland"/>
+<edge source="Finland" target="Skisport"/>
+<edge source="Finland" target="ishockey"/>
+<edge source="Smygehuk" target="Sverige"/>
+<edge source="Habsburgerne" target="Tyskland"/>
+<edge source="EFTA" target="Danmark"/>
+<edge source="Otto I" target="Tyskland"/>
+<edge source="Sovjetunionen" target="Danmark"/>
+<edge source="Sovjetunionen" target="Tyskland"/>
+<edge source="Kronborg slott" target="Danmark"/>
+<edge source="Teater i Danmark" target="Danmark"/>
+<edge source="design" target="Danmark"/>
+<edge source="Tysklands forsvar" target="Tyskland"/>
+<edge source="Dortmund" target="Tyskland"/>
+<edge source="Malmø" target="Østersjøen"/>
+<edge source="gylne bulle" target="Tyskland"/>
+<edge source="Norge under andre verdenskrig" target="Tyskland"/>
+<edge source="sultan" target="monarki"/>
+<edge source="Dogme95" target="Danmark"/>
+<edge source="Skandinavisme" target="Skandinavia"/>
+<edge source="Vest-Preussen" target="Tyskland"/>
+<edge source="Språk i Tyskland" target="Tyskland"/>
+<edge source="Benjamin Christensen" target="Danmark"/>
+<edge source="USA" target="Tyskland"/>
+<edge source="Sveriges kyst" target="Sverige"/>
+<edge source="Sveriges kyst" target="Kattegat"/>
+<edge source="Sveriges politiske system" target="Sverige"/>
+<edge source="muslimer" target="Tyskland"/>
+<edge source="litteratur" target="Tyskland"/>
+<edge source="mineraler" target="Danmark"/>
+<edge source="Belgia" target="Tyskland"/>
+<edge source="keiser" target="monarki"/>
+<edge source="keiser" target="Tyskland"/>
+<edge source="Den norske kyststrømmen" target="Østersjøen"/>
+<edge source="København" target="Øresund"/>
+<edge source="København" target="Østersjøen"/>
+<edge source="København" target="Danmark"/>
+<edge source="diktatur" target="Tyskland"/>
+<edge source="nøytralitet" target="Danmark"/>
+<edge source="Varberg" target="Kattegat"/>
+<edge source="Bornholm" target="Østersjøen"/>
+<edge source="Bornholm" target="Danmark"/>
+<edge source="Kattegat" target="Sverige"/>
+<edge source="Kattegat" target="Danmark"/>
+<edge source="Kattegat" target="Sjælland"/>
+<edge source="Kattegat" target="Fyn"/>
+<edge source="Kattegat" target="Skagen"/>
+<edge source="Kattegat" target="Marstrand"/>
+<edge source="Kattegat" target="Læsø"/>
+<edge source="Kattegat" target="Anholt"/>
+<edge source="Kattegat" target="Lillebælt"/>
+<edge source="Kattegat" target="Øresund"/>
+<edge source="Kattegat" target="Østersjøen"/>
+<edge source="Kattegat" target="brakkvannet"/>
+<edge source="enevelde" target="monarki"/>
+<edge source="oppholdstillatelse" target="Danmark"/>
+<edge source="Sult" target="Danmark"/>
+<edge source="planteliv i Sverige" target="Sverige"/>
+<edge source="hyperinflasjon" target="Tyskland"/>
+<edge source="Bent Sørensen" target="Danmark"/>
+<edge source="Nordisk råd" target="Norden"/>
+<edge source="Nordisk råd" target="Danmark"/>
+<edge source="kristne" target="Tyskland"/>
+<edge source="Christian 7" target="Danmark"/>
+<edge source="barskog" target="Tyskland"/>
+<edge source="brakkvann" target="Østersjøen"/>
+<edge source="familieplanlegging" target="Danmark"/>
+<edge source="eventyr" target="Danmark"/>
+<edge source="Idrett i Danmark" target="Danmark"/>
+<edge source="engelsk" target="Tyskland"/>
+<edge source="industri" target="Tyskland"/>
+<edge source="fertilitet" target="Danmark"/>
+<edge source="Götaland" target="Sverige"/>
+<edge source="Helsingør" target="Øresund"/>
+<edge source="Helsingør" target="Danmark"/>
+<edge source="Hårek" target="Danmark"/>
+<edge source="Weimarrepublikken" target="Tyskland"/>
+<edge source="insekter" target="Danmark"/>
+<edge source="Öland" target="Sverige"/>
+<edge source="Öland" target="Østersjøen"/>
+<edge source="Tyskland" target="Østersjøen"/>
+<edge source="Tyskland" target="Danmark"/>
+<edge source="Tyskland" target="Bundesrepublik Deutschland"/>
+<edge source="Tyskland" target="Europas"/>
+<edge source="Tyskland" target="Nederland"/>
+<edge source="Tyskland" target="Luxembourg"/>
+<edge source="Tyskland" target="Sveits"/>
+<edge source="Tyskland" target="Østerrike"/>
+<edge source="Tyskland" target="Tsjekkia"/>
+<edge source="Tyskland" target="Polen"/>
+<edge source="Tyskland" target="industriland"/>
+<edge source="Tyskland" target="union"/>
+<edge source="Tyskland" target="kulturhistorie"/>
+<edge source="Tyskland" target="Vest-Tyskland (Bundesrepublik Deutschland)"/>
+<edge source="Tyskland" target="Øst-Tyskland (Deutsche Demokratische Republik, DDR)"/>
+<edge source="Tyskland" target="Berlin"/>
+<edge source="Tyskland" target="hovedstad"/>
+<edge source="Tyskland" target="DDR"/>
+<edge source="Tyskland" target="delstater"/>
+<edge source="Tyskland" target="de allierte"/>
+<edge source="Tyskland" target="andre verdenskrig"/>
+<edge source="Tyskland" target="første verdenskrig"/>
+<edge source="Tyskland" target="Eupen-Malmédy"/>
+<edge source="Tyskland" target="Lothringen"/>
+<edge source="Tyskland" target="germanske"/>
+<edge source="Tyskland" target="Deutschland"/>
+<edge source="Tyskland" target="Tyskland"/>
+<edge source="Tyskland" target="Alpene"/>
+<edge source="Tyskland" target="mittelgebirge"/>
+<edge source="Tyskland" target="maritime"/>
+<edge source="Tyskland" target="kontinentalt"/>
+<edge source="Tyskland" target="Skog"/>
+<edge source="Tyskland" target="planting"/>
+<edge source="Tyskland" target="Furu"/>
+<edge source="Tyskland" target="gran"/>
+<edge source="Tyskland" target="Planteliv i Tyskland"/>
+<edge source="Tyskland" target="Martin Luther"/>
+<edge source="Tyskland" target="reformasjonen"/>
+<edge source="Tyskland" target="Russland"/>
+<edge source="Tyskland" target="Hamburg"/>
+<edge source="Tyskland" target="Ruhr-området"/>
+<edge source="Tyskland" target="Hamm"/>
+<edge source="Tyskland" target="Nordrhein-Westfalen"/>
+<edge source="Tyskland" target="Eifel"/>
+<edge source="Tyskland" target="Hunsrück"/>
+<edge source="Tyskland" target="Bayerischer Wald"/>
+<edge source="Tyskland" target="Bayern"/>
+<edge source="Tyskland" target="katolikker"/>
+<edge source="Tyskland" target="protestanter"/>
+<edge source="Tyskland" target="jødiske"/>
+<edge source="Tyskland" target="morsmål"/>
+<edge source="Tyskland" target="Befolkning i Tyskland"/>
+<edge source="Tyskland" target="Religion i Tyskland"/>
+<edge source="Tyskland" target="republikk"/>
+<edge source="Tyskland" target="forfatning"/>
+<edge source="Tyskland" target="Bundestag"/>
+<edge source="Tyskland" target="Forbundsdagen"/>
+<edge source="Tyskland" target="paven"/>
+<edge source="Tyskland" target="Roma"/>
+<edge source="Tyskland" target="Karl IV"/>
+<edge source="Tyskland" target="kurfyrster"/>
+<edge source="Tyskland" target="territoriet"/>
+<edge source="Tyskland" target="Hohenzollerne"/>
+<edge source="Tyskland" target="Preussen"/>
+<edge source="Tyskland" target="Det tysk-romerske riket"/>
+<edge source="Tyskland" target="Napoleonskrigene"/>
+<edge source="Tyskland" target="proklamert"/>
+<edge source="Tyskland" target="Schleswig"/>
+<edge source="Tyskland" target="Alsace"/>
+<edge source="Tyskland" target="Lorraine"/>
+<edge source="Tyskland" target="Otto von Bismarck"/>
+<edge source="Tyskland" target="kansler"/>
+<edge source="Tyskland" target="keiser Willhelm II"/>
+<edge source="Tyskland" target="Østerrike-Ungarns"/>
+<edge source="Tyskland" target="Versailles-traktaten"/>
+<edge source="Tyskland" target="abdisere"/>
+<edge source="Tyskland" target="Adolf Hitler"/>
+<edge source="Tyskland" target="rikskansler"/>
+<edge source="Tyskland" target="totalitært"/>
+<edge source="Tyskland" target="sosialdemokrater"/>
+<edge source="Tyskland" target="SA"/>
+<edge source="Tyskland" target="antisemittisk"/>
+<edge source="Tyskland" target="Nürnberglovene"/>
+<edge source="Tyskland" target="Berlinmuren"/>
+<edge source="Tyskland" target="Mikhail Gorbatsjov"/>
+<edge source="Tyskland" target="oversikt over Tysklands historie"/>
+<edge source="Tyskland" target="Kina"/>
+<edge source="Tyskland" target="bruttonasjonalprodukt"/>
+<edge source="Tyskland" target="euro"/>
+<edge source="Tyskland" target="jern"/>
+<edge source="Tyskland" target="stål"/>
+<edge source="Tyskland" target="maskin"/>
+<edge source="Tyskland" target="kjemisk"/>
+<edge source="Tyskland" target="petrokjemisk"/>
+<edge source="Tyskland" target="frukt"/>
+<edge source="Tyskland" target="vindyrking"/>
+<edge source="Tyskland" target="planøkonomi"/>
+<edge source="Tyskland" target="markedsøkonomi"/>
+<edge source="Tyskland" target="Økonomi og næringsliv i Tyskland"/>
+<edge source="Tyskland" target="Napoleonstiden"/>
+<edge source="Tyskland" target="Tysk"/>
+<edge source="Tyskland" target="arkitektur"/>
+<edge source="Tyskland" target="musikk"/>
+<edge source="Tyskland" target="billedkunst"/>
+<edge source="Tyskland" target="teatre"/>
+<edge source="Tyskland" target="det nazistiske Tysklands"/>
+<edge source="Tyskland" target="høyskoler"/>
+<edge source="Tyskland" target="matematiske"/>
+<edge source="Tyskland" target="naturvitenskaplige"/>
+<edge source="Tyskland" target="Leibniz"/>
+<edge source="Tyskland" target="Helmholtz"/>
+<edge source="Tyskland" target="Der Spiegel"/>
+<edge source="Tyskland" target="Frankfurter Allgemeine Zeitung"/>
+<edge source="Tyskland" target="Süddeutsche Zeitung"/>
+<edge source="Tyskland" target="tabloidavisen"/>
+<edge source="Tyskland" target="tysk"/>
+<edge source="Tyskland" target="ambassade"/>
+<edge source="Tyskland" target="konsulater"/>
+<edge source="Tyskland" target="Tysklands politiske system"/>
+<edge source="Stefan Löfven" target="Sverige"/>
+<edge source="styreform" target="monarki"/>
+<edge source="union" target="Sverige"/>
+<edge source="krigsskip" target="Danmark"/>
+<edge source="BT" target="Danmark"/>
+<edge source="Danmarks befolkning" target="Danmark"/>
+<edge source="Jørgen Plaetner" target="Danmark"/>
+<edge source="rhythm &amp; blues" target="Danmark"/>
+<edge source="Bohuslän" target="Sverige"/>
+<edge source="Finskebukta" target="Østersjøen"/>
+<edge source="Ringkøbing-Skjern" target="Danmark"/>
+<edge source="Poul Martin Møller" target="Danmark"/>
+<edge source="Sveriges samtidshistorie" target="Sverige"/>
+<edge source="første verdenskrig" target="Danmark"/>
+<edge source="Romatraktaten" target="Danmark"/>
+<edge source="Svanesjøen" target="Danmark"/>
+<edge source="landhevning" target="Østersjøen"/>
+<edge source="Carl Theodor Dreyer" target="Danmark"/>
+<edge source="finsk" target="Skandinavia"/>
+<edge source="monarki" target="fyrste"/>
+<edge source="monarki" target="antikken"/>
+<edge source="monarki" target="føydalvesen"/>
+<edge source="monarki" target="konge"/>
+<edge source="monarki" target="dronning"/>
+<edge source="monarki" target="storhertug"/>
+<edge source="monarki" target="arabisktalende"/>
+<edge source="monarki" target="emir"/>
+<edge source="monarki" target="forfatning"/>
+<edge source="monarki" target="tronfølge"/>
+<edge source="monarki" target="Grunnlovens"/>
+<edge source="monarki" target="Danmark-Norge"/>
+<edge source="monarki" target="Afrika"/>
+<edge source="monarki" target="Asia"/>
+<edge source="monarki" target="Oseania"/>
+<edge source="monarki" target="Samveldet av nasjoner"/>
+<edge source="monarki" target="statsoverhode"/>
+<edge source="monarki" target="republikk"/>
+<edge source="monarki" target="Sverige"/>
+<edge source="monarki" target="Danmark"/>
+<edge source="likestillings- og familiespørsmål i Sverige" target="Sverige"/>
+<edge source="Sveriges Radio" target="Sverige"/>
+<edge source="Dans i Danmark." target="Danmark"/>
+<edge source="Danmarks Radio" target="Danmark"/>
+<edge source="liste over verdens kultur- og naturarvsteder" target="Danmark"/>
+<edge source="Oscar" target="Danmark"/>
+<edge source="fugler" target="Danmark"/>
+<edge source="Saaremaa" target="Østersjøen"/>
+<edge source="Lars von Trier" target="Danmark"/>
+<edge source="Island" target="Norden"/>
+<edge source="Island" target="Danmark"/>
+<edge source="Norden" target="Skandinavia"/>
+<edge source="Norden" target="Sverige"/>
+<edge source="Norden" target="Danmark"/>
+<edge source="Norden" target="Grønland"/>
+<edge source="Norden" target="Åland"/>
+<edge source="Norden" target="Nordisk ministerråd"/>
+<edge source="Norden" target="Foreningen Norden"/>
+<edge source="folkrock" target="Danmark"/>
+<edge source="Socialistisk Folkeparti" target="Danmark"/>
+<edge source="dobbeltvedtak" target="Danmark"/>
+<edge source="Skole og utdanning i Danmark" target="Danmark"/>
+<edge source="parlamentarisk" target="Danmark"/>
+<edge source="EU" target="Sverige"/>
+<edge source="EU" target="Danmark"/>
+<edge source="Valdemar" target="Danmark"/>
+<edge source="Turisme i Danmark" target="Danmark"/>
+<edge source="Økonomi og næringsliv i Danmark" target="Danmark"/>
+<edge source="Centrum-Demokraterne" target="Danmark"/>
+<edge source="kunst i Sverige" target="Sverige"/>
+<edge source="Malmö" target="Øresund"/>
+<edge source="Oder" target="Østersjøen"/>
+<edge source="Sveriges befolkning" target="Sverige"/>
+<edge source="morsmål" target="Danmark"/>
+<edge source="Dalälven" target="Østersjøen"/>
+<edge source="Johannes Vilhelm Jensen" target="Danmark"/>
+<edge source="Russland" target="Østersjøen"/>
+<edge source="Erik" target="Danmark"/>
+<edge source="Maastricht-traktaten" target="Danmark"/>
+<edge source="Christian 5" target="Danmark"/>
+<edge source="Slesvig-Holsten" target="Danmark"/>
+<edge source="statskassen" target="Danmark"/>
+<edge source="Aqua" target="Danmark"/>
+<edge source="Gasolin" target="Danmark"/>
+<edge source="Flensburg" target="Danmark"/>
+<edge source="økonomi og næringsliv i Sverige" target="Sverige"/>
+<edge source="Herman Bang" target="Danmark"/>
+<edge source="Korsør" target="Østersjøen"/>
+<edge source="utenrikspolitikk" target="Danmark"/>
+<edge source="elbiler" target="Danmark"/>
+<edge source="kunsthåndverk" target="Danmark"/>
+<edge source="Frederik 6" target="Danmark"/>
+<edge source="arkitekt" target="Danmark"/>
+<edge source="Latvia" target="Østersjøen"/>
+<edge source="pattedyr" target="Danmark"/>
+<edge source="hiphop" target="Danmark"/>
+<edge source="Skandinavia" target="Danmark"/>
+<edge source="Skandinavia" target="Sverige"/>
+<edge source="Skandinavia" target="norsk"/>
+<edge source="Skandinavia" target="svensk"/>
+<edge source="Skandinavia" target="samisk"/>
+<edge source="Skandinavia" target="Fennoskandia"/>
+<edge source="Skandinavia" target="skandinavisme"/>
+<edge source="Gotland" target="Sverige"/>
+<edge source="Gotland" target="Østersjøen"/>
+<edge source="iranere" target="Danmark"/>
+<edge source="erkebiskop Absalon" target="Danmark"/>
+<edge source="Svealand" target="Sverige"/>
+<edge source="Kim Larsen" target="Danmark"/>
+<edge source="Århus" target="Danmark"/>
+<edge source="Jannik Hastrup" target="Danmark"/>
+<edge source="Falster" target="Danmark"/>
+<edge source="Bottenviken" target="Sverige"/>
+<edge source="Bottenviken" target="Østersjøen"/>
+<edge source="Alliansen" target="Sverige"/>
+<edge source="Brussel" target="Danmark"/>
+<edge source="Klaus Rifbjerg" target="Danmark"/>
+<edge source="Danmark" target="Øresund"/>
+<edge source="Danmark" target="Den lille havfrue"/>
+<edge source="Danmark" target="Østersjøen"/>
+<edge source="Danmark" target="Limfjorden"/>
+<edge source="Danmark" target="Sjælland"/>
+<edge source="Danmark" target="Fyn"/>
+<edge source="Danmark" target="Møn"/>
+<edge source="Danmark" target="Lolland"/>
+<edge source="Danmark" target="Grønland"/>
+<edge source="Danmark" target="sysselsetting"/>
+<edge source="Danmark" target="daner"/>
+<edge source="Danmark" target="Telemark"/>
+<edge source="Danmark" target="lavland"/>
+<edge source="Danmark" target="Møllehøj"/>
+<edge source="Danmark" target="kystklima"/>
+<edge source="Danmark" target="Golfstrømmen"/>
+<edge source="Danmark" target="krypdyr"/>
+<edge source="Danmark" target="levealder"/>
+<edge source="Danmark" target="skriftspråk"/>
+<edge source="Danmark" target="folkekirke"/>
+<edge source="Danmark" target="trossamfunn"/>
+<edge source="Danmark" target="Regioner i Danmark"/>
+<edge source="Danmark" target="dronning"/>
+<edge source="Danmark" target="kabinettsspørsmål"/>
+<edge source="Danmark" target="Danmarks forsvar"/>
+<edge source="Danmark" target="Frankerriket"/>
+<edge source="Danmark" target="Eider"/>
+<edge source="Danmark" target="Gorm"/>
+<edge source="Danmark" target="Harald Blåtand"/>
+<edge source="Danmark" target="Svend Tveskæg"/>
+<edge source="Danmark" target="Knud den store"/>
+<edge source="Danmark" target="tiende"/>
+<edge source="Danmark" target="Valdemar 2"/>
+<edge source="Danmark" target="Sverige"/>
+<edge source="Danmark" target="Kalmarunionen"/>
+<edge source="Danmark" target="enerett"/>
+<edge source="Danmark" target="Christoffer av Bayern"/>
+<edge source="Danmark" target="statskupp"/>
+<edge source="Danmark" target="Frederik 4"/>
+<edge source="Danmark" target="skånske krig"/>
+<edge source="Danmark" target="Den store nordiske krig"/>
+<edge source="Danmark" target="Thorvald Stauning"/>
+<edge source="Danmark" target="Haag"/>
+<edge source="Danmark" target="arvefølge"/>
+<edge source="Danmark" target="Landstinget"/>
+<edge source="Danmark" target="Jens Otto Krag"/>
+<edge source="Danmark" target="FN"/>
+<edge source="Danmark" target="NATO"/>
+<edge source="Danmark" target="atomvåpen"/>
+<edge source="Danmark" target="Polen"/>
+<edge source="Danmark" target="Genève"/>
+<edge source="Danmark" target="EEC"/>
+<edge source="Danmark" target="euro"/>
+<edge source="Danmark" target="Danmarks historie"/>
+<edge source="Danmark" target="Danmarks samtidshistorie"/>
+<edge source="Danmark" target="motorkjøretøy"/>
+<edge source="Danmark" target="Vejle"/>
+<edge source="Danmark" target="Mynt, mål og vekt i Danmark"/>
+<edge source="Danmark" target="August Bournonville"/>
+<edge source="Danmark" target="ballett"/>
+<edge source="Danmark" target="prima ballerina"/>
+<edge source="Danmark" target="Flemming Flindt"/>
+<edge source="Danmark" target="ensemble"/>
+<edge source="Danmark" target="Bang &amp; Olufsen"/>
+<edge source="Danmark" target="Andre verdenskrig"/>
+<edge source="Danmark" target="Bjarne Henning-Jensen"/>
+<edge source="Danmark" target="Ditte Menneskebarn"/>
+<edge source="Danmark" target="Henning Carlsen"/>
+<edge source="Danmark" target="enfant terrible"/>
+<edge source="Danmark" target="Film i Danmark"/>
+<edge source="Danmark" target="krønike"/>
+<edge source="Danmark" target="Johannes Ewald"/>
+<edge source="Danmark" target="Jens Baggesen"/>
+<edge source="Danmark" target="Steen Steensen Blicher"/>
+<edge source="Danmark" target="Karen Blixen"/>
+<edge source="Danmark" target="Jens Christian Hostrup"/>
+<edge source="Danmark" target="Martin Andersen Nexø"/>
+<edge source="Danmark" target="Hans Scherfig"/>
+<edge source="Danmark" target="Carl Nielsen"/>
+<edge source="Danmark" target="Else Marie Pade"/>
+<edge source="Danmark" target="Holberg"/>
+<edge source="Danmark" target="Kierlighed uden Strømper"/>
+<edge source="Danmark" target="Sanne Salomonsen"/>
+<edge source="Danmark" target="Benny Andersen"/>
+<edge source="Danmark" target="Musikk i Danmark"/>
+<edge source="Danmark" target="Politiken"/>
+<edge source="Danmark" target="Jyllands-Posten"/>
+<edge source="Danmark" target="Egmont"/>
+<edge source="Danmark" target="fagpresse"/>
+<edge source="Danmark" target="Massemedier i Danmark"/>
+<edge source="Danmark" target="forskning og vitenskap i Danmark"/>
+<edge source="Danmark" target="Jellingsteinene"/>
+<edge source="Mälaren" target="Østersjøen"/>
+<edge source="Fredrik Reinfeldt" target="Sverige"/>
+<edge source="Øresundsbroen" target="Øresund"/>
+<edge source="Sveriges forhistorie" target="Sverige"/>
+<edge source="Norrbotten" target="Sverige"/>
+<edge source="Øresund" target="Sverige"/>
+<edge source="Øresund" target="Sjælland"/>
+<edge source="Øresund" target="Helsingborg"/>
+<edge source="Øresund" target="Drogden"/>
+<edge source="Øresund" target="Østersjøen"/>
+<edge source="offentlig sektor" target="Sverige"/>
+<edge source="Miljöpartiet de gröna" target="Sverige"/>
+<edge source="musikk i Sverige" target="Sverige"/>
+<edge source="Sveriges historie" target="Sverige"/>
+<edge source="Nyborg" target="Østersjøen"/>
+<edge source="Kosteröarna" target="Sverige"/>
+<edge source="Härjedalen" target="Sverige"/>
+<edge source="randhav" target="Østersjøen"/>
+<edge source="landskapsarkitektur i Sverige" target="Sverige"/>
+<edge source="dyreliv i Sverige" target="Sverige"/>
+<edge source="Åland" target="Østersjøen"/>
+<edge source="Sveriges Television" target="Sverige"/>
+<edge source="Sveriges litteratur" target="Sverige"/>
+<edge source="Kalmarunionen" target="Sverige"/>
+<edge source="Polen" target="Østersjøen"/>
+<edge source="Bottenhavet" target="Sverige"/>
+<edge source="Bottenhavet" target="Østersjøen"/>
+<edge source="Sverige" target="Østersjøen"/>
+<edge source="Sverige" target="blandingsøkonomi"/>
+<edge source="Sverige" target="Stora Drammen"/>
+<edge source="Sverige" target="Sveriges geologi"/>
+<edge source="Sverige" target="Jämtland"/>
+<edge source="Lillebælt" target="Østersjøen"/>
+<edge source="Wollin" target="Østersjøen"/>
+<edge source="Østersjøen" target="Rigabukta"/>
+<edge source="Østersjøen" target="Hiiumaa"/>
+</graph></graphml>

@@ -4,4 +4,4 @@ venv
 /selenium_demo/geckodriver.log
 /BeautifulSoup_/test.py
 /NetworkX_/SNL_NETTVERK.graphml
-/venv_new
+venv_new

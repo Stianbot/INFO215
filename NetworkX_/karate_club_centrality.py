@@ -13,22 +13,27 @@ layout = nx.spring_layout(G)
 dc_color = cm.get_cmap("viridis")
 ev_color = cm.get_cmap("plasma")
 pr_color = cm.get_cmap("cividis")
+plasma = cm.get_cmap("plasma")
+
 
 nx.draw_networkx_edges(G, layout)
 nx.draw_networkx_labels(G, layout)
-nx.draw_networkx_nodes(G, layout, cmap=dc_color, node_color=list(dc.values()),
-                       node_size=list([n*800 for n in dc.values()]))
+nx.draw_networkx_nodes(G, layout, cmap=plasma, node_color=list(dc.values()),
+                       node_size=500)
+#[n*800 for n in dc.values()]
 
 plt.show()
 
 nx.draw_networkx_edges(G, layout)
-nx.draw_networkx_nodes(G, layout, cmap=ev_color, node_color=list(ev.values()),
-                       node_size=list([n*800 for n in ev.values()]))
+nx.draw_networkx_nodes(G, layout, cmap=plasma, node_color=list(ev.values()),
+                       node_size=500)
+#[n*800 for n in ev.values()]
 nx.draw_networkx_labels(G, layout)
 plt.show()
 
 nx.draw_networkx_edges(G, layout)
-nx.draw_networkx_nodes(G, layout, cmap=pr_color, node_color=list(pr.values()),
-                       node_size=list([n*5000 for n in pr.values()]))
+nx.draw_networkx_nodes(G, layout, cmap=plasma, node_color=list(pr.values()),
+                       node_size=500)
+#[n*5000 for n in pr.values()]
 nx.draw_networkx_labels(G, layout)
 plt.show()

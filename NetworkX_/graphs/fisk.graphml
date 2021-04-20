@@ -1,0 +1,2036 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="strålefinnefisker" />
+    <node id="amfibier" />
+    <node id="familie" />
+    <node id="stillehavslaksene" />
+    <node id="havniøye" />
+    <node id="sanseorganer" />
+    <node id="utviklingslæren" />
+    <node id="hudskjell" />
+    <node id="gytingen" />
+    <node id="reinsdyr" />
+    <node id="bølgelengder" />
+    <node id="stryk" />
+    <node id="oogami" />
+    <node id="blodet" />
+    <node id="kvastfinnefisk" />
+    <node id="fødselshjelperpadde" />
+    <node id="rombiske" />
+    <node id="arktisk niøye" />
+    <node id="røya" />
+    <node id="harr" />
+    <node id="saltvannsfisker" />
+    <node id="strømlinjeformet" />
+    <node id="meitemark" />
+    <node id="befruktningen" />
+    <node id="tigerhai" />
+    <node id="gjellebuer" />
+    <node id="hemoglobin" />
+    <node id="dorsale" />
+    <node id="feromoner" />
+    <node id="gattfinne" />
+    <node id="dypvannsreke" />
+    <node id="hornulke" />
+    <node id="saltvann" />
+    <node id="torpediniformes" />
+    <node id="utryddelse" />
+    <node id="arendal" />
+    <node id="gjellene" />
+    <node id="haiene" />
+    <node id="marin" />
+    <node id="kutlingfisker" />
+    <node id="øynene" />
+    <node id="saltsjø" />
+    <node id="ryggvirvler" />
+    <node id="pelagisk" />
+    <node id="grunnvann" />
+    <node id="planteriket" />
+    <node id="ormeamfibiene" />
+    <node id="klassen" />
+    <node id="generasjon – biologi" />
+    <node id="aorta" />
+    <node id="hyaluronidase" />
+    <node id="haleløse amfibier" />
+    <node id="kutlingenes" />
+    <node id="vannkraftverk" />
+    <node id="håkjerringa" />
+    <node id="saghaier" />
+    <node id="saliniteten" />
+    <node id="populasjoner" />
+    <node id="laksen" />
+    <node id="drikkevann" />
+    <node id="livmor" />
+    <node id="rektangulær" />
+    <node id="finnene" />
+    <node id="arter" />
+    <node id="sekvensiell" />
+    <node id="pilormer" />
+    <node id="enzymet" />
+    <node id="akvariefisk" />
+    <node id="syns" />
+    <node id="fjesingen" />
+    <node id="slekter" />
+    <node id="henrys lov" />
+    <node id="gass" />
+    <node id="sopp" />
+    <node id="fossiler" />
+    <node id="antarktis" />
+    <node id="vagina" />
+    <node id="lange" />
+    <node id="rekker" />
+    <node id="vederbuk" />
+    <node id="hybrider" />
+    <node id="horndannelser" />
+    <node id="klassifikasjonen" />
+    <node id="trias" />
+    <node id="føletråder" />
+    <node id="ben" />
+    <node id="anadrome" />
+    <node id="evolusjonære slektskapet" />
+    <node id="nedbør" />
+    <node id="ural" />
+    <node id="arten" />
+    <node id="gameter" />
+    <node id="kutlinger" />
+    <node id="urinledere" />
+    <node id="insekter" />
+    <node id="eggceller" />
+    <node id="benfisk" />
+    <node id="kontinentet" />
+    <node id="leppene" />
+    <node id="eggcelle" />
+    <node id="fisk" />
+    <node id="planktonet" />
+    <node id="nord-afrika" />
+    <node id="sørv" />
+    <node id="raser" />
+    <node id="vassdragsreguleringer" />
+    <node id="lungefisker" />
+    <node id="vassdragene" />
+    <node id="labrador" />
+    <node id="haredyr" />
+    <node id="sportsfiske" />
+    <node id="refugier" />
+    <node id="hvithai" />
+    <node id="kjønn" />
+    <node id="spene" />
+    <node id="hydrostatiske trykket" />
+    <node id="ketalaks" />
+    <node id="ulker" />
+    <node id="giften" />
+    <node id="reprodusere" />
+    <node id="sjøørret" />
+    <node id="livets evolusjonshistorie" />
+    <node id="brusk" />
+    <node id="svalbard" />
+    <node id="blodomløp" />
+    <node id="ålefiske" />
+    <node id="vulkanutbrudd" />
+    <node id="selektert" />
+    <node id="eggcellen" />
+    <node id="kenguru" />
+    <node id="ål" />
+    <node id="fossile" />
+    <node id="karpefamilien" />
+    <node id="halefinnens" />
+    <node id="overfamilien" />
+    <node id="flørt" />
+    <node id="slim" />
+    <node id="kinesisk kjempe-salamander" />
+    <node id="plankton" />
+    <node id="kulverter" />
+    <node id="økosystemene" />
+    <node id="krystallkutling" />
+    <node id="diatomeer" />
+    <node id="habitatbruk" />
+    <node id="cytoplasma" />
+    <node id="lunge" />
+    <node id="eggfuring" />
+    <node id="humlefisk" />
+    <node id="rødlisten" />
+    <node id="gråhaier" />
+    <node id="oksidasjon" />
+    <node id="vekselvarme" />
+    <node id="guaninkrystaller" />
+    <node id="karbon" />
+    <node id="salamandere" />
+    <node id="hovdyr" />
+    <node id="sik" />
+    <node id="arveanlegg" />
+    <node id="rotte" />
+    <node id="diffunderer" />
+    <node id="perm" />
+    <node id="slimkjertler" />
+    <node id="ålekvabbe" />
+    <node id="virvler" />
+    <node id="havvann" />
+    <node id="permafrost" />
+    <node id="varmblodige dyr" />
+    <node id="bruskstykker" />
+    <node id="frosk" />
+    <node id="les om klimaendringer gjennom jordens historie" />
+    <node id="jura" />
+    <node id="urfisk" />
+    <node id="slimål" />
+    <node id="zygote" />
+    <node id="artene" />
+    <node id="invertebrater" />
+    <node id="altetere" />
+    <node id="stigbøylen" />
+    <node id="laue" />
+    <node id="ammocoetes" />
+    <node id="nitimen" />
+    <node id="seksuell seleksjon" />
+    <node id="stiklingfisk" />
+    <node id="bjørn" />
+    <node id="immobil" />
+    <node id="skater" />
+    <node id="goliatfrosk" />
+    <node id="bjørnøya" />
+    <node id="vänerlaks" />
+    <node id="tarmkanalen" />
+    <node id="organisme" />
+    <node id="dvale" />
+    <node id="skjelett" />
+    <node id="gjedde" />
+    <node id="gjeller" />
+    <node id="overhuden" />
+    <node id="gruvedrift" />
+    <node id="muslinger" />
+    <node id="island" />
+    <node id="numedalslågen" />
+    <node id="masse" />
+    <node id="midt-norge" />
+    <node id="hinner" />
+    <node id="milten" />
+    <node id="trommehinnen" />
+    <node id="grus" />
+    <node id="atmosfære" />
+    <node id="olje" />
+    <node id="organ" />
+    <node id="løkfrosk" />
+    <node id="sur nedbør" />
+    <node id="kjønnshormoner" />
+    <node id="biologiske mangfoldet" />
+    <node id="symbiotiske" />
+    <node id="eøs" />
+    <node id="jacobsons organ" />
+    <node id="fugler" />
+    <node id="mort" />
+    <node id="latinske navn" />
+    <node id="carl von linné" />
+    <node id="hval" />
+    <node id="laksefisker" />
+    <node id="fiskeøgler" />
+    <node id="malaria" />
+    <node id="rotskudd" />
+    <node id="differensiering" />
+    <node id="fiskeart" />
+    <node id="global oppvarming" />
+    <node id="fosser" />
+    <node id="skall." />
+    <node id="nederland" />
+    <node id="klimadebatten – faglige spørsmål" />
+    <node id="isfisk" />
+    <node id="hork" />
+    <node id="flyndrer" />
+    <node id="kjertler" />
+    <node id="smaksløkene" />
+    <node id="hierarkiske klassifikasjonssystemet" />
+    <node id="slamkryperne" />
+    <node id="slektskap som sosialt fenomen" />
+    <node id="tangnålens" />
+    <node id="kuldetolerante" />
+    <node id="oksygen" />
+    <node id="bekkerøye" />
+    <node id="isogami" />
+    <node id="kjønnsceller" />
+    <node id="horn" />
+    <node id="australia" />
+    <node id="amfibisk" />
+    <node id="respiratorisk" />
+    <node id="kvastfinnefisker" />
+    <node id="saltholdighet" />
+    <node id="larver" />
+    <node id="antarktiske" />
+    <node id="reseptorer" />
+    <node id="stam" />
+    <node id="klimaendringer gjennom jordens historie" />
+    <node id="kjønnsorganer" />
+    <node id="latimeria" />
+    <node id="mikropylen" />
+    <node id="mellomøret" />
+    <node id="gyting" />
+    <node id="zygoten" />
+    <node id="sæd" />
+    <node id="makrell" />
+    <node id="lakselus" />
+    <node id="spermie" />
+    <node id="tarm" />
+    <node id="kromosomal kjønnsbestemmelse" />
+    <node id="gepard" />
+    <node id="nidelva" />
+    <node id="haleamfibier" />
+    <node id="ørekyt" />
+    <node id="laks" />
+    <node id="melke" />
+    <node id="elektrisk fisk" />
+    <node id="muslingskall" />
+    <node id="volum" />
+    <node id="follikkelceller" />
+    <node id="barentshavet" />
+    <node id="leik" />
+    <node id="blod" />
+    <node id="alaska" />
+    <node id="temperaturen" />
+    <node id="blinkhinne" />
+    <node id="amfibier og krypdyr i norge" />
+    <node id="infusjonsdyr" />
+    <node id="vibrasjoner" />
+    <node id="tang" />
+    <node id="vårsildfisket" />
+    <node id="celledeling" />
+    <node id="kromosomer" />
+    <node id="kraniet" />
+    <node id="natrium" />
+    <node id="livet" />
+    <node id="pansergjedder" />
+    <node id="drektighetstid" />
+    <node id="færøyene" />
+    <node id="konvektiv nedbør" />
+    <node id="golfstrømmen" />
+    <node id="flaggermus" />
+    <node id="krypdyr" />
+    <node id="koralldyr" />
+    <node id="hav" />
+    <node id="regnbueørret" />
+    <node id="urinblæra" />
+    <node id="metabolisme" />
+    <node id="les om klimaperioder i norden" />
+    <node id="ferskvann" />
+    <node id="saltholdigheten" />
+    <node id="ørestein" />
+    <node id="kjeveløse" />
+    <node id="yngelpleie" />
+    <node id="hammeren" />
+    <node id="populasjonene" />
+    <node id="tilbakekobling" />
+    <node id="passatvindene" />
+    <node id="vänern" />
+    <node id="urinblæren" />
+    <node id="osmotisk" />
+    <node id="blindtarmen" />
+    <node id="spermier" />
+    <node id="lagesild" />
+    <node id="sild" />
+    <node id="larve" />
+    <node id="plantekost" />
+    <node id="elektromagnetiske" />
+    <node id="kontinentalskråningen" />
+    <node id="orden" />
+    <node id="trepigget stingsild" />
+    <node id="vingesnegler" />
+    <node id="innsjø" />
+    <node id="trysilelva" />
+    <node id="kjønnskromosom" />
+    <node id="helhoder" />
+    <node id="kalking" />
+    <node id="trøndelag" />
+    <node id="klimaendringer" />
+    <node id="muskler" />
+    <node id="kjeveløs" />
+    <node id="planter" />
+    <node id="orectolobiformes" />
+    <node id="blegen" />
+    <node id="munnhulen" />
+    <node id="rumpetroll" />
+    <node id="– samfunnsvitenskap" />
+    <node id="norskehavet" />
+    <node id="settefiskanlegg" />
+    <node id="fiskene" />
+    <node id="ormer" />
+    <node id="løvfrosk" />
+    <node id="dørstokkart" />
+    <node id="sjøhesten" />
+    <node id="artsdatabankens" />
+    <node id="de strålefinnede fiskene" />
+    <node id="diploid" />
+    <node id="bruskfisk" />
+    <node id="artsdatabanken" />
+    <node id="utriculus" />
+    <node id="rundmunner" />
+    <node id="fordøyelsen" />
+    <node id="strålefinnede fisker" />
+    <node id="byttedyr" />
+    <node id="drektighetstiden" />
+    <node id="havet" />
+    <node id="hudtenner" />
+    <node id="nakenrotter" />
+    <node id="stingsildfamilien" />
+    <node id="ernst johannes schmidt" />
+    <node id="benfiskenes" />
+    <node id="drammenselva" />
+    <node id="tennene" />
+    <node id="spermen" />
+    <node id="hinne" />
+    <node id="dyphavsmarulker" />
+    <node id="slekten" />
+    <node id="stillehavslaks" />
+    <node id="dyreplankton" />
+    <node id="overhudens" />
+    <node id="katadrome" />
+    <node id="brasme" />
+    <node id="svamper" />
+    <node id="ammoniakk" />
+    <node id="glomma" />
+    <node id="ørkenene" />
+    <node id="finner" />
+    <node id="slimåler" />
+    <node id="stingsild" />
+    <node id="følesansen" />
+    <node id="bangladesh" />
+    <node id="stillehavet" />
+    <node id="pigghuder" />
+    <node id="nitrogen" />
+    <node id="bikirer" />
+    <node id="siste istid" />
+    <node id="ekte skater" />
+    <node id="konjugasjon" />
+    <node id="globale middeltemperaturen" />
+    <node id="sædceller" />
+    <node id="klasse" />
+    <node id="villaks" />
+    <node id="monogami" />
+    <node id="tenner" />
+    <node id="tunfisk" />
+    <node id="hermafroditt" />
+    <node id="sommerfuglenes" />
+    <node id="kjøttfinnefisker" />
+    <node id="haleløse amfibiene" />
+    <node id="sener" />
+    <node id="mennesket" />
+    <node id="hud" />
+    <node id="absorpsjonen" />
+    <node id="devon" />
+    <node id="pattedyrenes evolusjon" />
+    <node id="ferskvannsfisker i norge" />
+    <node id="gjennomsnitt" />
+    <node id="egg" />
+    <node id="sargassohavet" />
+    <node id="fiskelarver" />
+    <node id="ektoterme dyr." />
+    <node id="maldivene" />
+    <node id="gyter" />
+    <node id="vindeltrapp" />
+    <node id="parrstadiet" />
+    <node id="sedimenter" />
+    <node id="bergsalamander" />
+    <node id="substans" />
+    <node id="oppdrettsnæringen" />
+    <node id="morfologisk" />
+    <node id="slektskapet" />
+    <node id="finnmarksvidda" />
+    <node id="metabolske" />
+    <node id="sandkryper" />
+    <node id="ryggfinne" />
+    <node id="naturlig utvalg" />
+    <node id="hjertet" />
+    <node id="havengler" />
+    <node id="sosiale insekter" />
+    <node id="elver" />
+    <node id="røye" />
+    <node id="klokkefrosk" />
+    <node id="magesekk" />
+    <node id="skrubbe" />
+    <node id="livssyklusen" />
+    <node id="brystfinner" />
+    <node id="nefroner" />
+    <node id="pattedyr i norge" />
+    <node id="fysisk" />
+    <node id="jordbruk" />
+    <node id="testosteron" />
+    <node id="kjernedeling" />
+    <node id="myrområder" />
+    <node id="fauna" />
+    <node id="sportsfisk" />
+    <node id="atlanterhav" />
+    <node id="systematikk" />
+    <node id="ildsalamander" />
+    <node id="torsk" />
+    <node id="karpefiskene" />
+    <node id="knølhval" />
+    <node id="vekselvarme dyr" />
+    <node id="blanklaks" />
+    <node id="sprøytehull" />
+    <node id="valentin vilhelm hartvig huitfeldt-kaas" />
+    <node id="flygefisk" />
+    <node id="breiflabben" />
+    <node id="nordpadde" />
+    <node id="teleskopøyne" />
+    <node id="variasjonen" />
+    <node id="nord-amerika" />
+    <node id="skjeggtråden" />
+    <node id="virvelløse dyr" />
+    <node id="rødnebb" />
+    <node id="kjønnskjertler" />
+    <node id="gallesalter" />
+    <node id="spissnutefrosk" />
+    <node id="hjerne" />
+    <node id="brystfinnene" />
+    <node id="lagena" />
+    <node id="seks- og sjugjellede haier" />
+    <node id="psykisk" />
+    <node id="tropiske" />
+    <node id="evolusjonære" />
+    <node id="bekkeniøye" />
+    <node id="europa" />
+    <node id="kamuflasjefarger" />
+    <node id="smaks" />
+    <node id="galleblæren" />
+    <node id="alveoler" />
+    <node id="rundmunnenes" />
+    <node id="lunger" />
+    <node id="ryggmargen" />
+    <node id="strandpadde" />
+    <node id="sjimpanse" />
+    <node id="jordens" />
+    <node id="dammer" />
+    <node id="befruktning hos planter" />
+    <node id="devonperioden" />
+    <node id="biologisk systematikk" />
+    <node id="ferskvannsfisker" />
+    <node id="laksefiske" />
+    <node id="ganges" />
+    <node id="genetisk" />
+    <node id="torpedoformede" />
+    <node id="ryggraden" />
+    <node id="lungefisk" />
+    <node id="formering – biologi" />
+    <node id="halefinnen" />
+    <node id="infeksjonssykdommer" />
+    <node id="statistisk sentralbyrå" />
+    <node id="sverige" />
+    <node id="monofyletisk" />
+    <node id="ventrale" />
+    <node id="underarter" />
+    <node id="storbritannia" />
+    <node id="ioner" />
+    <node id="parasittisk" />
+    <node id="systematisk" />
+    <node id="panserpadder" />
+    <node id="befruktning" />
+    <node id="øregang" />
+    <node id="niøyefamilien" />
+    <node id="fertile" />
+    <node id="grønnflekket padde" />
+    <node id="sirkulasjon" />
+    <node id="klasser" />
+    <node id="leveren" />
+    <node id="brugde" />
+    <node id="grønnalger" />
+    <node id="middelhavslandene" />
+    <node id="new york" />
+    <node id="blåstål" />
+    <node id="knurren" />
+    <node id="filippinene" />
+    <node id="michael sars" />
+    <node id="hudparasitten" />
+    <node id="korallrevfisk" />
+    <node id="grønland" />
+    <node id="skilpadder" />
+    <node id="blodkretsløpet" />
+    <node id="landheving" />
+    <node id="leire" />
+    <node id="elveniøye" />
+    <node id="ferskvannsfisk i norge" />
+    <node id="kull" />
+    <node id="differensiert" />
+    <node id="eggene" />
+    <node id="formering" />
+    <node id="gibbon" />
+    <node id="korallrev-øyer" />
+    <node id="evolusjonsbiologi" />
+    <node id="protoktistene" />
+    <node id="håbranner" />
+    <node id="forurensning" />
+    <node id="fotosyntesen" />
+    <node id="vannskillet" />
+    <node id="organismer" />
+    <node id="dyreriket" />
+    <node id="ryggstreng" />
+    <node id="dyr" />
+    <node id="pasvik" />
+    <node id="eggstokk" />
+    <node id="vannressurser" />
+    <node id="celledelingsapparat" />
+    <node id="sewall wright" />
+    <node id="bukfinnene" />
+    <node id="evolusjon" />
+    <node id="smolt" />
+    <node id="værhår" />
+    <node id="fiskeoppdrett" />
+    <node id="grader celsius" />
+    <node id="ultrafiolett stråling" />
+    <node id="pungdyr" />
+    <node id="fettfinne" />
+    <node id="fylogeni" />
+    <node id="genetikk" />
+    <node id="natriumklorid" />
+    <node id="partialtrykk" />
+    <node id="kjønnsskifte" />
+    <node id="modellorganismer" />
+    <node id="taksonomiske" />
+    <node id="sildekongen" />
+    <node id="hvitfinnet steinulke" />
+    <node id="regnlaue" />
+    <node id="mexicogolfen" />
+    <node id="latterfrosk" />
+    <node id="turbulenser" />
+    <node id="akvarium" />
+    <node id="fiskeri" />
+    <node id="anadrom" />
+    <node id="engasjement" />
+    <node id="krypdyrene" />
+    <node id="rumpetrollet" />
+    <node id="kjønnsdimorfi" />
+    <node id="ålefaring" />
+    <node id="kjevedyrene" />
+    <node id="rovdyr" />
+    <node id="atlanterhavet" />
+    <node id="rødbete" />
+    <node id="innsjøer" />
+    <node id="åndedrettsprosessen" />
+    <node id="maneter" />
+    <node id="springfrosk" />
+    <node id="gameten" />
+    <node id="urea" />
+    <node id="stereoskopisk" />
+    <node id="kroppstemperaturen" />
+    <node id="kjever" />
+    <node id="kutikulardannelser" />
+    <node id="fett" />
+    <node id="plasma" />
+    <node id="stein" />
+    <node id="forkammer" />
+    <node id="ullhår" />
+    <node id="portugal" />
+    <node id="metamorfose" />
+    <node id="sneglehuset" />
+    <node id="bakterier" />
+    <node id="systematiske" />
+    <node id="plommesekken" />
+    <node id="asp" />
+    <node id="drivhusgasser" />
+    <node id="celledelinger" />
+    <node id="hvite" />
+    <node id="ferskvannsfisk" />
+    <node id="rognkjeks" />
+    <node id="ormeamfibier" />
+    <node id="gjelleblad" />
+    <node id="øyne" />
+    <node id="hemisfærer" />
+    <node id="ferskvannsfiske" />
+    <node id="hermafrodittisme" />
+    <node id="irland" />
+    <node id="lavfrekvente" />
+    <node id="larvene" />
+    <node id="befruktning hos dyr" />
+    <node id="ferskvann," />
+    <node id="steinsmett" />
+    <node id="forutsetning" />
+    <node id="sperm" />
+    <node id="laksefamilien" />
+    <node id="lymfesystemet" />
+    <node id="polypterus" />
+    <node id="befruktes" />
+    <node id="axolotl" />
+    <node id="sædcellen" />
+    <node id="klauvdyr" />
+    <node id="partenogenese" />
+    <node id="strålefinnefiskene" />
+    <node id="glykogen" />
+    <node id="virveldyr" />
+    <node id="haier" />
+    <node id="skatene" />
+    <node id="solabbor" />
+    <node id="vann" />
+    <node id="skall" />
+    <node id="panserhaier" />
+    <node id="niøyer" />
+    <node id="gasskjertel" />
+    <node id="cellene" />
+    <node id="svømmeblæren" />
+    <node id="amerika" />
+    <node id="kjønnscellen" />
+    <node id="laksefisk" />
+    <node id="lukte" />
+    <node id="nyrene" />
+    <node id="frosker" />
+    <node id="fisker" />
+    <node id="norge" />
+    <node id="ørret" />
+    <node id="forbenet" />
+    <node id="suter" />
+    <node id="tigris" />
+    <node id="habitater" />
+    <node id="genene" />
+    <node id="lofoten" />
+    <node id="russland" />
+    <node id="merder" />
+    <node id="damfrosk" />
+    <node id="håer" />
+    <node id="sjødyr" />
+    <node id="istid" />
+    <node id="dekkhår" />
+    <node id="nebbdyr" />
+    <node id="molekylærgenetiske" />
+    <node id="kitinhår" />
+    <node id="salinitet" />
+    <node id="oppdrett" />
+    <node id="lærhud" />
+    <node id="plastisitet" />
+    <node id="oksehodehaier" />
+    <node id="statistiske" />
+    <node id="bladlus" />
+    <node id="rhinopristiformes" />
+    <node id="synspigmenter" />
+    <node id="særkjønnet" />
+    <node id="avl" />
+    <node id="pattedyr" />
+    <node id="dvergmalle" />
+    <node id="ganoidskjell" />
+    <node id="klimaperioder i norden" />
+    <node id="symmetrisk" />
+    <node id="hermafroditter" />
+    <node id="rugepose" />
+    <node id="glassål" />
+    <node id="brystfinnenes" />
+    <node id="vestlandet" />
+    <node id="munnrugerne" />
+    <node id="gnu" />
+    <node id="riker" />
+    <node id="livssyklus" />
+    <node id="territorier" />
+    <node id="østersjøen" />
+    <node id="rødhai" />
+    <node id="kraftproduksjon" />
+    <node id="overhud" />
+    <node id="krypdyr," />
+    <node id="ganoidfisker" />
+    <node id="blodkarene" />
+    <node id="øret" />
+    <node id="urin" />
+    <node id="blodceller" />
+    <node id="nord-norge" />
+    <node id="phaeocystis" />
+    <node id="likevektssans" />
+    <node id="virveldyrene" />
+    <node id="ulv" />
+    <node id="hørsels" />
+    <node id="fargesyn" />
+    <node id="nyrer" />
+    <node id="biologisk mangfold" />
+    <node id="maurpiggsvin" />
+    <node id="biologien" />
+    <node id="planteetere" />
+    <node id="klor" />
+    <node id="ordenen" />
+    <node id="elektriske" />
+    <node id="slåpetorn" />
+    <node id="fossile fiskearter" />
+    <node id="høstflommen" />
+    <node id="spermatozo" />
+    <node id="gnagere" />
+    <node id="lysorganer" />
+    <node id="pelagiske" />
+    <node id="alger" />
+    <node id="taggpanserhaier" />
+    <node id="underrekke" />
+    <node id="laksetrappene" />
+    <node id="ryggfinner" />
+    <node id="finland" />
+    <node id="skjelettet" />
+    <node id="hertz" />
+    <node id="venesystemet" />
+    <node id="bruskfiskene" />
+    <node id="abbor" />
+    <node id="bukhulen" />
+    <node id="stoffskiftet" />
+    <node id="fuglenes" />
+    <node id="yngelen" />
+    <node id="ålfamilien" />
+    <node id="stør" />
+    <node id="brisling" />
+    <node id="fløyfisk" />
+    <node id="hegg" />
+    <node id="hvalhai" />
+    <node id="embryo" />
+    <node id="ekorn" />
+    <node id="våroppblomstringen" />
+    <node id="beltedyr" />
+    <node id="hudtennene" />
+    <node id="bløtdyr" />
+    <node id="slimhinnen" />
+    <node id="visuelt" />
+    <node id="klimaendringer i arktis" />
+    <node id="finnmarkskysten" />
+    <node id="strålefinnefisk" />
+    <node id="uer" />
+    <node id="koraller" />
+    <node id="drenering" />
+    <node id="kjønnsdimorfisme" />
+    <node id="kranium" />
+    <node id="virvelsøylen" />
+    <node id="pigment" />
+    <node id="trådsalamander" />
+    <node id="makrellfisk" />
+    <node id="sjøhester" />
+    <node id="fødes" />
+    <node id="krepsdyr" />
+    <node id="gullfisk" />
+    <node id="promille" />
+    <node id="systematikk i biologien" />
+    <node id="ordener" />
+    <node id="gullbust" />
+    <node id="molekyler" />
+    <node id="skrubbeflyndre" />
+    <node id="generasjoner" />
+    <node id="torsken" />
+    <node id="halefinne" />
+    <node id="rødliste" />
+    <node id="rajiformes" />
+    <node id="kanadarøye" />
+    <node id="miljø-dna" />
+    <node id="fossile brenslene" />
+    <node id="dambygging" />
+    <node id="havert" />
+    <node id="industri" />
+    <node id="kjeveløs fisk" />
+    <node id="blekkspruter" />
+    <node id="evolusjonen" />
+    <node id="høreorganet" />
+    <node id="marine" />
+    <node id="myliobatiformes" />
+    <node id="slektskap" />
+    <node id="vannverk" />
+    <node id="rekke" />
+    <node id="yngelstadium" />
+    <node id="sjøørreten" />
+    <node id="dna" />
+    <node id="leptocefaler" />
+    <node id="artsdannelse" />
+    <node id="isbreer" />
+    <node id="zambezi" />
+    <node id="bier" />
+    <node id="østfold" />
+    <node id="haploid" />
+    <node id="gjørs" />
+    <node id="sensitive" />
+    <node id="smoltifisering" />
+    <node id="hardy-weinbergs lov" />
+    <node id="skreien" />
+    <node id="europas" />
+    <node id="anisogami" />
+    <node id="nrk" />
+    <node id="bruskfisker" />
+    <node id="hjernen" />
+    <node id="testikler" />
+    <node id="ambolten" />
+    <node id="kvitsjøen" />
+    <node id="buttsnutefrosk" />
+    <node id="karuss" />
+    <node id="fiskesykdommer" />
+    <node id="elektriske skater" />
+    <node id="kunstig sædoverføring" />
+    <node id="eggleder" />
+    <node id="karpe" />
+    <node id="funksjon" />
+    <node id="gyte" />
+    <node id="bukfinner" />
+    <node id="kvastfinnefiskene" />
+    <node id="jordskorpen" />
+    <node id="blærer" />
+    <node id="kjønnsproporsjon" />
+    <node id="emalje" />
+    <node id="sandpapir" />
+    <node id="flire" />
+    <node id="gjellebuene" />
+    <node id="lake" />
+    <node id="gattet" />
+    <node id="predatorer" />
+    <node id="sidemuskler" />
+    <node id="familier" />
+    <node id="haier og skater" />
+    <node id="den industrielle revolusjon" />
+    <node id="hale" />
+    <node id="knokler" />
+    <node id="tilpasninger" />
+    <node id="co 2" />
+    <node id="ekstremiteter" />
+    <node id="fargestoffer" />
+    <node id="oksefrosk" />
+    <node id="fugl" />
+    <node id="sjøkuer" />
+    <node id="kalsiumkarbonat" />
+    <node id="skjell" />
+    <node id="pukkellaks" />
+    <node id="våtmark" />
+    <node id="klimapolitikk" />
+    <node id="brakkvann" />
+    <node id="svettekjertler" />
+    <node id="krøkle" />
+    <node id="fossile haier" />
+    <node id="infralyd" />
+    <node id="sørlandet" />
+    <node id="genetiske" />
+    <node id="kalsium" />
+    <node id="vinger" />
+    <node id="sidelinjeorganet" />
+    <node id="vekselvarmedyr" />
+    <node id="finner(fisk)" />
+    <node id="skjell(huddannelse)" />
+    <node id="art(biologi)" />
+    <node id="slektskap-biologi" />
+    <node id="ferskvannsfiskerinorge" />
+    <node id="saltvannsfisk" />
+    <node id="katadrom" />
+    <node id="trepiggetstingsild" />
+    <node id="befruktninghosdyr" />
+    <node id="egg(zoologi)" />
+    <edge source="strålefinnefisker" target="fisk" />
+    <edge source="strålefinnefisker" target="klasse" />
+    <edge source="strålefinnefisker" target="virveldyr" />
+    <edge source="strålefinnefisker" target="fisker" />
+    <edge source="strålefinnefisker" target="arter" />
+    <edge source="strålefinnefisker" target="haier" />
+    <edge source="strålefinnefisker" target="skater" />
+    <edge source="strålefinnefisker" target="klasser" />
+    <edge source="strålefinnefisker" target="ordener" />
+    <edge source="strålefinnefisker" target="familier" />
+    <edge source="strålefinnefisker" target="systematiske" />
+    <edge source="strålefinnefisker" target="artsdatabanken" />
+    <edge source="strålefinnefisker" target="torsk" />
+    <edge source="strålefinnefisker" target="flyndrer" />
+    <edge source="strålefinnefisker" target="makrell" />
+    <edge source="strålefinnefisker" target="ål" />
+    <edge source="strålefinnefisker" target="ørret" />
+    <edge source="strålefinnefisker" target="laks" />
+    <edge source="strålefinnefisker" target="abbor" />
+    <edge source="strålefinnefisker" target="gjedde" />
+    <edge source="strålefinnefisker" target="gullfisk" />
+    <edge source="strålefinnefisker" target="sjøhester" />
+    <edge source="amfibier" target="fisk" />
+    <edge source="amfibier" target="klasse" />
+    <edge source="amfibier" target="virveldyr" />
+    <edge source="amfibier" target="vekselvarme dyr" />
+    <edge source="amfibier" target="frosker" />
+    <edge source="amfibier" target="salamandere" />
+    <edge source="amfibier" target="krypdyr," />
+    <edge source="amfibier" target="egg" />
+    <edge source="amfibier" target="reprodusere" />
+    <edge source="amfibier" target="hud" />
+    <edge source="amfibier" target="rumpetrollet" />
+    <edge source="amfibier" target="gjeller" />
+    <edge source="amfibier" target="lunger" />
+    <edge source="amfibier" target="virvelsøylen" />
+    <edge source="amfibier" target="ormeamfibiene" />
+    <edge source="amfibier" target="haleamfibier" />
+    <edge source="amfibier" target="haleløse amfibiene" />
+    <edge source="amfibier" target="tenner" />
+    <edge source="amfibier" target="hjernen" />
+    <edge source="amfibier" target="fiskene" />
+    <edge source="amfibier" target="høreorganet" />
+    <edge source="amfibier" target="hjertet" />
+    <edge source="amfibier" target="dvale" />
+    <edge source="amfibier" target="ferskvann" />
+    <edge source="amfibier" target="saltvann" />
+    <edge source="amfibier" target="yngelpleie" />
+    <edge source="amfibier" target="drenering" />
+    <edge source="amfibier" target="våtmark" />
+    <edge source="amfibier" target="forurensning" />
+    <edge source="amfibier" target="artene" />
+    <edge source="amfibier" target="ordener" />
+    <edge source="amfibier" target="ormeamfibier" />
+    <edge source="amfibier" target="haleløse amfibier" />
+    <edge source="amfibier" target="australia" />
+    <edge source="amfibier" target="grønland" />
+    <edge source="amfibier" target="devon" />
+    <edge source="amfibier" target="kvastfinnefiskene" />
+    <edge source="amfibier" target="halefinne" />
+    <edge source="amfibier" target="karbon" />
+    <edge source="amfibier" target="kranium" />
+    <edge source="amfibier" target="panserpadder" />
+    <edge source="amfibier" target="trias" />
+    <edge source="amfibier" target="jura" />
+    <edge source="amfibier" target="krypdyrene" />
+    <edge source="amfibier" target="kinesisk kjempe-salamander" />
+    <edge source="amfibier" target="ildsalamander" />
+    <edge source="amfibier" target="axolotl" />
+    <edge source="amfibier" target="trådsalamander" />
+    <edge source="amfibier" target="bergsalamander" />
+    <edge source="amfibier" target="fødselshjelperpadde" />
+    <edge source="amfibier" target="klokkefrosk" />
+    <edge source="amfibier" target="løkfrosk" />
+    <edge source="amfibier" target="løvfrosk" />
+    <edge source="amfibier" target="nordpadde" />
+    <edge source="amfibier" target="strandpadde" />
+    <edge source="amfibier" target="grønnflekket padde" />
+    <edge source="amfibier" target="buttsnutefrosk" />
+    <edge source="amfibier" target="spissnutefrosk" />
+    <edge source="amfibier" target="springfrosk" />
+    <edge source="amfibier" target="latterfrosk" />
+    <edge source="amfibier" target="damfrosk" />
+    <edge source="amfibier" target="oksefrosk" />
+    <edge source="amfibier" target="goliatfrosk" />
+    <edge source="amfibier" target="amfibier og krypdyr i norge" />
+    <edge source="amfibier" target="utryddelse" />
+    <edge source="amfibier" target="livets evolusjonshistorie" />
+    <edge source="amfibier" target="befruktninghosdyr" />
+    <edge source="amfibier" target="egg(zoologi)" />
+    <edge source="familie" target="kutlinger" />
+    <edge source="stillehavslaksene" target="laks" />
+    <edge source="havniøye" target="fisk" />
+    <edge source="havniøye" target="ferskvannsfiskerinorge" />
+    <edge source="havniøye" target="anadrom" />
+    <edge source="havniøye" target="kjeveløs" />
+    <edge source="havniøye" target="niøyefamilien" />
+    <edge source="havniøye" target="gyter" />
+    <edge source="havniøye" target="eggene" />
+    <edge source="havniøye" target="larvene" />
+    <edge source="havniøye" target="ammocoetes" />
+    <edge source="havniøye" target="alger" />
+    <edge source="havniøye" target="bakterier" />
+    <edge source="havniøye" target="metamorfose" />
+    <edge source="havniøye" target="anadrome" />
+    <edge source="havniøye" target="parasittisk" />
+    <edge source="havniøye" target="torsk" />
+    <edge source="havniøye" target="laks" />
+    <edge source="havniøye" target="brugde" />
+    <edge source="havniøye" target="blod" />
+    <edge source="havniøye" target="artsdatabanken" />
+    <edge source="havniøye" target="rødlisten" />
+    <edge source="havniøye" target="niøyer" />
+    <edge source="havniøye" target="rundmunner" />
+    <edge source="havniøye" target="ferskvannsfisk i norge" />
+    <edge source="sanseorganer" target="fisk" />
+    <edge source="sanseorganer" target="pattedyr" />
+    <edge source="utviklingslæren" target="art(biologi)" />
+    <edge source="hudskjell" target="fisk" />
+    <edge source="gytingen" target="fisk" />
+    <edge source="reinsdyr" target="pattedyr" />
+    <edge source="bølgelengder" target="fisk" />
+    <edge source="stryk" target="ål" />
+    <edge source="oogami" target="kjønn" />
+    <edge source="blodet" target="fisk" />
+    <edge source="kvastfinnefisk" target="fisk" />
+    <edge source="rombiske" target="fisk" />
+    <edge source="arktisk niøye" target="ferskvannsfiskerinorge" />
+    <edge source="røya" target="ferskvannsfiskerinorge" />
+    <edge source="harr" target="ferskvannsfiskerinorge" />
+    <edge source="saltvannsfisker" target="fisk" />
+    <edge source="saltvannsfisker" target="saltvann" />
+    <edge source="strømlinjeformet" target="fisk" />
+    <edge source="meitemark" target="kjønn" />
+    <edge source="befruktningen" target="befruktninghosdyr" />
+    <edge source="tigerhai" target="haier" />
+    <edge source="gjellebuer" target="haier" />
+    <edge source="hemoglobin" target="fisk" />
+    <edge source="dorsale" target="fisk" />
+    <edge source="feromoner" target="pattedyr" />
+    <edge source="gattfinne" target="fisk" />
+    <edge source="gattfinne" target="finner(fisk)" />
+    <edge source="dypvannsreke" target="kjønn" />
+    <edge source="hornulke" target="ferskvannsfiskerinorge" />
+    <edge source="saltvann" target="fisk" />
+    <edge source="saltvann" target="ferskvannsfiskerinorge" />
+    <edge source="saltvann" target="saltvannsfisk" />
+    <edge source="saltvann" target="vann" />
+    <edge source="saltvann" target="natriumklorid" />
+    <edge source="saltvann" target="ioner" />
+    <edge source="saltvann" target="natrium" />
+    <edge source="saltvann" target="klor" />
+    <edge source="saltvann" target="havet" />
+    <edge source="saltvann" target="ferskvann" />
+    <edge source="saltvann" target="brakkvann" />
+    <edge source="saltvann" target="saliniteten" />
+    <edge source="saltvann" target="ferskvannsfisker" />
+    <edge source="saltvann" target="hav" />
+    <edge source="saltvann" target="salinitet" />
+    <edge source="saltvann" target="katadrom" />
+    <edge source="saltvann" target="trepiggetstingsild" />
+    <edge source="torpediniformes" target="skater" />
+    <edge source="utryddelse" target="art(biologi)" />
+    <edge source="arendal" target="laks" />
+    <edge source="gjellene" target="bruskfisker" />
+    <edge source="haiene" target="skater" />
+    <edge source="marin" target="fisk" />
+    <edge source="kutlingfisker" target="kutlinger" />
+    <edge source="øynene" target="pattedyr" />
+    <edge source="saltsjø" target="ferskvann" />
+    <edge source="ryggvirvler" target="slimål" />
+    <edge source="pelagisk" target="kutlinger" />
+    <edge source="grunnvann" target="ferskvann" />
+    <edge source="planteriket" target="art(biologi)" />
+    <edge source="klassen" target="bruskfisker" />
+    <edge source="generasjon – biologi" target="slektskap-biologi" />
+    <edge source="aorta" target="fisk" />
+    <edge source="hyaluronidase" target="befruktninghosdyr" />
+    <edge source="kutlingenes" target="fisk" />
+    <edge source="vannkraftverk" target="klimaendringer" />
+    <edge source="håkjerringa" target="haier" />
+    <edge source="saghaier" target="haier" />
+    <edge source="populasjoner" target="art(biologi)" />
+    <edge source="populasjoner" target="slektskap-biologi" />
+    <edge source="laksen" target="ferskvannsfiskerinorge" />
+    <edge source="drikkevann" target="ferskvann" />
+    <edge source="livmor" target="kjønn" />
+    <edge source="rektangulær" target="skater" />
+    <edge source="finnene" target="fisk" />
+    <edge source="arter" target="fisk" />
+    <edge source="arter" target="kutlinger" />
+    <edge source="arter" target="slektskap-biologi" />
+    <edge source="arter" target="ferskvannsfiskerinorge" />
+    <edge source="arter" target="egg(zoologi)" />
+    <edge source="arter" target="bruskfisker" />
+    <edge source="sekvensiell" target="fisk" />
+    <edge source="pilormer" target="finner(fisk)" />
+    <edge source="enzymet" target="befruktninghosdyr" />
+    <edge source="akvariefisk" target="fisk" />
+    <edge source="akvariefisk" target="trepiggetstingsild" />
+    <edge source="syns" target="fisk" />
+    <edge source="fjesingen" target="fisk" />
+    <edge source="slekter" target="fisk" />
+    <edge source="slekter" target="art(biologi)" />
+    <edge source="slekter" target="slektskap-biologi" />
+    <edge source="henrys lov" target="klimaendringer" />
+    <edge source="gass" target="klimaendringer" />
+    <edge source="sopp" target="kjønn" />
+    <edge source="fossiler" target="fisk" />
+    <edge source="fossiler" target="art(biologi)" />
+    <edge source="antarktis" target="pattedyr" />
+    <edge source="antarktis" target="klimaendringer" />
+    <edge source="vagina" target="kjønn" />
+    <edge source="lange" target="fisk" />
+    <edge source="rekker" target="art(biologi)" />
+    <edge source="vederbuk" target="ferskvannsfiskerinorge" />
+    <edge source="hybrider" target="ål" />
+    <edge source="horndannelser" target="pattedyr" />
+    <edge source="klassifikasjonen" target="fisk" />
+    <edge source="føletråder" target="slimål" />
+    <edge source="ben" target="finner(fisk)" />
+    <edge source="anadrome" target="fisk" />
+    <edge source="evolusjonære slektskapet" target="art(biologi)" />
+    <edge source="nedbør" target="ferskvann" />
+    <edge source="ural" target="laks" />
+    <edge source="arten" target="trepiggetstingsild" />
+    <edge source="gameter" target="kjønn" />
+    <edge source="kutlinger" target="fisk" />
+    <edge source="kutlinger" target="fisker" />
+    <edge source="kutlinger" target="ordenen" />
+    <edge source="kutlinger" target="slamkryperne" />
+    <edge source="kutlinger" target="sverige" />
+    <edge source="kutlinger" target="dørstokkart" />
+    <edge source="kutlinger" target="artsdatabanken" />
+    <edge source="kutlinger" target="ryggfinner" />
+    <edge source="kutlinger" target="bukfinnene" />
+    <edge source="kutlinger" target="muslingskall" />
+    <edge source="kutlinger" target="krystallkutling" />
+    <edge source="kutlinger" target="amfibisk" />
+    <edge source="kutlinger" target="akvarium" />
+    <edge source="kutlinger" target="humlefisk" />
+    <edge source="urinledere" target="fisk" />
+    <edge source="insekter" target="skjell(huddannelse)" />
+    <edge source="insekter" target="befruktninghosdyr" />
+    <edge source="insekter" target="egg(zoologi)" />
+    <edge source="eggceller" target="kjønn" />
+    <edge source="benfisk" target="fisk" />
+    <edge source="kontinentet" target="laks" />
+    <edge source="leppene" target="fisk" />
+    <edge source="eggcelle" target="befruktninghosdyr" />
+    <edge source="fisk" target="vekselvarme" />
+    <edge source="fisk" target="slimål" />
+    <edge source="fisk" target="pattedyr" />
+    <edge source="fisk" target="finner" />
+    <edge source="fisk" target="slektskapet" />
+    <edge source="fisk" target="ferskvannsfisker" />
+    <edge source="fisk" target="klimaendringer" />
+    <edge source="fisk" target="ferskvann" />
+    <edge source="fisk" target="laks" />
+    <edge source="fisk" target="katadrome" />
+    <edge source="fisk" target="ål" />
+    <edge source="fisk" target="trepigget stingsild" />
+    <edge source="fisk" target="brakkvann" />
+    <edge source="fisk" target="kjønn" />
+    <edge source="fisk" target="befruktning" />
+    <edge source="fisk" target="egg" />
+    <edge source="fisk" target="melke" />
+    <edge source="fisk" target="bruskfiskene" />
+    <edge source="fisk" target="haier" />
+    <edge source="fisk" target="skater" />
+    <edge source="fisk" target="uer" />
+    <edge source="fisk" target="ålekvabbe" />
+    <edge source="fisk" target="drektighetstid" />
+    <edge source="fisk" target="embryo" />
+    <edge source="fisk" target="rødnebb" />
+    <edge source="fisk" target="blåstål" />
+    <edge source="fisk" target="kroppstemperaturen" />
+    <edge source="fisk" target="fugler" />
+    <edge source="fisk" target="lukte" />
+    <edge source="fisk" target="smaks" />
+    <edge source="fisk" target="hørsels" />
+    <edge source="fisk" target="likevektssans" />
+    <edge source="fisk" target="elektromagnetiske" />
+    <edge source="fisk" target="elektriske" />
+    <edge source="fisk" target="systematikk" />
+    <edge source="fisk" target="klasser" />
+    <edge source="fisk" target="ordener" />
+    <edge source="fisk" target="monofyletisk" />
+    <edge source="fisk" target="krypdyr" />
+    <edge source="fisk" target="fugl" />
+    <edge source="fisk" target="kjeveløse" />
+    <edge source="fisk" target="kjevedyrene" />
+    <edge source="fisk" target="slimåler" />
+    <edge source="fisk" target="niøyer" />
+    <edge source="fisk" target="helhoder" />
+    <edge source="fisk" target="bikirer" />
+    <edge source="fisk" target="kvastfinnefisker" />
+    <edge source="fisk" target="lungefisker" />
+    <edge source="fisk" target="kjever" />
+    <edge source="fisk" target="strålefinnefiskene" />
+    <edge source="fisk" target="bruskfisker" />
+    <edge source="fisk" target="knokler" />
+    <edge source="fisk" target="kjøttfinnefisker" />
+    <edge source="fisk" target="molekylærgenetiske" />
+    <edge source="fisk" target="artsdatabankens" />
+    <edge source="fisk" target="industri" />
+    <edge source="fisk" target="norge" />
+    <edge source="fisk" target="statistisk sentralbyrå" />
+    <edge source="fisk" target="sportsfiske" />
+    <edge source="fisk" target="makrell" />
+    <edge source="fisk" target="tunfisk" />
+    <edge source="fisk" target="ulker" />
+    <edge source="fisk" target="flyndrer" />
+    <edge source="fisk" target="sildekongen" />
+    <edge source="fisk" target="habitatbruk" />
+    <edge source="fisk" target="substans" />
+    <edge source="fisk" target="ryggfinne" />
+    <edge source="fisk" target="halefinne" />
+    <edge source="fisk" target="makrellfisk" />
+    <edge source="fisk" target="laksefisk" />
+    <edge source="fisk" target="fettfinne" />
+    <edge source="fisk" target="halefinnens" />
+    <edge source="fisk" target="symmetrisk" />
+    <edge source="fisk" target="urfisk" />
+    <edge source="fisk" target="brystfinner" />
+    <edge source="fisk" target="bukfinner" />
+    <edge source="fisk" target="gattet" />
+    <edge source="fisk" target="flygefisk" />
+    <edge source="fisk" target="knurren" />
+    <edge source="fisk" target="breiflabben" />
+    <edge source="fisk" target="byttedyr" />
+    <edge source="fisk" target="systematisk" />
+    <edge source="fisk" target="overhud" />
+    <edge source="fisk" target="lærhud" />
+    <edge source="fisk" target="slim" />
+    <edge source="fisk" target="giften" />
+    <edge source="fisk" target="tenner" />
+    <edge source="fisk" target="emalje" />
+    <edge source="fisk" target="polypterus" />
+    <edge source="fisk" target="latimeria" />
+    <edge source="fisk" target="ganoidskjell" />
+    <edge source="fisk" target="skjell" />
+    <edge source="fisk" target="metabolisme" />
+    <edge source="fisk" target="fargestoffer" />
+    <edge source="fisk" target="guaninkrystaller" />
+    <edge source="fisk" target="cellene" />
+    <edge source="fisk" target="kamuflasjefarger" />
+    <edge source="fisk" target="tang" />
+    <edge source="fisk" target="koraller" />
+    <edge source="fisk" target="kjønnshormoner" />
+    <edge source="fisk" target="fauna" />
+    <edge source="fisk" target="fløyfisk" />
+    <edge source="fisk" target="tropiske" />
+    <edge source="fisk" target="korallrevfisk" />
+    <edge source="fisk" target="lysorganer" />
+    <edge source="fisk" target="kjertler" />
+    <edge source="fisk" target="oksidasjon" />
+    <edge source="fisk" target="symbiotiske" />
+    <edge source="fisk" target="bakterier" />
+    <edge source="fisk" target="ryggstreng" />
+    <edge source="fisk" target="virvler" />
+    <edge source="fisk" target="ventrale" />
+    <edge source="fisk" target="ryggmargen" />
+    <edge source="fisk" target="blodkarene" />
+    <edge source="fisk" target="sidemuskler" />
+    <edge source="fisk" target="elektrisk fisk" />
+    <edge source="fisk" target="muslingskall" />
+    <edge source="fisk" target="fordøyelsen" />
+    <edge source="fisk" target="plankton" />
+    <edge source="fisk" target="gjellebuene" />
+    <edge source="fisk" target="organismer" />
+    <edge source="fisk" target="lagesild" />
+    <edge source="fisk" target="tarmkanalen" />
+    <edge source="fisk" target="magesekk" />
+    <edge source="fisk" target="tarm" />
+    <edge source="fisk" target="plantekost" />
+    <edge source="fisk" target="absorpsjonen" />
+    <edge source="fisk" target="karpefiskene" />
+    <edge source="fisk" target="leveren" />
+    <edge source="fisk" target="stør" />
+    <edge source="fisk" target="slimhinnen" />
+    <edge source="fisk" target="nyrene" />
+    <edge source="fisk" target="urin" />
+    <edge source="fisk" target="nefroner" />
+    <edge source="fisk" target="urinblæren" />
+    <edge source="fisk" target="milten" />
+    <edge source="fisk" target="bukhulen" />
+    <edge source="fisk" target="stoffskiftet" />
+    <edge source="fisk" target="metabolske" />
+    <edge source="fisk" target="gallesalter" />
+    <edge source="fisk" target="fett" />
+    <edge source="fisk" target="glykogen" />
+    <edge source="fisk" target="galleblæren" />
+    <edge source="fisk" target="hjernen" />
+    <edge source="fisk" target="hemisfærer" />
+    <edge source="fisk" target="kraniet" />
+    <edge source="fisk" target="predatorer" />
+    <edge source="fisk" target="molekyler" />
+    <edge source="fisk" target="reseptorer" />
+    <edge source="fisk" target="sensitive" />
+    <edge source="fisk" target="smaksløkene" />
+    <edge source="fisk" target="munnhulen" />
+    <edge source="fisk" target="skjeggtråden" />
+    <edge source="fisk" target="øyne" />
+    <edge source="fisk" target="leire" />
+    <edge source="fisk" target="sedimenter" />
+    <edge source="fisk" target="alger" />
+    <edge source="fisk" target="stereoskopisk" />
+    <edge source="fisk" target="teleskopøyne" />
+    <edge source="fisk" target="fiskelarver" />
+    <edge source="fisk" target="fargesyn" />
+    <edge source="fisk" target="synspigmenter" />
+    <edge source="fisk" target="øregang" />
+    <edge source="fisk" target="mellomøret" />
+    <edge source="fisk" target="øret" />
+    <edge source="fisk" target="blærer" />
+    <edge source="fisk" target="utriculus" />
+    <edge source="fisk" target="lagena" />
+    <edge source="fisk" target="sneglehuset" />
+    <edge source="fisk" target="ørestein" />
+    <edge source="fisk" target="hertz" />
+    <edge source="fisk" target="infralyd" />
+    <edge source="fisk" target="lavfrekvente" />
+    <edge source="fisk" target="karpefamilien" />
+    <edge source="fisk" target="svømmeblæren" />
+    <edge source="fisk" target="vibrasjoner" />
+    <edge source="fisk" target="turbulenser" />
+    <edge source="fisk" target="sidelinjeorganet" />
+    <edge source="fisk" target="oksygen" />
+    <edge source="fisk" target="respiratorisk" />
+    <edge source="fisk" target="gjelleblad" />
+    <edge source="fisk" target="ganoidfisker" />
+    <edge source="fisk" target="lunge" />
+    <edge source="fisk" target="organ" />
+    <edge source="fisk" target="gasskjertel" />
+    <edge source="fisk" target="nitrogen" />
+    <edge source="fisk" target="partialtrykk" />
+    <edge source="fisk" target="hydrostatiske trykket" />
+    <edge source="fisk" target="diffunderer" />
+    <edge source="fisk" target="blodomløp" />
+    <edge source="fisk" target="forkammer" />
+    <edge source="fisk" target="venesystemet" />
+    <edge source="fisk" target="plasma" />
+    <edge source="fisk" target="hvite" />
+    <edge source="fisk" target="blodceller" />
+    <edge source="fisk" target="rundmunnenes" />
+    <edge source="fisk" target="antarktiske" />
+    <edge source="fisk" target="isfisk" />
+    <edge source="fisk" target="kjønnskjertler" />
+    <edge source="fisk" target="særkjønnet" />
+    <edge source="fisk" target="hermafroditter" />
+    <edge source="fisk" target="kjønnsskifte" />
+    <edge source="fisk" target="sild" />
+    <edge source="fisk" target="torsk" />
+    <edge source="fisk" target="kjønnsdimorfi" />
+    <edge source="fisk" target="dyphavsmarulker" />
+    <edge source="fisk" target="overfamilien" />
+    <edge source="fisk" target="vårsildfisket" />
+    <edge source="fisk" target="brisling" />
+    <edge source="fisk" target="yngelpleie" />
+    <edge source="fisk" target="rognkjeks" />
+    <edge source="fisk" target="stiklingfisk" />
+    <edge source="fisk" target="tangnålens" />
+    <edge source="fisk" target="rugepose" />
+    <edge source="fisk" target="sjøhesten" />
+    <edge source="fisk" target="munnrugerne" />
+    <edge source="fisk" target="lofoten" />
+    <edge source="fisk" target="grader celsius" />
+    <edge source="fisk" target="larve" />
+    <edge source="fisk" target="plommesekken" />
+    <edge source="fisk" target="krepsdyr" />
+    <edge source="fisk" target="våroppblomstringen" />
+    <edge source="fisk" target="gjedde" />
+    <edge source="fisk" target="abbor" />
+    <edge source="fisk" target="stingsild" />
+    <edge source="fisk" target="planktonet" />
+    <edge source="fisk" target="pelagiske" />
+    <edge source="fisk" target="skreien" />
+    <edge source="fisk" target="finnmarkskysten" />
+    <edge source="fisk" target="barentshavet" />
+    <edge source="fisk" target="norskehavet" />
+    <edge source="fisk" target="sargassohavet" />
+    <edge source="fisk" target="fossile fiskearter" />
+    <edge source="fisk" target="familier" />
+    <edge source="fisk" target="taksonomiske" />
+    <edge source="fisk" target="rundmunner" />
+    <edge source="fisk" target="panserhaier" />
+    <edge source="fisk" target="taggpanserhaier" />
+    <edge source="fisk" target="devonperioden" />
+    <edge source="fisk" target="perm" />
+    <edge source="fisk" target="haier og skater" />
+    <edge source="fisk" target="strålefinnefisk" />
+    <edge source="fisk" target="lungefisk" />
+    <edge source="fisk" target="svalbard" />
+    <edge source="fisk" target="kontinentalskråningen" />
+    <edge source="fisk" target="ferskvannsfisk" />
+    <edge source="fisk" target="fiskeri" />
+    <edge source="fisk" target="fiskeoppdrett" />
+    <edge source="fisk" target="ferskvannsfisker i norge" />
+    <edge source="fisk" target="finner(fisk)" />
+    <edge source="fisk" target="ferskvannsfiskerinorge" />
+    <edge source="fisk" target="saltvannsfisk" />
+    <edge source="fisk" target="anadrom" />
+    <edge source="fisk" target="befruktninghosdyr" />
+    <edge source="nord-afrika" target="ål" />
+    <edge source="sørv" target="ferskvannsfiskerinorge" />
+    <edge source="raser" target="art(biologi)" />
+    <edge source="vassdragsreguleringer" target="laks" />
+    <edge source="vassdragene" target="ferskvannsfiskerinorge" />
+    <edge source="vassdragene" target="ål" />
+    <edge source="labrador" target="laks" />
+    <edge source="labrador" target="ål" />
+    <edge source="haredyr" target="pattedyr" />
+    <edge source="refugier" target="ferskvannsfiskerinorge" />
+    <edge source="hvithai" target="haier" />
+    <edge source="kjønn" target="isogami" />
+    <edge source="kjønn" target="anisogami" />
+    <edge source="kjønn" target="kjønnsceller" />
+    <edge source="kjønn" target="sædceller" />
+    <edge source="kjønn" target="arveanlegg" />
+    <edge source="kjønn" target="kromosomal kjønnsbestemmelse" />
+    <edge source="kjønn" target="kjønnskromosom" />
+    <edge source="kjønn" target="kromosomer" />
+    <edge source="kjønn" target="testikler" />
+    <edge source="kjønn" target="testosteron" />
+    <edge source="kjønn" target="eggleder" />
+    <edge source="kjønn" target="marine" />
+    <edge source="kjønn" target="larver" />
+    <edge source="kjønn" target="kjønnsproporsjon" />
+    <edge source="kjønn" target="bakterier" />
+    <edge source="kjønn" target="funksjon" />
+    <edge source="kjønn" target="protoktistene" />
+    <edge source="kjønn" target="immobil" />
+    <edge source="kjønn" target="konjugasjon" />
+    <edge source="kjønn" target="grønnalger" />
+    <edge source="kjønn" target="infusjonsdyr" />
+    <edge source="kjønn" target="alger" />
+    <edge source="kjønn" target="livssyklus" />
+    <edge source="kjønn" target="diatomeer" />
+    <edge source="kjønn" target="phaeocystis" />
+    <edge source="kjønn" target="kjønnsorganer" />
+    <edge source="kjønn" target="hermafrodittisme" />
+    <edge source="kjønn" target="kjønnshormoner" />
+    <edge source="kjønn" target="differensiering" />
+    <edge source="kjønn" target="kjønnsdimorfisme" />
+    <edge source="kjønn" target="yngelpleie" />
+    <edge source="kjønn" target="forutsetning" />
+    <edge source="kjønn" target="fysisk" />
+    <edge source="kjønn" target="psykisk" />
+    <edge source="kjønn" target="flørt" />
+    <edge source="kjønn" target="engasjement" />
+    <edge source="kjønn" target="rotskudd" />
+    <edge source="kjønn" target="befruktning" />
+    <edge source="kjønn" target="formering – biologi" />
+    <edge source="kjønn" target="partenogenese" />
+    <edge source="spene" target="pattedyr" />
+    <edge source="ketalaks" target="ferskvannsfiskerinorge" />
+    <edge source="reprodusere" target="ferskvannsfiskerinorge" />
+    <edge source="sjøørret" target="katadrom" />
+    <edge source="brusk" target="finner(fisk)" />
+    <edge source="brusk" target="bruskfisker" />
+    <edge source="svalbard" target="ferskvannsfiskerinorge" />
+    <edge source="svalbard" target="laks" />
+    <edge source="ålefiske" target="ål" />
+    <edge source="vulkanutbrudd" target="klimaendringer" />
+    <edge source="selektert" target="laks" />
+    <edge source="eggcellen" target="egg(zoologi)" />
+    <edge source="kenguru" target="pattedyr" />
+    <edge source="ål" target="ferskvannsfiskerinorge" />
+    <edge source="ål" target="saltvannsfisk" />
+    <edge source="ål" target="katadrom" />
+    <edge source="ål" target="fiskeart" />
+    <edge source="ål" target="ålfamilien" />
+    <edge source="ål" target="hale" />
+    <edge source="ål" target="skjell" />
+    <edge source="ål" target="rødliste" />
+    <edge source="ål" target="hav" />
+    <edge source="ål" target="ferskvann" />
+    <edge source="ål" target="middelhavslandene" />
+    <edge source="ål" target="kvitsjøen" />
+    <edge source="ål" target="innsjøer" />
+    <edge source="ål" target="glassål" />
+    <edge source="ål" target="ålefaring" />
+    <edge source="ål" target="elver" />
+    <edge source="ål" target="fosser" />
+    <edge source="ål" target="høstflommen" />
+    <edge source="ål" target="gyte" />
+    <edge source="ål" target="ernst johannes schmidt" />
+    <edge source="ål" target="sargassohavet" />
+    <edge source="ål" target="michael sars" />
+    <edge source="ål" target="atlanterhavet" />
+    <edge source="ål" target="leptocefaler" />
+    <edge source="ål" target="europas" />
+    <edge source="ål" target="norge" />
+    <edge source="ål" target="amerika" />
+    <edge source="ål" target="mexicogolfen" />
+    <edge source="ål" target="visuelt" />
+    <edge source="ål" target="genetiske" />
+    <edge source="ål" target="island" />
+    <edge source="ål" target="fiskesykdommer" />
+    <edge source="fossile" target="trepiggetstingsild" />
+    <edge source="plankton" target="trepiggetstingsild" />
+    <edge source="kulverter" target="anadrom" />
+    <edge source="kulverter" target="katadrom" />
+    <edge source="økosystemene" target="klimaendringer" />
+    <edge source="cytoplasma" target="befruktninghosdyr" />
+    <edge source="eggfuring" target="egg(zoologi)" />
+    <edge source="gråhaier" target="haier" />
+    <edge source="hovdyr" target="pattedyr" />
+    <edge source="sik" target="ferskvannsfiskerinorge" />
+    <edge source="sik" target="anadrom" />
+    <edge source="rotte" target="skjell(huddannelse)" />
+    <edge source="slimkjertler" target="slimål" />
+    <edge source="havvann" target="brakkvann" />
+    <edge source="permafrost" target="klimaendringer" />
+    <edge source="varmblodige dyr" target="vekselvarmedyr" />
+    <edge source="bruskstykker" target="slimål" />
+    <edge source="frosk" target="egg(zoologi)" />
+    <edge source="les om klimaendringer gjennom jordens historie" target="klimaendringer" />
+    <edge source="slimål" target="kjeveløs fisk" />
+    <edge source="slimål" target="slimåler" />
+    <edge source="slimål" target="virveldyrene" />
+    <edge source="slimål" target="ryggraden" />
+    <edge source="slimål" target="kjever" />
+    <edge source="slimål" target="øyne" />
+    <edge source="slimål" target="hermafroditt" />
+    <edge source="slimål" target="atlanterhavet" />
+    <edge source="slimål" target="nrk" />
+    <edge source="slimål" target="nitimen" />
+    <edge source="slimål" target="torsken" />
+    <edge source="slimål" target="rundmunner" />
+    <edge source="slimål" target="virveldyr" />
+    <edge source="zygote" target="egg(zoologi)" />
+    <edge source="artene" target="haier" />
+    <edge source="invertebrater" target="trepiggetstingsild" />
+    <edge source="altetere" target="pattedyr" />
+    <edge source="stigbøylen" target="pattedyr" />
+    <edge source="laue" target="ferskvannsfiskerinorge" />
+    <edge source="seksuell seleksjon" target="pattedyr" />
+    <edge source="bjørn" target="pattedyr" />
+    <edge source="skater" target="bruskfisker" />
+    <edge source="skater" target="bruskfisk" />
+    <edge source="skater" target="ekte skater" />
+    <edge source="skater" target="rhinopristiformes" />
+    <edge source="skater" target="pigment" />
+    <edge source="skater" target="brystfinnenes" />
+    <edge source="skater" target="hudtenner" />
+    <edge source="skater" target="overhudens" />
+    <edge source="skater" target="tennene" />
+    <edge source="skater" target="emalje" />
+    <edge source="skater" target="ryggfinne" />
+    <edge source="skater" target="halefinne" />
+    <edge source="skater" target="brystfinnene" />
+    <edge source="skater" target="brakkvann" />
+    <edge source="skater" target="elektrisk fisk" />
+    <edge source="skater" target="elektriske skater" />
+    <edge source="skater" target="befruktning" />
+    <edge source="skater" target="bukfinnene" />
+    <edge source="skater" target="egg" />
+    <edge source="skater" target="horn" />
+    <edge source="skater" target="myliobatiformes" />
+    <edge source="skater" target="rajiformes" />
+    <edge source="bjørnøya" target="ferskvannsfiskerinorge" />
+    <edge source="vänerlaks" target="laks" />
+    <edge source="organisme" target="slektskap-biologi" />
+    <edge source="skjelett" target="skjell(huddannelse)" />
+    <edge source="skjelett" target="bruskfisker" />
+    <edge source="gjedde" target="ferskvannsfiskerinorge" />
+    <edge source="gjedde" target="anadrom" />
+    <edge source="overhuden" target="skjell(huddannelse)" />
+    <edge source="gruvedrift" target="laks" />
+    <edge source="muslinger" target="haier" />
+    <edge source="island" target="laks" />
+    <edge source="numedalslågen" target="anadrom" />
+    <edge source="masse" target="klimaendringer" />
+    <edge source="midt-norge" target="laks" />
+    <edge source="hinner" target="egg(zoologi)" />
+    <edge source="trommehinnen" target="pattedyr" />
+    <edge source="grus" target="laks" />
+    <edge source="atmosfære" target="klimaendringer" />
+    <edge source="olje" target="klimaendringer" />
+    <edge source="sur nedbør" target="laks" />
+    <edge source="biologiske mangfoldet" target="klimaendringer" />
+    <edge source="eøs" target="ferskvann" />
+    <edge source="jacobsons organ" target="pattedyr" />
+    <edge source="fugler" target="egg(zoologi)" />
+    <edge source="mort" target="ferskvannsfiskerinorge" />
+    <edge source="mort" target="anadrom" />
+    <edge source="latinske navn" target="art(biologi)" />
+    <edge source="carl von linné" target="art(biologi)" />
+    <edge source="hval" target="finner(fisk)" />
+    <edge source="laksefisker" target="ferskvannsfiskerinorge" />
+    <edge source="fiskeøgler" target="finner(fisk)" />
+    <edge source="malaria" target="klimaendringer" />
+    <edge source="fiskeart" target="katadrom" />
+    <edge source="fiskeart" target="trepiggetstingsild" />
+    <edge source="global oppvarming" target="klimaendringer" />
+    <edge source="skall." target="egg(zoologi)" />
+    <edge source="nederland" target="klimaendringer" />
+    <edge source="klimadebatten – faglige spørsmål" target="klimaendringer" />
+    <edge source="hork" target="ferskvannsfiskerinorge" />
+    <edge source="hierarkiske klassifikasjonssystemet" target="art(biologi)" />
+    <edge source="slektskap som sosialt fenomen" target="slektskap-biologi" />
+    <edge source="kuldetolerante" target="ferskvannsfiskerinorge" />
+    <edge source="bekkerøye" target="ferskvannsfiskerinorge" />
+    <edge source="horn" target="finner(fisk)" />
+    <edge source="saltholdighet" target="brakkvann" />
+    <edge source="stam" target="ferskvannsfiskerinorge" />
+    <edge source="klimaendringer gjennom jordens historie" target="klimaendringer" />
+    <edge source="mikropylen" target="befruktninghosdyr" />
+    <edge source="gyting" target="anadrom" />
+    <edge source="zygoten" target="befruktninghosdyr" />
+    <edge source="zygoten" target="egg(zoologi)" />
+    <edge source="sæd" target="melke" />
+    <edge source="lakselus" target="laks" />
+    <edge source="spermie" target="befruktninghosdyr" />
+    <edge source="gepard" target="pattedyr" />
+    <edge source="nidelva" target="laks" />
+    <edge source="haleamfibier" target="finner(fisk)" />
+    <edge source="ørekyt" target="ferskvannsfiskerinorge" />
+    <edge source="laks" target="ferskvannsfiskerinorge" />
+    <edge source="laks" target="anadrom" />
+    <edge source="laks" target="laksefamilien" />
+    <edge source="laks" target="havet" />
+    <edge source="laks" target="gyte" />
+    <edge source="laks" target="sportsfisk" />
+    <edge source="laks" target="oppdrettsnæringen" />
+    <edge source="laks" target="sjøørreten" />
+    <edge source="laks" target="halefinnen" />
+    <edge source="laks" target="parrstadiet" />
+    <edge source="laks" target="smolt" />
+    <edge source="laks" target="blanklaks" />
+    <edge source="laks" target="stein" />
+    <edge source="laks" target="eggene" />
+    <edge source="laks" target="yngelen" />
+    <edge source="laks" target="plommesekken" />
+    <edge source="laks" target="territorier" />
+    <edge source="laks" target="smoltifisering" />
+    <edge source="laks" target="blegen" />
+    <edge source="laks" target="trysilelva" />
+    <edge source="laks" target="dammer" />
+    <edge source="laks" target="atlanterhav" />
+    <edge source="laks" target="portugal" />
+    <edge source="laks" target="storbritannia" />
+    <edge source="laks" target="irland" />
+    <edge source="laks" target="grønland" />
+    <edge source="laks" target="new york" />
+    <edge source="laks" target="stillehavet" />
+    <edge source="laks" target="færøyene" />
+    <edge source="laks" target="norskehavet" />
+    <edge source="laks" target="trøndelag" />
+    <edge source="laks" target="nord-norge" />
+    <edge source="laks" target="russland" />
+    <edge source="laks" target="barentshavet" />
+    <edge source="laks" target="vestlandet" />
+    <edge source="laks" target="hudparasitten" />
+    <edge source="laks" target="sørlandet" />
+    <edge source="laks" target="kalking" />
+    <edge source="laks" target="villaks" />
+    <edge source="laks" target="avl" />
+    <edge source="laks" target="oppdrett" />
+    <edge source="laks" target="settefiskanlegg" />
+    <edge source="laks" target="merder" />
+    <edge source="laks" target="fiskeoppdrett" />
+    <edge source="laks" target="laksefiske" />
+    <edge source="laks" target="katadrom" />
+    <edge source="melke" target="spermier" />
+    <edge source="melke" target="strålefinnefisk" />
+    <edge source="melke" target="befruktning" />
+    <edge source="melke" target="ørret" />
+    <edge source="melke" target="sild" />
+    <edge source="melke" target="uer" />
+    <edge source="volum" target="klimaendringer" />
+    <edge source="follikkelceller" target="befruktninghosdyr" />
+    <edge source="leik" target="pattedyr" />
+    <edge source="alaska" target="klimaendringer" />
+    <edge source="temperaturen" target="ferskvannsfiskerinorge" />
+    <edge source="blinkhinne" target="pattedyr" />
+    <edge source="celledeling" target="slektskap-biologi" />
+    <edge source="livet" target="klimaendringer" />
+    <edge source="pansergjedder" target="skjell(huddannelse)" />
+    <edge source="konvektiv nedbør" target="klimaendringer" />
+    <edge source="golfstrømmen" target="klimaendringer" />
+    <edge source="flaggermus" target="pattedyr" />
+    <edge source="krypdyr" target="pattedyr" />
+    <edge source="krypdyr" target="befruktninghosdyr" />
+    <edge source="krypdyr" target="egg(zoologi)" />
+    <edge source="koralldyr" target="befruktninghosdyr" />
+    <edge source="hav" target="klimaendringer" />
+    <edge source="hav" target="ferskvann" />
+    <edge source="hav" target="brakkvann" />
+    <edge source="regnbueørret" target="ferskvannsfiskerinorge" />
+    <edge source="urinblæra" target="pattedyr" />
+    <edge source="les om klimaperioder i norden" target="klimaendringer" />
+    <edge source="ferskvann" target="saltvannsfisk" />
+    <edge source="ferskvann" target="vann" />
+    <edge source="ferskvann" target="natriumklorid" />
+    <edge source="ferskvann" target="salinitet" />
+    <edge source="ferskvann" target="vannverk" />
+    <edge source="ferskvann" target="innsjøer" />
+    <edge source="ferskvann" target="innsjø" />
+    <edge source="ferskvann" target="vannressurser" />
+    <edge source="ferskvann" target="brakkvann" />
+    <edge source="ferskvann" target="anadrom" />
+    <edge source="ferskvann" target="katadrom" />
+    <edge source="ferskvann" target="trepiggetstingsild" />
+    <edge source="saltholdigheten" target="brakkvann" />
+    <edge source="yngelpleie" target="befruktninghosdyr" />
+    <edge source="hammeren" target="pattedyr" />
+    <edge source="populasjonene" target="trepiggetstingsild" />
+    <edge source="tilbakekobling" target="klimaendringer" />
+    <edge source="passatvindene" target="klimaendringer" />
+    <edge source="vänern" target="ferskvannsfiskerinorge" />
+    <edge source="osmotisk" target="haier" />
+    <edge source="blindtarmen" target="pattedyr" />
+    <edge source="lagesild" target="ferskvannsfiskerinorge" />
+    <edge source="sild" target="skjell(huddannelse)" />
+    <edge source="orden" target="pattedyr" />
+    <edge source="trepigget stingsild" target="ferskvannsfiskerinorge" />
+    <edge source="trepigget stingsild" target="katadrom" />
+    <edge source="vingesnegler" target="finner(fisk)" />
+    <edge source="helhoder" target="bruskfisker" />
+    <edge source="klimaendringer" target="gjennomsnitt" />
+    <edge source="klimaendringer" target="globale middeltemperaturen" />
+    <edge source="klimaendringer" target="drivhusgasser" />
+    <edge source="klimaendringer" target="statistiske" />
+    <edge source="klimaendringer" target="co 2" />
+    <edge source="klimaendringer" target="filippinene" />
+    <edge source="klimaendringer" target="jordens" />
+    <edge source="klimaendringer" target="fotosyntesen" />
+    <edge source="klimaendringer" target="åndedrettsprosessen" />
+    <edge source="klimaendringer" target="den industrielle revolusjon" />
+    <edge source="klimaendringer" target="fossile brenslene" />
+    <edge source="klimaendringer" target="jordskorpen" />
+    <edge source="klimaendringer" target="kull" />
+    <edge source="klimaendringer" target="ultrafiolett stråling" />
+    <edge source="klimaendringer" target="myrområder" />
+    <edge source="klimaendringer" target="landheving" />
+    <edge source="klimaendringer" target="sirkulasjon" />
+    <edge source="klimaendringer" target="mexicogolfen" />
+    <edge source="klimaendringer" target="atlanterhavet" />
+    <edge source="klimaendringer" target="planter" />
+    <edge source="klimaendringer" target="dyr" />
+    <edge source="klimaendringer" target="biologisk mangfold" />
+    <edge source="klimaendringer" target="bangladesh" />
+    <edge source="klimaendringer" target="korallrev-øyer" />
+    <edge source="klimaendringer" target="stillehavet" />
+    <edge source="klimaendringer" target="maldivene" />
+    <edge source="klimaendringer" target="ørkenene" />
+    <edge source="klimaendringer" target="jordbruk" />
+    <edge source="klimaendringer" target="infeksjonssykdommer" />
+    <edge source="klimaendringer" target="klimaperioder i norden" />
+    <edge source="klimaendringer" target="klimaendringer i arktis" />
+    <edge source="klimaendringer" target="klimapolitikk" />
+    <edge source="muskler" target="pattedyr" />
+    <edge source="orectolobiformes" target="haier" />
+    <edge source="rumpetroll" target="finner(fisk)" />
+    <edge source="– samfunnsvitenskap" target="slektskap-biologi" />
+    <edge source="ormer" target="befruktninghosdyr" />
+    <edge source="de strålefinnede fiskene" target="bruskfisker" />
+    <edge source="diploid" target="slektskap-biologi" />
+    <edge source="bruskfisk" target="haier" />
+    <edge source="rundmunner" target="skjell(huddannelse)" />
+    <edge source="strålefinnede fisker" target="finner(fisk)" />
+    <edge source="drektighetstiden" target="bruskfisker" />
+    <edge source="havet" target="anadrom" />
+    <edge source="havet" target="trepiggetstingsild" />
+    <edge source="nakenrotter" target="pattedyr" />
+    <edge source="stingsildfamilien" target="trepiggetstingsild" />
+    <edge source="benfiskenes" target="skjell(huddannelse)" />
+    <edge source="drammenselva" target="anadrom" />
+    <edge source="spermen" target="bruskfisker" />
+    <edge source="hinne" target="befruktninghosdyr" />
+    <edge source="slekten" target="art(biologi)" />
+    <edge source="stillehavslaks" target="anadrom" />
+    <edge source="dyreplankton" target="haier" />
+    <edge source="katadrome" target="saltvannsfisk" />
+    <edge source="katadrome" target="anadrom" />
+    <edge source="brasme" target="ferskvannsfiskerinorge" />
+    <edge source="svamper" target="befruktninghosdyr" />
+    <edge source="ammoniakk" target="haier" />
+    <edge source="glomma" target="ferskvannsfiskerinorge" />
+    <edge source="glomma" target="anadrom" />
+    <edge source="stingsild" target="anadrom" />
+    <edge source="stingsild" target="trepiggetstingsild" />
+    <edge source="følesansen" target="pattedyr" />
+    <edge source="stillehavet" target="anadrom" />
+    <edge source="pigghuder" target="befruktninghosdyr" />
+    <edge source="siste istid" target="ferskvannsfiskerinorge" />
+    <edge source="klasse" target="pattedyr" />
+    <edge source="monogami" target="pattedyr" />
+    <edge source="sommerfuglenes" target="skjell(huddannelse)" />
+    <edge source="sener" target="pattedyr" />
+    <edge source="mennesket" target="pattedyr" />
+    <edge source="mennesket" target="art(biologi)" />
+    <edge source="hud" target="skjell(huddannelse)" />
+    <edge source="pattedyrenes evolusjon" target="pattedyr" />
+    <edge source="ektoterme dyr." target="vekselvarmedyr" />
+    <edge source="gyter" target="ferskvannsfiskerinorge" />
+    <edge source="gyter" target="saltvannsfisk" />
+    <edge source="gyter" target="katadrom" />
+    <edge source="vindeltrapp" target="haier" />
+    <edge source="morfologisk" target="art(biologi)" />
+    <edge source="finnmarksvidda" target="ferskvannsfiskerinorge" />
+    <edge source="sandkryper" target="ferskvannsfiskerinorge" />
+    <edge source="ryggfinne" target="finner(fisk)" />
+    <edge source="naturlig utvalg" target="art(biologi)" />
+    <edge source="naturlig utvalg" target="trepiggetstingsild" />
+    <edge source="havengler" target="haier" />
+    <edge source="sosiale insekter" target="slektskap-biologi" />
+    <edge source="elver" target="brakkvann" />
+    <edge source="røye" target="ferskvannsfiskerinorge" />
+    <edge source="røye" target="anadrom" />
+    <edge source="skrubbe" target="ferskvannsfiskerinorge" />
+    <edge source="skrubbe" target="saltvannsfisk" />
+    <edge source="livssyklusen" target="egg(zoologi)" />
+    <edge source="pattedyr i norge" target="pattedyr" />
+    <edge source="kjernedeling" target="befruktninghosdyr" />
+    <edge source="systematikk" target="slektskap-biologi" />
+    <edge source="karpefiskene" target="ferskvannsfiskerinorge" />
+    <edge source="knølhval" target="pattedyr" />
+    <edge source="sprøytehull" target="bruskfisker" />
+    <edge source="valentin vilhelm hartvig huitfeldt-kaas" target="ferskvannsfiskerinorge" />
+    <edge source="variasjonen" target="art(biologi)" />
+    <edge source="nord-amerika" target="trepiggetstingsild" />
+    <edge source="virvelløse dyr" target="finner(fisk)" />
+    <edge source="virvelløse dyr" target="skjell(huddannelse)" />
+    <edge source="hjerne" target="pattedyr" />
+    <edge source="brystfinnene" target="finner(fisk)" />
+    <edge source="seks- og sjugjellede haier" target="haier" />
+    <edge source="evolusjonære" target="finner(fisk)" />
+    <edge source="bekkeniøye" target="ferskvannsfiskerinorge" />
+    <edge source="europa" target="ferskvannsfiskerinorge" />
+    <edge source="europa" target="trepiggetstingsild" />
+    <edge source="alveoler" target="pattedyr" />
+    <edge source="sjimpanse" target="pattedyr" />
+    <edge source="sjimpanse" target="art(biologi)" />
+    <edge source="befruktning hos planter" target="befruktninghosdyr" />
+    <edge source="biologisk systematikk" target="art(biologi)" />
+    <edge source="ganges" target="haier" />
+    <edge source="genetisk" target="art(biologi)" />
+    <edge source="torpedoformede" target="haier" />
+    <edge source="underarter" target="art(biologi)" />
+    <edge source="befruktning" target="befruktninghosdyr" />
+    <edge source="befruktning" target="egg(zoologi)" />
+    <edge source="befruktning" target="bruskfisker" />
+    <edge source="fertile" target="art(biologi)" />
+    <edge source="klasser" target="art(biologi)" />
+    <edge source="brugde" target="haier" />
+    <edge source="skilpadder" target="skjell(huddannelse)" />
+    <edge source="blodkretsløpet" target="pattedyr" />
+    <edge source="elveniøye" target="ferskvannsfiskerinorge" />
+    <edge source="differensiert" target="pattedyr" />
+    <edge source="formering" target="art(biologi)" />
+    <edge source="formering" target="slektskap-biologi" />
+    <edge source="formering" target="egg(zoologi)" />
+    <edge source="gibbon" target="pattedyr" />
+    <edge source="evolusjonsbiologi" target="trepiggetstingsild" />
+    <edge source="håbranner" target="haier" />
+    <edge source="vannskillet" target="ferskvannsfiskerinorge" />
+    <edge source="organismer" target="art(biologi)" />
+    <edge source="dyreriket" target="art(biologi)" />
+    <edge source="dyr" target="pattedyr" />
+    <edge source="dyr" target="skjell(huddannelse)" />
+    <edge source="dyr" target="egg(zoologi)" />
+    <edge source="pasvik" target="ferskvannsfiskerinorge" />
+    <edge source="eggstokk" target="egg(zoologi)" />
+    <edge source="celledelingsapparat" target="befruktninghosdyr" />
+    <edge source="sewall wright" target="slektskap-biologi" />
+    <edge source="bukfinnene" target="finner(fisk)" />
+    <edge source="bukfinnene" target="bruskfisker" />
+    <edge source="bukfinnene" target="haier" />
+    <edge source="evolusjon" target="art(biologi)" />
+    <edge source="evolusjon" target="trepiggetstingsild" />
+    <edge source="værhår" target="pattedyr" />
+    <edge source="pungdyr" target="pattedyr" />
+    <edge source="fylogeni" target="slektskap-biologi" />
+    <edge source="genetikk" target="slektskap-biologi" />
+    <edge source="modellorganismer" target="trepiggetstingsild" />
+    <edge source="hvitfinnet steinulke" target="ferskvannsfiskerinorge" />
+    <edge source="regnlaue" target="ferskvannsfiskerinorge" />
+    <edge source="anadrom" target="ferskvannsfisk" />
+    <edge source="anadrom" target="ørret" />
+    <edge source="anadrom" target="brakkvann" />
+    <edge source="anadrom" target="abbor" />
+    <edge source="anadrom" target="finland" />
+    <edge source="anadrom" target="laksetrappene" />
+    <edge source="anadrom" target="katadrom" />
+    <edge source="anadrom" target="trepiggetstingsild" />
+    <edge source="rovdyr" target="pattedyr" />
+    <edge source="rødbete" target="art(biologi)" />
+    <edge source="maneter" target="befruktninghosdyr" />
+    <edge source="gameten" target="egg(zoologi)" />
+    <edge source="urea" target="haier" />
+    <edge source="kutikulardannelser" target="skjell(huddannelse)" />
+    <edge source="ullhår" target="pattedyr" />
+    <edge source="sneglehuset" target="pattedyr" />
+    <edge source="asp" target="ferskvannsfiskerinorge" />
+    <edge source="celledelinger" target="egg(zoologi)" />
+    <edge source="ferskvannsfisk" target="ferskvannsfiskerinorge" />
+    <edge source="ferskvannsfisk" target="saltvannsfisk" />
+    <edge source="ferskvannsfiske" target="ferskvannsfiskerinorge" />
+    <edge source="befruktning hos dyr" target="egg(zoologi)" />
+    <edge source="ferskvann," target="ferskvannsfiskerinorge" />
+    <edge source="steinsmett" target="ferskvannsfiskerinorge" />
+    <edge source="sperm" target="egg(zoologi)" />
+    <edge source="sperm" target="haier" />
+    <edge source="lymfesystemet" target="pattedyr" />
+    <edge source="befruktes" target="egg(zoologi)" />
+    <edge source="sædcellen" target="egg(zoologi)" />
+    <edge source="klauvdyr" target="pattedyr" />
+    <edge source="partenogenese" target="befruktninghosdyr" />
+    <edge source="partenogenese" target="egg(zoologi)" />
+    <edge source="virveldyr" target="finner(fisk)" />
+    <edge source="virveldyr" target="slektskap-biologi" />
+    <edge source="virveldyr" target="bruskfisker" />
+    <edge source="haier" target="bruskfisker" />
+    <edge source="haier" target="skatene" />
+    <edge source="haier" target="hvalhai" />
+    <edge source="haier" target="ordener" />
+    <edge source="haier" target="bruskfiskene" />
+    <edge source="haier" target="hudtennene" />
+    <edge source="haier" target="emalje" />
+    <edge source="haier" target="rødhai" />
+    <edge source="haier" target="zambezi" />
+    <edge source="haier" target="tigris" />
+    <edge source="haier" target="håer" />
+    <edge source="haier" target="oksehodehaier" />
+    <edge source="haier" target="fossile haier" />
+    <edge source="solabbor" target="ferskvannsfiskerinorge" />
+    <edge source="skall" target="befruktninghosdyr" />
+    <edge source="niøyer" target="ferskvannsfiskerinorge" />
+    <edge source="kjønnscellen" target="egg(zoologi)" />
+    <edge source="fisker" target="finner(fisk)" />
+    <edge source="fisker" target="ferskvannsfiskerinorge" />
+    <edge source="fisker" target="bruskfisker" />
+    <edge source="ørret" target="ferskvannsfiskerinorge" />
+    <edge source="forbenet" target="pattedyr" />
+    <edge source="suter" target="ferskvannsfiskerinorge" />
+    <edge source="habitater" target="pattedyr" />
+    <edge source="genene" target="art(biologi)" />
+    <edge source="russland" target="ferskvannsfiskerinorge" />
+    <edge source="sjødyr" target="egg(zoologi)" />
+    <edge source="istid" target="trepiggetstingsild" />
+    <edge source="dekkhår" target="pattedyr" />
+    <edge source="nebbdyr" target="pattedyr" />
+    <edge source="kitinhår" target="skjell(huddannelse)" />
+    <edge source="plastisitet" target="trepiggetstingsild" />
+    <edge source="bladlus" target="egg(zoologi)" />
+    <edge source="pattedyr" target="ekorn" />
+    <edge source="pattedyr" target="rekke" />
+    <edge source="pattedyr" target="underrekke" />
+    <edge source="pattedyr" target="maurpiggsvin" />
+    <edge source="pattedyr" target="planteetere" />
+    <edge source="pattedyr" target="gnagere" />
+    <edge source="pattedyr" target="svettekjertler" />
+    <edge source="pattedyr" target="ambolten" />
+    <edge source="pattedyr" target="nyrer" />
+    <edge source="pattedyr" target="gnu" />
+    <edge source="pattedyr" target="ulv" />
+    <edge source="pattedyr" target="havert" />
+    <edge source="pattedyr" target="skjell(huddannelse)" />
+    <edge source="pattedyr" target="befruktninghosdyr" />
+    <edge source="dvergmalle" target="ferskvannsfiskerinorge" />
+    <edge source="vestlandet" target="ferskvannsfiskerinorge" />
+    <edge source="riker" target="art(biologi)" />
+    <edge source="østersjøen" target="ferskvannsfiskerinorge" />
+    <edge source="østersjøen" target="trepiggetstingsild" />
+    <edge source="østersjøen" target="brakkvann" />
+    <edge source="kraftproduksjon" target="ferskvannsfiskerinorge" />
+    <edge source="overhud" target="skjell(huddannelse)" />
+    <edge source="nord-norge" target="ferskvannsfiskerinorge" />
+    <edge source="biologien" target="slektskap-biologi" />
+    <edge source="slåpetorn" target="art(biologi)" />
+    <edge source="spermatozo" target="befruktninghosdyr" />
+    <edge source="skjelettet" target="finner(fisk)" />
+    <edge source="skjelettet" target="bruskfisker" />
+    <edge source="abbor" target="ferskvannsfiskerinorge" />
+    <edge source="fuglenes" target="skjell(huddannelse)" />
+    <edge source="hegg" target="art(biologi)" />
+    <edge source="beltedyr" target="skjell(huddannelse)" />
+    <edge source="bløtdyr" target="befruktninghosdyr" />
+    <edge source="uer" target="skjell(huddannelse)" />
+    <edge source="fødes" target="egg(zoologi)" />
+    <edge source="krepsdyr" target="befruktninghosdyr" />
+    <edge source="gullfisk" target="ferskvannsfiskerinorge" />
+    <edge source="promille" target="brakkvann" />
+    <edge source="systematikk i biologien" target="art(biologi)" />
+    <edge source="ordener" target="art(biologi)" />
+    <edge source="ordener" target="slektskap-biologi" />
+    <edge source="gullbust" target="ferskvannsfiskerinorge" />
+    <edge source="skrubbeflyndre" target="katadrom" />
+    <edge source="generasjoner" target="slektskap-biologi" />
+    <edge source="halefinne" target="finner(fisk)" />
+    <edge source="kanadarøye" target="ferskvannsfiskerinorge" />
+    <edge source="miljø-dna" target="katadrom" />
+    <edge source="dambygging" target="ferskvannsfiskerinorge" />
+    <edge source="blekkspruter" target="finner(fisk)" />
+    <edge source="evolusjonen" target="art(biologi)" />
+    <edge source="slektskap" target="slektskap-biologi" />
+    <edge source="yngelstadium" target="ferskvannsfiskerinorge" />
+    <edge source="dna" target="katadrom" />
+    <edge source="artsdannelse" target="art(biologi)" />
+    <edge source="isbreer" target="brakkvann" />
+    <edge source="bier" target="slektskap-biologi" />
+    <edge source="bier" target="egg(zoologi)" />
+    <edge source="østfold" target="ferskvannsfiskerinorge" />
+    <edge source="haploid" target="slektskap-biologi" />
+    <edge source="gjørs" target="ferskvannsfiskerinorge" />
+    <edge source="hardy-weinbergs lov" target="trepiggetstingsild" />
+    <edge source="bruskfisker" target="finner(fisk)" />
+    <edge source="bruskfisker" target="skjell(huddannelse)" />
+    <edge source="bruskfisker" target="kalsiumkarbonat" />
+    <edge source="bruskfisker" target="sandpapir" />
+    <edge source="bruskfisker" target="skjell" />
+    <edge source="karuss" target="ferskvannsfiskerinorge" />
+    <edge source="kunstig sædoverføring" target="befruktninghosdyr" />
+    <edge source="karpe" target="ferskvannsfiskerinorge" />
+    <edge source="flire" target="ferskvannsfiskerinorge" />
+    <edge source="lake" target="ferskvannsfiskerinorge" />
+    <edge source="familier" target="art(biologi)" />
+    <edge source="familier" target="slektskap-biologi" />
+    <edge source="tilpasninger" target="trepiggetstingsild" />
+    <edge source="ekstremiteter" target="finner(fisk)" />
+    <edge source="fugl" target="befruktninghosdyr" />
+    <edge source="sjøkuer" target="finner(fisk)" />
+    <edge source="pukkellaks" target="ferskvannsfiskerinorge" />
+    <edge source="brakkvann" target="ferskvannsfiskerinorge" />
+    <edge source="brakkvann" target="trepiggetstingsild" />
+    <edge source="krøkle" target="ferskvannsfiskerinorge" />
+    <edge source="genetiske" target="ferskvannsfiskerinorge" />
+    <edge source="kalsium" target="trepiggetstingsild" />
+    <edge source="vinger" target="skjell(huddannelse)" />
+  </graph>
+</graphml>

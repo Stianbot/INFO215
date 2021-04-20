@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
 
 # Lister med lenker fra snl.no som skal være utgangspunkt for nettverket.
 countries = ["https://snl.no/Norge", "https://snl.no/Sverige", "https://snl.no/Danmark"]
-parties = ["https://snl.no/Arbeiderpartiet", "https://snl.no/Senterpartiet", "https://snl.no/H%C3%B8yre",]
+parties = ["https://snl.no/Arbeiderpartiet", "https://snl.no/Senterpartiet", "https://snl.no/H%C3%B8yre"]
+fisk = ["https://snl.no/fisk", ]
 
 all_nodes = []  # Global variabel for samling av alle noder.
 all_edges = []  # Global variabel for samling av alle edger.
@@ -85,4 +86,4 @@ def program(list_of_urls, name, limit):
     plt.show()
 
 
-program(countries, "norge_danmark_sverige", 5)
+program(fisk, "fisk", 30)
